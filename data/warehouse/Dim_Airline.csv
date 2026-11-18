@@ -1,0 +1,1107 @@
+Airline_Key,Airline_ID,IATA_Code,ICAO_Code,Airline_Name,Callsign,Country_Origin,Business_Model,Global_Alliance,Active_Status
+0,-1,UNK,UNKN,Unknown Airline / Alliance,NONE,Unknown,hybrid,Independent,Y
+1,2,NAN,GNL,135 Airways,GENERAL,United States,legacy,Independent,N
+2,3,1T,RNX,1Time Airline,NEXTIME,South Africa,legacy,Independent,Y
+3,10,Q5,MLA,40-Mile Air,MILE-AIR,United States,legacy,Independent,Y
+4,13,AN,AAA,Ansett Australia,ANSETT,Australia,legacy,Independent,Y
+5,14,1B,NAN,Abacus International,nan,Singapore,legacy,Independent,Y
+6,15,W9,AAB,Abelag Aviation,ABG,Belgium,legacy,Independent,N
+7,21,ZI,AAF,Aigle Azur,AIGLE AZUR,France,legacy,Independent,Y
+8,22,AQ,AAH,Aloha Airlines,ALOHA,United States,legacy,Independent,Y
+9,24,AA,AAL,American Airlines,AMERICAN,United States,legacy,Independent,Y
+10,28,OZ,AAR,Asiana Airlines,ASIANA,Republic of Korea,legacy,Independent,Y
+11,29,4K,AAS,Askari Aviation,AL-AAS,Pakistan,legacy,Independent,Y
+12,32,8U,AAW,Afriqiyah Airways,AFRIQIYAH,Libya,legacy,Independent,Y
+13,33,Q9,AFU,Afrinat International Airlines,nan,Gambia,legacy,Independent,N
+14,35,G4,AAY,Allegiant Air,ALLEGIANT,United States,legacy,Independent,Y
+15,39,K5,ABE,Aban Air,ABAN,Iran,legacy,Independent,N
+16,42,M3,TUS,ABSA - Aerolinhas Brasileiras,ABSA Cargo,Brazil,legacy,Independent,Y
+17,48,04,ABV,Antrak Air,ANTRAK,Ghana,legacy,Independent,N
+18,49,GB,ABX,Airborne Express,ABEX,United States,legacy,Independent,N
+19,55,8V,ACP,Astral Aviation,ASTRAL CARGO,Kenya,legacy,Independent,Y
+20,60,E4,RSO,Aero Asia International,AERO ASIA,Pakistan,legacy,Independent,N
+21,62,YT,TGA,Air Togo,AIR TOGO,Togo,legacy,Independent,N
+22,66,4G,NAN,Advance Leasing Company,nan,United States,legacy,Independent,N
+23,67,7A,NAN,Aztec Worldwide Airlines,nan,United States,legacy,Independent,N
+24,68,8T,NAN,Air Tindi,nan,Canadian Territories,legacy,Independent,Y
+25,72,ZY,ADE,Ada Air,ADA AIR,Albania,legacy,Independent,Y
+26,76,Z7,ADK,ADC Airlines,ADCO,Nigeria,legacy,Independent,N
+27,83,JP,ADR,Adria Airways,ADRIA,Slovenia,legacy,Independent,Y
+28,90,UX,AEA,Air Europa,EUROPA,Spain,legacy,Independent,Y
+29,93,EM,AEB,Aero Benin,AEROBEN,Benin,legacy,Independent,Y
+30,96,A3,AEE,Aegean Airlines,AEGEAN,Greece,legacy,Independent,Y
+31,105,KI,AAG,Air Atlantique,ATLANTIC,United Kingdom,legacy,Independent,N
+32,106,PE,AEL,Air Europe,AIR EUROPE,Italy,legacy,Independent,Y
+33,109,KO,AER,Alaska Central Express,ACE AIR,United States,legacy,Independent,Y
+34,112,5W,AEU,Astraeus,FLYSTAR,United Kingdom,legacy,Independent,Y
+35,114,VV,AEW,Aerosvit Airlines,AEROSVIT,Ukraine,legacy,Independent,Y
+36,116,I9,AEY,Air Italy,AIR ITALY,Italy,legacy,Independent,Y
+37,119,WK,AFB,American Falcon,AMERICAN FALCON,Argentina,legacy,Independent,N
+38,120,QQ,UTY,Alliance Airlines,UNITY,Australia,legacy,Independent,Y
+39,125,FG,AFG,Ariana Afghan Airlines,ARIANA,Afghanistan,legacy,Independent,Y
+40,130,SU,AFL,Aeroflot Russian Airlines,AEROFLOT,Russia,legacy,Independent,Y
+41,132,JA,BON,Air Bosna,AIR BOSNA,Bosnia and Herzegovina,legacy,Independent,Y
+42,137,AF,AFR,Air France,AIRFRANS,France,legacy,Independent,Y
+43,139,SB,ACI,Air Caledonie International,AIRCALIN,France,legacy,Independent,Y
+44,142,GN,AGN,Air Gabon,GOLF NOVEMBER,Gabon,legacy,Independent,N
+45,146,2O,NAN,Air Salone,nan,Sierra Leone,legacy,Independent,Y
+46,149,2Q,SNC,Air Cargo Carriers,NIGHT CARGO,United States,legacy,Independent,Y
+47,151,V7,SNG,Air Senegal International,AIR SENEGAL,Senegal,legacy,Independent,N
+48,153,SW,NMB,Air Namibia,NAMIBIA,Namibia,legacy,Independent,Y
+49,162,G8,AGB,Air Service Gabon,nan,Gabon,legacy,Independent,N
+50,165,5D,SLI,Aerolitoral,COSTERA,Mexico,legacy,Independent,Y
+51,172,1A,AGT,Amadeus Global Travel Distribution,AMADEUS,Spain,legacy,Independent,N
+52,174,7T,AGV,Air Glaciers,AIR GLACIERS,Switzerland,legacy,Independent,Y
+53,179,PL,PLI,Aeroper,Aeroperu,Peru,legacy,Independent,Y
+54,180,8A,BMM,Atlas Blue,ATLAS BLUE,Morocco,legacy,Independent,Y
+55,184,GD,AHA,Air Alpha Greenland,AIR ALPHA,Denmark,legacy,Independent,N
+56,191,LD,AHK,Air Hong Kong,AIR HONG KONG,Hong Kong,legacy,Independent,N
+57,196,HT,AHW,Aeromist-Kharkiv,AEROMIST,Ukraine,legacy,Independent,N
+58,197,J2,AHY,Azerbaijan Airlines,AZAL,Azerbaijan,legacy,Independent,Y
+59,198,U3,AIA,Avies,AVIES,Estonia,legacy,Independent,Y
+60,199,AP,AIB,Airbus Industrie,AIRBUS INDUSTRIE,France,legacy,Independent,N
+61,205,5A,AIP,Alpine Air Express,ALPINE AIR,United States,legacy,Independent,N
+62,208,ED,ABQ,Airblue,PAKBLUE,Pakistan,legacy,Independent,Y
+63,214,AB,BER,Air Berlin,AIR BERLIN,Germany,legacy,Independent,Y
+64,216,AG,ABR,Air Contractors,CONTRACT,Ireland,legacy,Independent,N
+65,218,AI,AIC,Air India Limited,AIRINDIA,India,legacy,Independent,Y
+66,220,ZB,BUB,Air Bourbon,BOURBON,Reunion,legacy,Independent,Y
+67,221,CC,ABD,Air Atlanta Icelandic,ATLANTA,Iceland,legacy,Independent,Y
+68,224,RB,SBK,Air Srpska,Air Srpska,Bosnia and Herzegovina,legacy,Independent,N
+69,225,TN,THT,Air Tahiti Nui,TAHITI AIRLINES,France,legacy,Independent,Y
+70,227,W4,BES,Aero Services Executive,BIRD EXPRESS,France,legacy,Independent,N
+71,231,IZ,AIZ,Arkia Israel Airlines,ARKIA,Israel,legacy,Independent,Y
+72,239,JM,AJM,Air Jamaica,JAMAICA,Jamaica,legacy,Independent,Y
+73,241,S2,RSH,Air Sahara,SAHARA,India,legacy,Independent,Y
+74,242,KM,AMC,Air Malta,AIR MALTA,Malta,legacy,Independent,Y
+75,246,M6,AJT,Amerijet International,AMERIJET,United States,legacy,Independent,N
+76,250,NQ,AJX,Air Japan,AIR JAPAN,Japan,legacy,Independent,Y
+77,263,4A,AKL,Air Kiribati,nan,Kiribati,legacy,Independent,Y
+78,266,EH,AKX,Air Nippon Network Co. Ltd.,ALFA WING,Japan,legacy,Independent,N
+79,281,HP,AWE,America West Airlines,CACTUS,United States,legacy,Independent,Y
+80,282,ZW,AWI,Air Wisconsin,AIR WISCONSIN,United States,legacy,Independent,Y
+81,286,U9,TAK,Tatarstan Airlines,TATARSTAN,Russia,legacy,Independent,Y
+82,299,VD,NAN,Air Libert,nan,France,legacy,Independent,Y
+83,300,TT,KLA,Air Lithuania,KAUNAS,Lithuania,legacy,Independent,N
+84,306,QM,AML,Air Malawi,MALAWI,Malawi,legacy,Independent,Y
+85,312,BM,NAN,Air Sicilia,nan,Italy,legacy,Independent,Y
+86,316,NX,AMU,Air Macau,AIR MACAO,Macao,legacy,Independent,Y
+87,318,ZV,AMW,Air Midwest,AIR MIDWEST,United States,legacy,Independent,N
+88,319,HM,SEY,Air Seychelles,SEYCHELLES,Seychelles,legacy,Independent,Y
+89,321,AM,AMX,AeroMéxico,AEROMEXICO,Mexico,legacy,Independent,Y
+90,324,NH,ANA,All Nippon Airways,ALL NIPPON,Japan,legacy,Independent,Y
+91,327,YW,ANE,Air Nostrum,AIR NOSTRUM,Spain,legacy,Independent,Y
+92,328,PX,ANG,Air Niugini,NUIGINI,Papua New Guinea,legacy,Independent,Y
+93,329,G9,ABY,Air Arabia,ARABIA,United Arab Emirates,legacy,Independent,Y
+94,330,AC,ACA,Air Canada,AIR CANADA,Canada,legacy,Independent,Y
+95,333,BT,BTI,Air Baltic,AIRBALTIC,Latvia,legacy,Independent,Y
+96,336,EL,ANK,Air Nippon,ANK AIR,Japan,legacy,Independent,Y
+97,338,TL,ANO,Airnorth,TOPEND,Australia,legacy,Independent,Y
+98,341,4N,ANT,Air North Charter - Canada,AIR NORTH,Canada,legacy,Independent,Y
+99,343,IW,AOM,AOM French Airlines,French Lines,France,legacy,Independent,N
+100,345,NZ,ANZ,Air New Zealand,NEW ZEALAND,New Zealand,legacy,Independent,Y
+101,349,J6,AOC,AVCOM,AERO AVCOM,Russia,legacy,Independent,N
+102,353,2D,AOG,Aero VIP,AVIP,Argentina,legacy,Independent,N
+103,368,6V,VGA,Air Vegas,AIR VEGAS,United States,legacy,Independent,N
+104,371,XM,SMX,Alitalia Express,ALIEXPRESS,Italy,legacy,Independent,Y
+105,372,OE,AOT,Asia Overnight Express,ASIA OVERNIGHT,Philippines,legacy,Independent,N
+106,386,GV,ARF,Aero Flight,Aero Fox,Germany,legacy,Independent,Y
+107,397,JW,APW,Arrow Air,BIG A,United States,legacy,Independent,Y
+108,407,W3,ARA,Arik Air,ARIK AIR,Nigeria,legacy,Independent,N
+109,410,2B,ARD,Aerocondor,AEROCONDOR,Portugal,legacy,Independent,Y
+110,411,4C,ARE,Aires,Aerovias de Integracion Regional,S.A.,legacy,Independent,Y
+111,412,AR,ARG,Aerolineas Argentinas,ARGENTINA,Argentina,legacy,Independent,Y
+112,426,QN,ARR,Air Armenia,AIR ARMENIA,Armenia,legacy,Independent,N
+113,439,AS,ASA,Alaska Airlines,Inc.,ALASKA,legacy,Independent,Y
+114,442,4D,ASD,Air Sinai,AIR SINAI,Egypt,legacy,Independent,Y
+115,452,EV,ASQ,Atlantic Southeast Airlines,ACEY,United States,legacy,Independent,Y
+116,462,OB,ASZ,Astrakhan Airlines,AIR ASTRAKHAN,Russia,legacy,Independent,Y
+117,465,TC,ATC,Air Tanzania,TANZANIA,Tanzania,legacy,Independent,Y
+118,470,2J,VBW,Air Burkina,BURKINA,Burkina Faso,legacy,Independent,Y
+119,472,HC,ATI,Aero-Tropics Air Services,nan,Australia,legacy,Independent,N
+120,476,FO,ATM,Airlines Of Tasmania,AIRTAS,Australia,legacy,Independent,Y
+121,477,PJ,SPM,Air Saint Pierre,nan,France,legacy,Independent,Y
+122,478,8C,ATN,Air Transport International,AIR TRANSPORT,United States,legacy,Independent,N
+123,491,OS,AUA,Austrian Airlines,AUSTRIAN,Austria,legacy,Independent,Y
+124,493,IQ,AUB,Augsburg Airways,AUGSBURG-AIR,Germany,legacy,Independent,Y
+125,496,RU,ABW,AirBridge Cargo,AIRBRIDGE CARGO,Russia,legacy,Independent,N
+126,502,MO,AUH,Abu Dhabi Amiri Flight,SULTAN,United Arab Emirates,legacy,Independent,Y
+127,503,5N,AUL,Aeroflot-Nord,DVINA,Russia,legacy,Independent,Y
+128,508,GR,AUR,Aurigny Air Services,AYLINE,United Kingdom,legacy,Independent,Y
+129,509,NO,AUS,Aus-Air,nan,Australia,legacy,Independent,N
+130,510,AU,AUT,Austral Lineas Aereas,AUSTRAL,Argentina,legacy,Independent,Y
+131,514,AO,AUZ,Australian Airlines,AUSTRALIAN,Australia,legacy,Independent,N
+132,515,AV,AVA,Avianca - Aerovias Nacionales de Colombia,S.A.,AVIANCA,legacy,Independent,Y
+133,524,NF,AVN,Air Vanuatu,AIR VAN,Vanuatu,legacy,Independent,Y
+134,540,K8,ZAK,Airlink Zambia,nan,Zambia,legacy,Independent,N
+135,543,B9,BGD,Air Bangladesh,AIR BANGLA,Bangladesh,legacy,Independent,Y
+136,547,DR,BIE,Air Mediterranee,MEDITERRANEE,France,legacy,Independent,Y
+137,563,7E,AWU,Aeroline GmbH,SYLT-AIR,Germany,legacy,Independent,Y
+138,565,6G,AWW,Air Wales,RED DRAGON,United Kingdom,legacy,Independent,Y
+139,567,TX,FWI,Air Caraïbes,FRENCH WEST,France,legacy,Independent,Y
+140,569,IX,AXB,Air India Express,EXPRESS INDIA,India,legacy,Independent,Y
+141,571,HJ,AXF,Asian Express Airlines,FREIGHTEXPRESS,Australia,legacy,Independent,N
+142,575,XT,AXL,Air Exel,EXEL COMMUTER,Netherlands,legacy,Independent,Y
+143,576,AK,AXM,AirAsia,ASIAN EXPRESS,Malaysia,legacy,Independent,Y
+144,595,3G,AYZ,Atlant-Soyuz Airlines,ATLANT-SOYUZ,Russia,legacy,Independent,Y
+145,596,AZ,AZA,Alitalia,ALITALIA,Italy,legacy,Independent,Y
+146,598,ZE,AZE,Arcus-Air Logistic,ARCUS AIR,Germany,legacy,Independent,N
+147,603,Z8,AZN,Amaszonas,nan,Bolivia,legacy,Independent,Y
+148,608,UM,AZW,Air Zimbabwe,AIR ZIMBABWE,Zimbabwe,legacy,Independent,Y
+149,622,R7,OCA,Aserca Airlines,AROSCA,Venezuela,legacy,Independent,Y
+150,641,FV,SDM,Rossiya-Russian Airlines,PULKOVO,Russia,legacy,Independent,Y
+151,644,RX,AEH,Aviaexpress,Avex,Hungary,legacy,Independent,N
+152,659,MQ,EGF,American Eagle Airlines,EAGLE FLIGHT,United States,legacy,Independent,Y
+153,663,FF,NAN,Airshop,nan,Netherlands,legacy,Independent,N
+154,664,ML,NAN,African Transport Trading and Investment Company,nan,Sudan,legacy,Independent,N
+155,682,VU,VUN,Air Ivoire,AIRIVOIRE,Ivory Coast,legacy,Independent,Y
+156,683,BP,BOT,Air Botswana,BOTSWANA,Botswana,legacy,Independent,Y
+157,690,GS,UPA,Air Foyle,FOYLE,United Kingdom,legacy,Independent,Y
+158,692,VT,VTA,Air Tahiti,AIR TAHITI,French Polynesia,legacy,Independent,Y
+159,693,3N,URG,Air Urga,URGA,Ukraine,legacy,Independent,N
+160,695,VL,VIM,Air VIA,nan,Bulgaria,legacy,Independent,Y
+161,715,FK,WTA,Africa West,WEST TOGO,Togo,legacy,Independent,Y
+162,719,G2,VXG,Avirex,AVIREX-GABON,Gabon,legacy,Independent,N
+163,724,V8,VAS,ATRAN Cargo Airlines,ATRAN,Russian Federation,legacy,Independent,Y
+164,732,VE,AVE,Avensa,Avensa,Venezuela,legacy,Independent,N
+165,733,V5,VLI,Avolar Aerolineas,AEROVOLAR,Mexico,legacy,Independent,N
+166,751,CA,CCA,Air China,AIR CHINA,China,legacy,Independent,Y
+167,753,Q6,CDP,Aero Condor Peru,CONDOR-PERU,Peru,legacy,Independent,Y
+168,767,5F,CIR,Arctic Circle Air Service,AIR ARCTIC,United States,legacy,Independent,N
+169,778,QC,CRD,Air Corridor,AIR CORRIDOR,Mozambique,legacy,Independent,N
+170,779,NV,CRF,Air Central,AIR CENTRAL,Japan,legacy,Independent,N
+171,787,CV,CVA,Air Chathams,CHATHAM,New Zealand,legacy,Independent,Y
+172,788,CW,CWM,Air Marshall Islands,AIR MARSHALLS,Marshall Islands,legacy,Independent,Y
+173,792,ZA,CYD,Access Air,CYCLONE,United States,legacy,Independent,Y
+174,794,AH,DAH,Air Algerie,AIR ALGERIE,Algeria,legacy,Independent,Y
+175,801,ER,DHL,Astar Air Cargo,DAHL,United States,legacy,Independent,N
+176,805,HO,DJA,Antinea Airlines,ANTINEA,Algeria,legacy,Independent,N
+177,807,EN,DLA,Air Dolomiti,DOLOMOTI,Italy,legacy,Independent,Y
+178,816,D9,DNV,Aeroflot-Don,DONAVIA,Russia,legacy,Independent,Y
+179,817,NM,DRD,Air Madrid,ALADA AIR,Spain,legacy,Independent,Y
+180,828,EE,EAY,Aero Airlines,REVAL,Estonia,legacy,Independent,N
+181,830,4F,ECE,Air City,AIRCITY,Germany,legacy,Independent,N
+182,837,EI,EIN,Aer Lingus,SHAMROCK,Ireland,legacy,Independent,Y
+183,839,E8,ELG,Alpi Eagles,ALPI EAGLES,Italy,legacy,Independent,N
+184,849,KY,EQL,Air S,EQUATORIAL,Air S,legacy,Independent,N
+185,866,PC,FAJ,Air Fiji,FIJIAIR,Fiji,legacy,Independent,N
+186,876,OF,FIF,Air Finland,AIR FINLAND,Finland,legacy,Independent,Y
+187,879,FJ,FJI,Air Pacific,PACIFIC,Fiji,legacy,Independent,Y
+188,881,RC,FLI,Atlantic Airways,FAROELINE,Faroe Islands,legacy,Independent,Y
+189,882,QH,FLZ,Air Florida,AIR FLORIDA,United States,legacy,Independent,Y
+190,896,NY,FXI,Air Iceland,FAXI,Iceland,legacy,Independent,Y
+191,897,2P,GAP,Air Philippines,ORIENT PACIFIC,Philippines,legacy,Independent,Y
+192,905,ZX,GGN,Air Georgian,GEORGIAN,Canada,legacy,Independent,N
+193,909,2U,GIP,Air Guinee Express,FUTURE EXPRESS,Guinea,legacy,Independent,Y
+194,916,0A,GNT,Amber Air,GINTA,Lithuania,legacy,Independent,N
+195,919,DA,GRG,Air Georgia,AIR GEORGIA,Georgia,legacy,Independent,N
+196,921,GL,GRL,Air Greenland,GREENLAND,Denmark,legacy,Independent,Y
+197,922,LL,GRO,Allegro,ALLEGRO,Mexico,legacy,Independent,N
+198,928,5Y,GTI,Atlas Air,GIANT,United States,legacy,Independent,Y
+199,931,GG,GUY,Air Guyane,GREEN BIRD,French Guiana,legacy,Independent,Y
+200,933,H9,HAD,Air D'Ayiti,HAITI AVIA,Haiti,legacy,Independent,N
+201,979,IP,JOL,Atyrau Air Ways,EDIL,Kazakhstan,legacy,Independent,N
+202,983,QK,JZA,Air Canada Jazz,JAZZ,Canada,legacy,Independent,Y
+203,995,KK,KKK,Atlasjet,ATLASJET,Turkey,legacy,Independent,Y
+204,998,JS,KOR,Air Koryo,AIR KORYO,Democratic People's Republic of Korea,legacy,Independent,Y
+205,1006,KC,KZR,Air Astana,ASTANALINE,Kazakhstan,legacy,Independent,Y
+206,1008,LV,LBC,Albanian Airlines,ALBANIAN,Albania,legacy,Independent,Y
+207,1021,D4,LID,Alidaunia,ALIDA,Italy,legacy,Independent,N
+208,1026,CD,LLR,Alliance Air,ALLIED,India,legacy,Independent,N
+209,1034,XL,LNE,Aerolane,LAN ECUADOR,Ecuador,legacy,Independent,Y
+210,1040,A6,LPV,Air Alps Aviation,ALPAV,Austria,legacy,Independent,N
+211,1048,TD,LUR,Atlantis European Airways,nan,Armenia,legacy,Independent,Y
+212,1051,L8,LXG,Air Luxor GB,LUXOR GOLF,Guinea-Bissau,legacy,Independent,N
+213,1052,LK,LXR,Air Luxor,AIRLUXOR,Portugal,legacy,Independent,Y
+214,1057,MK,MAU,Air Mauritius,AIRMAURITIUS,Mauritius,legacy,Independent,Y
+215,1066,MD,MDG,Air Madagascar,AIR MADAGASCAR,Madagascar,legacy,Independent,Y
+216,1073,9U,MLD,Air Moldova,AIR MOLDOVA,Moldova,legacy,Independent,Y
+217,1083,M0,MNG,Aero Mongolia,AERO MONGOLIA,Mongolia,legacy,Independent,N
+218,1087,A7,MPD,Air Plus Comet,RED COMET,Spain,legacy,Independent,Y
+219,1088,QO,MPX,Aeromexpress,AEROMEXPRESS,Mexico,legacy,Independent,N
+220,1093,MR,MRT,Air Mauritanie,MIKE ROMEO,Mauritania,legacy,Independent,N
+221,1107,3S,NAN,Aeroland Airways,nan,Greece,legacy,Independent,N
+222,1109,8D,NAN,Astair,nan,Russian Federation,legacy,Independent,Y
+223,1110,F4,NBK,Albarka Air,AL-AIR,Nigeria,legacy,Independent,N
+224,1116,AJ,NIG,Aero Contractors,AEROLINE,Nigeria,legacy,Independent,Y
+225,1139,8Y,PBU,Air Burundi,AIR-BURUNDI,Burundi,legacy,Independent,N
+226,1143,OT,PEL,Aeropelican Air Services,PELICAN,Australia,legacy,Independent,Y
+227,1156,AD,PRZ,Air Paradise International,RADISAIR,Indonesia,legacy,Independent,N
+228,1161,QD,QCL,Air Class Lineas Aereas,ACLA,Uruguay,legacy,Independent,N
+229,1166,QS,QSC,African Safari Airways,ZEBRA,Kenya,legacy,Independent,N
+230,1173,4Y,RBU,Airbus France,AIRBUS FRANCE,France,legacy,Independent,N
+231,1179,MC,RCH,Air Mobility Command,REACH,United States,legacy,Independent,N
+232,1188,RE,REA,Aer Arann,AER ARANN,Ireland,legacy,Independent,Y
+233,1191,UU,REU,Air Austral,REUNION,France,legacy,Independent,Y
+234,1200,6K,RIT,Asian Spirit,ASIAN SPIRIT,Philippines,legacy,Independent,Y
+235,1202,RK,RKA,Air Afrique,AIRAFRIC,Ivory Coast,legacy,Independent,Y
+236,1203,A5,RLA,Airlinair,AIRLINAIR,France,legacy,Independent,Y
+237,1206,QL,RLN,Aero Lanka,AERO LANKA,Sri Lanka,legacy,Independent,Y
+238,1210,MV,RML,Armenian International Airways,nan,Armenia,legacy,Independent,N
+239,1213,20,RNE,Air Salone,AIR SALONE,Sierra Leone,legacy,Independent,Y
+240,1216,U8,RNV,Armavia,ARMAVIA,Armenia,legacy,Independent,Y
+241,1221,BQ,ROM,Aeromar,BRAVO QUEBEC,Dominican Republic,legacy,Independent,N
+242,1224,P5,RPB,AeroRep,AEROREPUBLICA,Colombia,legacy,Independent,Y
+243,1230,BF,RSR,Aero-Service,CONGOSERV,Republic of the Congo,legacy,Independent,Y
+244,1231,5L,RSU,Aerosur,AEROSUR,Bolivia,legacy,Independent,Y
+245,1254,EX,SDO,Air Santo Domingo,AERO DOMINGO,Dominican Republic,legacy,Independent,N
+246,1257,JR,SER,Aero California,AEROCALIFORNIA,Mexico,legacy,Independent,N
+247,1266,Z3,SMJ,Avient Aviation,AVAVIA,Zimbabwe,legacy,Independent,Y
+248,1285,GM,SVK,Air Slovakia,SLOVAKIA,Slovakia,legacy,Independent,N
+249,1287,R3,SYL,Aircompany Yakutia,AIR YAKUTIA,Russia,legacy,Independent,Y
+250,1290,VW,TAO,Aeromar,TRANS-AEROMAR,Mexico,legacy,Independent,Y
+251,1293,JY,TCI,Air Turks and Caicos,KERRMONT,Turks and Caicos Islands,legacy,Independent,N
+252,1299,OR,TFL,Arkefly,ARKEFLY,Netherlands,legacy,Independent,Y
+253,1308,CG,TOK,Airlines PNG,BALUS,Papua New Guinea,legacy,Independent,Y
+254,1311,TY,TPC,Air Cal,AIRCAL,France,legacy,Independent,N
+255,1316,FL,TRS,AirTran Airways,CITRUS,United States,legacy,Independent,Y
+256,1317,TS,TSC,Air Transat,TRANSAT,Canada,legacy,Independent,Y
+257,1322,EC,TWN,Avialeasing Aviation Company,TWINARROW,Uzbekistan,legacy,Independent,Y
+258,1326,VO,TYR,Tyrolean Airways,TYROLEAN,Austria,legacy,Independent,Y
+259,1332,DW,UCR,Aero-Charter Ukraine,CHARTER UKRAINE,Ukraine,legacy,Independent,N
+260,1334,6U,UKR,Air Ukraine,AIR UKRAINE,Ukraine,legacy,Independent,N
+261,1338,2K,GLG,Aerolineas Galapagos (Aerogal),AEROGAL,Ecuador,legacy,Independent,Y
+262,1340,6R,DRU,Alrosa Mirny Air Enterprise,MIRNY,Russia,legacy,Independent,Y
+263,1347,8Q,BAJ,Baker Aviation,BAKER AVIATION,United States,legacy,Independent,N
+264,1355,BA,BAW,British Airways,SPEEDBIRD,United Kingdom,legacy,Independent,Y
+265,1359,BG,BBC,Biman Bangladesh Airlines,BANGLADESH,Bangladesh,legacy,Independent,Y
+266,1364,B4,BCF,BACH Flugbetriebsges,BACH,Austria,legacy,Independent,N
+267,1370,BZ,BDA,Blue Dart Aviation,BLUE DART,India,legacy,Independent,N
+268,1384,J4,BFL,Buffalo Airways,BUFFALO,Canada,legacy,Independent,N
+269,1392,A8,BGL,Benin Golf Air,BENIN GOLF,Benin,legacy,Independent,N
+270,1401,4T,BHP,Belair Airlines,BELAIR,Switzerland,legacy,Independent,Y
+271,1403,UP,BHS,Bahamasair,BAHAMAS,Bahamas,legacy,Independent,Y
+272,1405,E6,NAN,Bringer Air Cargo Taxi Aereo,nan,Brazil,legacy,Independent,N
+273,1406,LZ,NAN,Balkan Bulgarian Airlines,nan,nan,legacy,Independent,Y
+274,1407,TH,NAN,BA Connect,nan,United Kingdom,legacy,Independent,N
+275,1411,BS,BIH,British International Helicopters,BRINTEL,United Kingdom,legacy,Independent,Y
+276,1422,PG,BKP,Bangkok Airways,BANGKOK AIR,Thailand,legacy,Independent,Y
+277,1427,KF,BLF,Blue1,BLUEFIN,Finland,legacy,Independent,Y
+278,1434,JV,BLS,Bearskin Lake Air Service,BEARSKIN,Canada,legacy,Independent,Y
+279,1436,B3,BLV,Bellview Airlines,BELLVIEW AIRLINES,Nigeria,legacy,Independent,Y
+280,1437,BD,BMA,bmi,MIDLAND,United Kingdom,legacy,Independent,Y
+281,1441,WW,BMI,bmibaby,BABY,United Kingdom,legacy,Independent,Y
+282,1442,CH,BMJ,Bemidji Airlines,BEMIDJI,United States,legacy,Independent,Y
+283,1443,5Z,BML,Bismillah Airlines,BISMILLAH,Bangladesh,legacy,Independent,N
+284,1462,BO,BOU,Bouraq Indonesia Airlines,BOURAQ,Indonesia,legacy,Independent,N
+285,1463,BV,BPA,Blue Panorama Airlines,BLUE PANOROMA,Italy,legacy,Independent,Y
+286,1469,7R,BRB,BRA-Transportes Aereos,BRA-TRANSPAEREOS,Brazil,legacy,Independent,N
+287,1472,8E,BRG,Bering Air,BERING AIR,United States,legacy,Independent,Y
+288,1478,B2,BRU,Belavia Belarusian Airlines,BELARUS AVIA,Belarus,legacy,Independent,Y
+289,1479,K6,BRV,Bravo Air Congo,BRAVO,Democratic Republic of the Congo,legacy,Independent,N
+290,1481,BN,BNF,Braniff International Airways,Braniff,United States,legacy,Independent,N
+291,1492,GQ,BSY,Big Sky Airlines,BIG SKY,United States,legacy,Independent,N
+292,1493,V9,BTC,BAL Bashkirian Airlines,BASHKIRIAN,Russia,legacy,Independent,N
+293,1500,7P,BTV,Metro Batavia,BATAVIA,Indonesia,legacy,Independent,Y
+294,1508,J8,BVT,Berjaya Air,BERJAYA,Malaysia,legacy,Independent,Y
+295,1510,QW,BWG,Blue Wings,BLUE WINGS,Germany,legacy,Independent,Y
+296,1516,8W,NAN,BAX Global,nan,nan,legacy,Independent,N
+297,1523,DB,BZH,Brit Air,BRITAIR,France,legacy,Independent,Y
+298,1530,E9,CXS,Boston-Maine Airways,CLIPPER CONNECTION,United States,legacy,Independent,N
+299,1531,SN,DAT,Brussels Airlines,BEE-LINE,Belgium,legacy,Independent,Y
+300,1539,NT,IBB,Binter Canarias,nan,Spain,legacy,Independent,Y
+301,1542,0B,JOR,Blue Air,BLUE TRANSPORT,Romania,legacy,Independent,Y
+302,1543,KJ,LAJ,British Mediterranean Airways,BEE MED,United Kingdom,legacy,Independent,Y
+303,1548,FB,LZB,Bulgaria Air,FLYING BULGARIA,Bulgaria,legacy,Independent,Y
+304,1550,8N,NKF,Barents AirLink,NORDFLIGHT,Sweden,legacy,Independent,Y
+305,1581,5C,ICL,CAL Cargo Air Lines,CAL,Israel,legacy,Independent,Y
+306,1588,AW,SCH,CHC Airways,nan,Netherlands,legacy,Independent,N
+307,1607,XG,CLI,Calima Aviacion,CALIMA,Spain,legacy,Independent,Y
+308,1609,R9,CAM,Camai Air,AIR CAMAI,United States,legacy,Independent,N
+309,1611,UY,UYC,Cameroon Airlines,CAM-AIR,Cameroon,legacy,Independent,N
+310,1613,C6,CJA,CanJet,CANJET,Canada,legacy,Independent,N
+311,1615,CP,CDN,Canadian Airlines,CANADIAN,Canada,legacy,Independent,Y
+312,1623,5T,MPE,Canadian North,EMPRESS,Canada,legacy,Independent,Y
+313,1626,W2,CWA,Canadian Western Airlines,CANADIAN WESTERN,Canada,legacy,Independent,N
+314,1629,9K,KAP,Cape Air,CAIR,United States,legacy,Independent,Y
+315,1636,PT,CCI,Capital Cargo International Airlines,CAPPY,United States,legacy,Independent,N
+316,1654,2G,CRG,Cargoitalia,WHITE PELICAN,Italy,legacy,Independent,N
+317,1655,W8,CJT,Cargojet Airways,CARGOJET,Canada,legacy,Independent,N
+318,1663,BW,BWA,Caribbean Airlines,CARIBBEAN AIRLINES,Trinidad and Tobago,legacy,Independent,Y
+319,1666,8B,GFI,Caribbean Star Airlines,CARIB STAR,Antigua and Barbuda,legacy,Independent,N
+320,1669,V3,KRP,Carpatair,CARPATAIR,Romania,legacy,Independent,Y
+321,1675,RV,CPN,Caspian Airlines,CASPIAN,Iran,legacy,Independent,Y
+322,1680,CX,CPA,Cathay Pacific,CATHAY,Hong Kong SAR of China,legacy,Independent,Y
+323,1682,KX,CAY,Cayman Airways,CAYMAN,Cayman Islands,legacy,Independent,Y
+324,1683,5J,CEB,Cebu Pacific,CEBU AIR,Philippines,legacy,Independent,Y
+325,1688,7N,CNA,Centavia,nan,Serbia,legacy,Independent,N
+326,1708,C0,CLW,Centralwings,CENTRALWINGS,Poland,legacy,Independent,Y
+327,1711,J7,CVC,Centre-Avia,AVIACENTRE,Russia,legacy,Independent,N
+328,1714,WE,CWC,Centurion Air Cargo,CHALLENGE CARGO,United States,legacy,Independent,N
+329,1721,OP,CHK,Chalk's Ocean Airways,CHALKS,United States,legacy,Independent,N
+330,1727,MG,CCP,Champion Air,CHAMPION AIR,United States,legacy,Independent,N
+331,1729,2Z,CGN,Changan Airlines,CHANGAN,China,legacy,Independent,N
+332,1733,S8,CSU,Chari Aviation Services,CHARI SERVICE,Chad,legacy,Independent,N
+333,1739,RP,CHQ,Chautauqua Airlines,CHAUTAUQUA,United States,legacy,Independent,Y
+334,1750,C8,WDY,Chicago Express,WINDY CITY,United States,legacy,Independent,N
+335,1756,CI,CAL,China Airlines,DYNASTY,Taiwan,legacy,Independent,Y
+336,1757,CK,CKK,China Cargo Airlines,CARGO KING,China,legacy,Independent,N
+337,1758,MU,CES,China Eastern Airlines,CHINA EASTERN,China,legacy,Independent,Y
+338,1763,CJ,CBF,China Northern Airlines,CHINA NORTHERN,China,legacy,Independent,N
+339,1764,WH,CNW,China Northwest Airlines,CHINA NORTHWEST,China,legacy,Independent,N
+340,1767,CZ,CSN,China Southern Airlines,CHINA SOUTHERN,China,legacy,Independent,Y
+341,1769,HR,CUA,China United Airlines,LIANHANG,China,legacy,Independent,Y
+342,1770,XO,CXH,China Xinhua Airlines,XINHUA,China,legacy,Independent,N
+343,1771,3Q,CYH,Yunnan Airlines,YUNNAN,China,legacy,Independent,Y
+344,1775,X7,CHF,Chitaavia,CHITA,Russia,legacy,Independent,N
+345,1780,A2,CIU,Cielos Airlines,CIELOS,Peru,legacy,Independent,N
+346,1781,QI,CIM,Cimber Air,CIMBER,Denmark,legacy,Independent,Y
+347,1784,C9,RUS,Cirrus Airlines,CIRRUS AIR,Germany,legacy,Independent,Y
+348,1789,CF,SDR,City Airline,SWEDESTAR,Sweden,legacy,Independent,Y
+349,1790,G3,CIX,City Connexion Airlines,CONNEXION,Burundi,legacy,Independent,Y
+350,1792,WX,BCY,CityJet,CITY-IRELAND,Ireland,legacy,Independent,Y
+351,1800,CT,CAT,Civil Air Transport,Mandarin,Taiwan,legacy,Independent,N
+352,1812,6P,ISG,Club Air,CLUBAIR,Italy,legacy,Independent,N
+353,1813,BX,CST,Coast Air,COAST CENTER,Norway,legacy,Independent,N
+354,1814,DQ,NAN,Coastal Air,U.S. Virgin Islands,United States,legacy,Independent,Y
+355,1821,9L,CJC,Colgan Air,COLGAN,United States,legacy,Independent,Y
+356,1828,OH,COM,Comair,COMAIR,United States,legacy,Independent,Y
+357,1829,MN,CAW,Comair,COMMERCIAL,South Africa,legacy,Independent,Y
+358,1843,C5,UCA,CommutAir,COMMUTAIR,United States,legacy,Independent,Y
+359,1844,KR,CWK,Comores Airlines,CONTICOM,Comoros,legacy,Independent,Y
+360,1856,GJ,MXC,Compania Mexicargo,MEXICARGO,Mexico,legacy,Independent,N
+361,1868,DE,CFG,Condor Flugdienst,CONDOR,Germany,legacy,Independent,Y
+362,1876,6A,CHP,Consorcio Aviaxsa,AVIACSA,Mexico,legacy,Independent,Y
+363,1879,C3,KIS,Contact Air,CONTACTAIR,Germany,legacy,Independent,Y
+364,1881,CO,COA,Continental Airlines,CONTINENTAL,United States,legacy,Independent,Y
+365,1884,CS,CMI,Continental Micronesia,AIR MIKE,United States,legacy,Independent,Y
+366,1886,V0,VCV,Conviasa,CONVIASA,Venezuela,legacy,Independent,Y
+367,1889,CM,CMP,Copa Airlines,COPA,Panama,legacy,Independent,Y
+368,1908,SS,CRL,Corsairfly,CORSAIR,France,legacy,Independent,Y
+369,1909,XK,CCM,Corse-Mediterranee,CORSICA,France,legacy,Independent,Y
+370,1910,F5,COZ,Cosmic Air,COSMIC AIR,Nepal,legacy,Independent,N
+371,1925,OU,CTN,Croatia Airlines,CROATIA,Croatia,legacy,Independent,Y
+372,1928,QE,ECC,Crossair Europe,Cigogne,Switzerland,legacy,Independent,N
+373,1936,CU,CUB,Cubana de Aviación,CUBANA,Cuba,legacy,Independent,Y
+374,1942,CY,CYP,Cyprus Airways,CYPRUS,Cyprus,legacy,Independent,Y
+375,1943,YK,NAN,Cyprus Turkish Airlines,nan,Turkey,legacy,Independent,Y
+376,1946,OK,CSA,Czech Airlines,CSA-LINES,Czech Republic,legacy,Independent,Y
+377,1952,WD,DSR,DAS Air Cargo,DAIRAIR,Uganda,legacy,Independent,N
+378,1954,DX,DTR,DAT Danish Air Transport,DANISH,Denmark,legacy,Independent,Y
+379,1963,ES,DHX,DHL International,DILMUN,Bahrain,legacy,Independent,N
+380,1964,L3,JOS,DHL de Guatemala,nan,Guatemala,legacy,Independent,N
+381,1966,D3,DAO,Daallo Airlines,DALO AIRLINES,Djibouti,legacy,Independent,Y
+382,1967,N2,DAG,Dagestan Airlines,DAGAL,Russia,legacy,Independent,N
+383,1973,H8,KHB,Dalavia,DALAVIA,Russia,legacy,Independent,Y
+384,1983,0D,DWT,Darwin Airline,DARWIN,Switzerland,legacy,Independent,Y
+385,1993,D5,DAU,Dauair,DAUAIR,Germany,legacy,Independent,N
+386,2009,DL,DAL,Delta Air Lines,DELTA,United States,legacy,Independent,Y
+387,2021,2A,NAN,Deutsche Bahn,nan,Germany,legacy,Independent,Y
+388,2022,1I,AMB,Deutsche Rettungsflugwacht,CIVIL AIR AMBULANCE,Germany,legacy,Independent,N
+389,2028,D7,RDN,Dinar,AERO DINAR,Argentina,legacy,Independent,N
+390,2037,DH,DVA,Discovery Airways,DISCOVERY AIRWAYS,United States,legacy,Independent,N
+391,2041,D8,DJB,Djibouti Airlines,DJIBOUTI AIR,Djibouti,legacy,Independent,Y
+392,2047,DO,DOA,Dominicana de Aviaci,DOMINICANA,Dominican Republic,legacy,Independent,Y
+393,2048,E3,DMO,Domodedovo Airlines,DOMODEDOVO,Russia,legacy,Independent,Y
+394,2056,KA,HDA,Dragonair,Hong Kong Dragon Airlines,DRAGON,legacy,Independent,Y
+395,2058,KB,DRK,Druk Air,ROYAL BHUTAN,Bhutan,legacy,Independent,Y
+396,2077,DI,BAG,dba,SPEEDWAY,Germany,legacy,Independent,Y
+397,2079,1C,NAN,Electronic Data Systems,nan,Switzerland,legacy,Independent,N
+398,2091,BR,EVA,EVA Air,EVA,Taiwan,legacy,Independent,Y
+399,2094,H7,NAN,Eagle Air,nan,Uganda,legacy,Independent,Y
+400,2104,QU,UGX,East African,CRANE,Uganda,legacy,Independent,Y
+401,2105,S9,HSA,East African Safari Air,DUMA,Kenya,legacy,Independent,N
+402,2117,T3,EZE,Eastern Airways,EASTFLIGHT,United Kingdom,legacy,Independent,Y
+403,2125,DK,ELA,Eastland Air,nan,Australia,legacy,Independent,Y
+404,2143,MS,MSR,Egyptair,EGYPTAIR,Egypt,legacy,Independent,Y
+405,2150,LY,ELY,El Al Israel Airlines,ELAL,Israel,legacy,Independent,Y
+406,2155,UZ,BRQ,El-Buraq Air Transport,BURAQAIR,Libya,legacy,Independent,Y
+407,2183,EK,UAE,Emirates,EMIRATES,United Arab Emirates,legacy,Independent,Y
+408,2193,EU,EEA,Empresa Ecuatoriana De Aviacion,ECUATORIANA,Ecuador,legacy,Independent,Y
+409,2205,E0,ESS,Eos Airlines,NEW DAWN,United States,legacy,Independent,N
+410,2213,B8,ERT,Eritrean Airlines,ERITREAN,Eritrea,legacy,Independent,Y
+411,2217,E7,ESF,Estafeta Carga Aerea,nan,Mexico,legacy,Independent,N
+412,2218,OV,ELL,Estonian Air,ESTONIAN,Estonia,legacy,Independent,Y
+413,2220,ET,ETH,Ethiopian Airlines,ETHIOPIAN,Ethiopia,legacy,Independent,Y
+414,2222,EY,ETD,Etihad Airways,ETIHAD,United Arab Emirates,legacy,Independent,Y
+415,2226,RZ,NAN,Euro Exec Express,nan,Sweden,legacy,Independent,Y
+416,2237,UI,ECA,Eurocypria Airlines,EUROCYPRIA,Cyprus,legacy,Independent,Y
+417,2245,K2,ELO,Eurolot,EUROLOT,Poland,legacy,Independent,Y
+418,2246,3W,EMX,Euromanx Airways,EUROMANX,Austria,legacy,Independent,N
+419,2251,EA,EAL,European Air Express,STAR WING,Germany,legacy,Independent,Y
+420,2252,QY,BCS,European Air Transport,EUROTRANS,Belgium,legacy,Independent,N
+421,2260,EW,EWG,Eurowings,EUROWINGS,Germany,legacy,Independent,Y
+422,2261,EZ,EIA,Evergreen International Airlines,EVERGREEN,United States,legacy,Independent,Y
+423,2264,JN,XLA,Excel Airways,EXPO,United Kingdom,legacy,Independent,Y
+424,2267,MB,EXA,Execair Aviation,CANADIAN EXECAIRE,Canada,legacy,Independent,N
+425,2277,OW,EXK,Executive Airlines,EXECUTIVE EAGLE,United States,legacy,Independent,N
+426,2293,EO,LHN,Express One International,LONGHORN,United States,legacy,Independent,Y
+427,2295,XE,BTA,ExpressJet,JET LINK,United States,legacy,Independent,Y
+428,2297,U2,EZY,easyJet,EASY,United Kingdom,legacy,Independent,Y
+429,2320,IH,NAN,Falcon Aviation,nan,Sweden,legacy,Independent,N
+430,2324,EF,EFA,Far Eastern Air Transport,Far Eastern,Taiwan,legacy,Independent,Y
+431,2331,F6,RCK,Faroejet,ROCKROSE,Faroe Islands,legacy,Independent,N
+432,2333,F3,FSW,Faso Airways,FASO,Burkina Faso,legacy,Independent,N
+433,2342,FX,FDX,Federal Express,FEDEX,United States,legacy,Independent,N
+434,2345,N8,HGK,Fika Salaama Airlines,SALAAMA,Uganda,legacy,Independent,N
+435,2346,4S,FNC,Finalair Congo,FINALAIR CONGO,Republic of the Congo,legacy,Independent,N
+436,2350,AY,FIN,Finnair,FINNAIR,Finland,legacy,Independent,Y
+437,2351,FC,WBA,Finncomm Airlines,WESTBIRD,Finland,legacy,Independent,Y
+438,2353,FY,FFM,Firefly,FIREFLY,Malaysia,legacy,Independent,Y
+439,2354,7F,FAB,First Air,nan,Canada,legacy,Independent,Y
+440,2357,DP,FCA,First Choice Airways,JETSET,United Kingdom,legacy,Independent,Y
+441,2362,8F,FFR,Fischer Air,FISCHER,Czech Republic,legacy,Independent,N
+442,2395,B5,FLT,Flightline,FLIGHTLINE,United Kingdom,legacy,Independent,Y
+443,2401,PA,FCL,Florida Coastal Airlines,FLORIDA COASTAL,United States,legacy,Independent,N
+444,2404,RF,FWL,Florida West International Airways,FLO WEST,United States,legacy,Independent,Y
+445,2409,F2,FLM,Fly Air,FLY WORLD,Turkey,legacy,Independent,N
+446,2415,SH,FLY,Fly Me Sweden,FLYBIRD,Sweden,legacy,Independent,N
+447,2418,TE,LIL,FlyLal,LITHUANIA AIR,Lithuania,legacy,Independent,Y
+448,2419,LF,NDC,FlyNordic,NORDIC,Sweden,legacy,Independent,Y
+449,2420,F7,BBO,Flybaboo,BABOO,Switzerland,legacy,Independent,Y
+450,2421,BE,BEE,Flybe,JERSEY,United Kingdom,legacy,Independent,Y
+451,2439,VY,FOS,Formosa Airlines,nan,Taiwan,legacy,Independent,Y
+452,2448,HK,FSC,Four Star Aviation / Four Star Cargo,FOUR STAR,United States,legacy,Independent,N
+453,2454,FP,FRE,Freedom Air,FREEDOM,United States,legacy,Independent,Y
+454,2468,F9,FFT,Frontier Airlines,FRONTIER FLIGHT,United States,legacy,Independent,Y
+455,2470,2F,FTA,Frontier Flying Service,FRONTIER-AIR,United States,legacy,Independent,Y
+456,2480,FH,FUA,Futura International Airways,FUTURA,Spain,legacy,Independent,N
+457,2486,GT,GBL,GB Airways,GEEBEE AIRWAYS,United Kingdom,legacy,Independent,Y
+458,2508,7O,GAL,Galaxy Air,GALAXY,Kyrgyzstan,legacy,Independent,N
+459,2511,1G,NAN,Galileo International,nan,United States,legacy,Independent,N
+460,2513,GC,GNR,Gambia International Airlines,GAMBIA INTERNATIONAL,Gambia,legacy,Independent,N
+461,2516,G7,GNF,Gandalf Airlines,Gandalf,Italy,legacy,Independent,N
+462,2520,GA,GIA,Garuda Indonesia,INDONESIA,Indonesia,legacy,Independent,Y
+463,2538,A9,TGZ,Georgian Airways,TAMAZI,Georgia,legacy,Independent,Y
+464,2541,QB,GFG,Georgian National Airlines,NATIONAL,Georgia,legacy,Independent,Y
+465,2547,ST,GMI,Germania,GERMANIA,Germany,legacy,Independent,Y
+466,2548,4U,GWI,Germanwings,GERMAN WINGS,Germany,legacy,Independent,Y
+467,2551,GP,GES,Gestair,GESTAIR,Spain,legacy,Independent,N
+468,2556,G0,GHB,Ghana International Airlines,GHANA AIRLINES,Ghana,legacy,Independent,Y
+469,2576,GK,NAN,Go One Airways,nan,United Kingdom,legacy,Independent,N
+470,2585,DC,GAO,Golden Air,GOLDEN,Sweden,legacy,Independent,Y
+471,2595,G1,IKA,Gorkha Airlines,GORKHA AIRLINES,Nepal,legacy,Independent,N
+472,2607,ZK,GLA,Great Lakes Airlines,LAKES AIR,United States,legacy,Independent,Y
+473,2610,IJ,GWL,Great Wall Airlines,GREAT WALL,China,legacy,Independent,N
+474,2622,TA,TAT,Grupo TACA,TACA-COSTARICA,Costa Rica,legacy,Independent,Y
+475,2626,G6,BSR,Guine Bissaur Airlines,BISSAU AIRLINES,Guinea-Bissau,legacy,Independent,N
+476,2629,J9,GIF,Guinee Airlines,GUINEE AIRLINES,Guinea,legacy,Independent,N
+477,2638,GF,GBA,Gulf Air Bahrain,GULF BAHRAIN,Bahrain,legacy,Independent,Y
+478,2649,GY,NAN,Guyana Airways 2000,nan,nan,legacy,Independent,N
+479,2657,H6,HAG,Hageland Aviation Services,HAGELAND,United States,legacy,Independent,Y
+480,2660,HU,CHH,Hainan Airlines,HAINAN,China,legacy,Independent,Y
+481,2661,1R,NAN,Hainan Phoenix Information Systems,nan,China,legacy,Independent,N
+482,2663,2T,HAM,Haiti Ambassador Airlines,nan,Haiti,legacy,Independent,Y
+483,2674,4R,HHI,Hamburg International,HAMBURG JET,Germany,legacy,Independent,Y
+484,2681,X3,HLX,TUIfly,YELLOW CAB,Germany,legacy,Independent,Y
+485,2682,HF,HLF,Hapagfly,HAPAG LLOYD,Germany,legacy,Independent,Y
+486,2683,HB,HAR,Harbor Airlines,HARBOR,United States,legacy,Independent,N
+487,2684,HQ,HMY,Harmony Airways,HARMONY,Canada,legacy,Independent,N
+488,2688,HA,HAL,Hawaiian Airlines,HAWAIIAN,United States,legacy,Independent,Y
+489,2692,BH,NAN,Hawkair,nan,Canada,legacy,Independent,Y
+490,2695,HN,HVY,Heavylift Cargo Airlines,HEAVY CARGO,Australia,legacy,Independent,N
+491,2704,8H,HFR,Heli France,HELIFRANCE,France,legacy,Independent,Y
+492,2731,JB,JBA,Helijet,HELIJET,Canada,legacy,Independent,Y
+493,2735,ZU,HCY,Helios Airways,HELIOS,Cyprus,legacy,Independent,N
+494,2747,T4,HEJ,Hellas Jet,HELLAS JET,Greece,legacy,Independent,Y
+495,2748,HW,FHE,Hello,FLYHELLO,Switzerland,legacy,Independent,Y
+496,2750,2L,OAW,Helvetic Airways,HELVETIC,Switzerland,legacy,Independent,Y
+497,2751,DU,HMS,Hemus Air,HEMUS AIR,Bulgaria,legacy,Independent,N
+498,2757,UD,HER,Hex'Air,HEX AIRLINE,France,legacy,Independent,Y
+499,2759,5K,HFY,Hi Fly,SKY FLYER,Portugal,legacy,Independent,N
+500,2765,HD,ADO,Hokkaido International Airlines,AIR DO,Japan,legacy,Independent,Y
+501,2767,H5,HOA,Hola Airlines,HOLA,Spain,legacy,Independent,N
+502,2773,HX,CRK,Hong Kong Airlines,BAUHINIA,Hong Kong SAR of China,legacy,Independent,Y
+503,2774,UO,HKE,Hong Kong Express Airways,HONGKONG SHUTTLE,Hong Kong SAR of China,legacy,Independent,Y
+504,2777,HH,NAN,Hope Air,HOPE AIR,Canada,legacy,Independent,N
+505,2778,QX,QXE,Horizon Air,HORIZON AIR,United States,legacy,Independent,Y
+506,2799,H4,NAN,Héli Sécurité Helicopter Airlines,nan,France,legacy,Independent,N
+507,2801,II,CSQ,IBC Airways,CHASQUI,United States,legacy,Independent,N
+508,2815,1F,NAN,INFINI Travel Information,nan,Japan,legacy,Independent,N
+509,2820,1U,NAN,ITA Software,nan,United States,legacy,Independent,N
+510,2822,IB,IBE,Iberia Airlines,IBERIA,Spain,legacy,Independent,Y
+511,2826,FW,IBX,Ibex Airlines,IBEX,Japan,legacy,Independent,Y
+512,2835,FI,ICE,Icelandair,ICEAIR,Iceland,legacy,Independent,Y
+513,2845,IK,ITX,Imair Airlines,IMPROTEX,Azerbaijan,legacy,Independent,Y
+514,2850,6E,IGO,IndiGo Airlines,IFLY,India,legacy,Independent,Y
+515,2853,IC,IAC,Indian Airlines,INDAIR,India,legacy,Independent,Y
+516,2857,QZ,AWQ,Indonesia AirAsia,WAGON AIR,Indonesia,legacy,Independent,Y
+517,2858,IO,IAA,Indonesian Airlines,INDO LINES,Indonesia,legacy,Independent,Y
+518,2881,D6,ILN,Interair South Africa,INLINE,South Africa,legacy,Independent,Y
+519,2885,RS,ICT,Intercontinental de Aviaci,CONTAVIA,Colombia,legacy,Independent,N
+520,2896,ID,ITK,Interlink Airlines,INTERLINK,South Africa,legacy,Independent,Y
+521,2901,6I,IBZ,International Business Air,INTERBIZ,Sweden,legacy,Independent,N
+522,2916,3L,ISK,Intersky,INTERSKY,Austria,legacy,Independent,Y
+523,2917,I4,FWA,Interstate Airline,FREEWAYAIR,Netherlands,legacy,Independent,N
+524,2922,IR,IRA,Iran Air,IRANAIR,Iran,legacy,Independent,Y
+525,2923,EP,IRC,Iran Aseman Airlines,nan,Iran,legacy,Independent,Y
+526,2926,IA,IAW,Iraqi Airways,IRAQI,Iraq,legacy,Independent,Y
+527,2937,IS,NAN,Island Airlines,nan,United States,legacy,Independent,Y
+528,2941,2S,SDY,Island Express,SANDY ISLE,United States,legacy,Independent,N
+529,2942,8L,CGP,Cargo Plus Aviation,nan,United Arab Emirates,legacy,Independent,Y
+530,2946,CN,NAN,Islands Nationair,nan,Papua New Guinea,legacy,Independent,N
+531,2948,IF,ISW,Islas Airways,PINTADERA,Spain,legacy,Independent,Y
+532,2950,WC,ISV,Islena De Inversiones,nan,Honduras,legacy,Independent,Y
+533,2954,6H,ISR,Israir,ISRAIR,Israel,legacy,Independent,Y
+534,2956,9X,ACL,Itali Airlines,ITALI,Italy,legacy,Independent,N
+535,2958,GI,IKA,Itek Air,ITEK-AIR,Kyrgyzstan,legacy,Independent,Y
+536,2969,JC,JEX,JAL Express,JANEX,Japan,legacy,Independent,Y
+537,2970,JO,JAZ,JALways,JALWAYS,Japan,legacy,Independent,Y
+538,2976,1M,NAN,JSC Transport Automated Information Systems,nan,Russia,legacy,Independent,N
+539,2987,JL,JAL,Japan Airlines,JAPANAIR,Japan,legacy,Independent,Y
+540,2989,EG,JAA,Japan Asia Airways,ASIA,Japan,legacy,Independent,Y
+541,2990,NU,JTA,Japan Transocean Air,JAI OCEAN,Japan,legacy,Independent,Y
+542,2991,JU,JAT,Jat Airways,JAT,Serbia,legacy,Independent,N
+543,2992,VJ,JTY,Jatayu Airlines,JATAYU,Indonesia,legacy,Independent,N
+544,2994,7C,JJA,Jeju Air,JEJU AIR,Republic of Korea,legacy,Independent,Y
+545,3000,9W,JAI,Jet Airways,JET AIRWAYS,India,legacy,Independent,Y
+546,3001,QJ,NAN,Jet Airways,nan,United States,legacy,Independent,Y
+547,3007,0J,NAN,Jetclub,nan,Switzerland,legacy,Independent,N
+548,3021,3K,JSA,Jetstar Asia Airways,JETSTAR ASIA,Singapore,legacy,Independent,Y
+549,3026,LS,EXS,Jet2.com,CHANNEX,United Kingdom,legacy,Independent,Y
+550,3027,8J,JFU,Jet4You,ARGAN,Morocco,legacy,Independent,Y
+551,3029,B6,JBU,JetBlue Airways,JETBLUE,United States,legacy,Independent,Y
+552,3032,JF,JAF,Jetairfly,BEAUTY,Belgium,legacy,Independent,Y
+553,3051,SG,JGO,JetsGo,JETSGO,Canada,legacy,Independent,N
+554,3052,JQ,JST,Jetstar Airways,JETSTAR,Australia,legacy,Independent,Y
+555,3056,JX,JEC,Jett8 Airlines Cargo,nan,Singapore,legacy,Independent,N
+556,3060,GX,JXX,Jetx Airlines,JETBIRD,Iceland,legacy,Independent,N
+557,3073,R5,JAV,Jordan Aviation,JORDAN AVIATION,Jordan,legacy,Independent,N
+558,3087,KD,KNI,KD Avia,KALININGRAD AIR,Russia,legacy,Independent,Y
+559,3088,WA,KLC,KLM Cityhopper,CITY,Netherlands,legacy,Independent,Y
+560,3090,KL,KLM,KLM Royal Dutch Airlines,KLM,Netherlands,legacy,Independent,Y
+561,3094,K4,CKS,Kalitta Air,CONNIE,United States,legacy,Independent,N
+562,3097,RQ,KMF,Kam Air,KAMGAR,Afghanistan,legacy,Independent,Y
+563,3098,E2,KMP,Kampuchea Airlines,KAMPUCHEA,Cambodia,legacy,Independent,N
+564,3102,V2,AKT,Karat,AVIAKARAT,Russia,legacy,Independent,N
+565,3110,KV,MVD,Kavminvodyavia,AIR MINVODY,Russia,legacy,Independent,Y
+566,3123,M5,KEN,Kenmore Air,KENMORE,United States,legacy,Independent,Y
+567,3126,KQ,KQA,Kenya Airways,KENYA,Kenya,legacy,Independent,Y
+568,3142,IT,KFR,Kingfisher Airlines,KINGFISHER,India,legacy,Independent,Y
+569,3148,Y9,IRK,Kish Air,KISHAIR,Iran,legacy,Independent,Y
+570,3151,KP,KIA,Kiwi International Air Lines,KIWI AIR,United States,legacy,Independent,N
+571,3157,7K,KGL,Kogalymavia Air Company,KOGALYM,Russia,legacy,Independent,Y
+572,3163,KE,KAL,Korean Air,KOREANAIR,Republic of Korea,legacy,Independent,Y
+573,3168,7B,KJC,Krasnojarsky Airlines,KRASNOJARSKY AIR,Russia,legacy,Independent,Y
+574,3172,K9,KRI,Krylo Airlines,Krylo,Russia,legacy,Independent,N
+575,3175,GW,KIL,Kuban Airlines,AIR KUBAN,Russia,legacy,Independent,Y
+576,3179,KU,KAC,Kuwait Airways,KUWAITI,Kuwait,legacy,Independent,Y
+577,3180,GO,KZU,Kuzu Airlines Cargo,KUZU CARGO,Turkey,legacy,Independent,Y
+578,3183,N5,KGZ,Kyrgyz Airlines,BERMET,Kyrgyzstan,legacy,Independent,N
+579,3186,R8,KGA,Kyrgyzstan Airlines,KYRGYZ,Kyrgyzstan,legacy,Independent,N
+580,3197,LR,LRC,LACSA,LACSA,Costa Rica,legacy,Independent,Y
+581,3199,KG,BNX,LAI - Linea Aerea IAACA,AIR BARINAS,Venezuela,legacy,Independent,N
+582,3200,LA,LAN,LAN Airlines,LAN,Chile,legacy,Independent,Y
+583,3201,4M,DSM,LAN Argentina,LAN AR,Argentina,legacy,Independent,Y
+584,3204,LU,LXP,LAN Express,LANEX,Chile,legacy,Independent,Y
+585,3205,LP,LPE,LAN Peru,LANPERU,Peru,legacy,Independent,Y
+586,3210,LO,LOT,LOT Polish Airlines,POLLOT,Poland,legacy,Independent,Y
+587,3213,LT,LTU,LTU International,LTU,Germany,legacy,Independent,N
+588,3220,N6,JEV,Lagun Air,nan,Spain,legacy,Independent,N
+589,3233,QV,LAO,Lao Airlines,LAO,Lao Peoples Democratic Republic,legacy,Independent,Y
+590,3235,L7,LPN,Laoag International Airlines,LAOAG AIR,Philippines,legacy,Independent,N
+591,3239,NG,LDA,Lauda Air,LAUDA AIR,Austria,legacy,Independent,Y
+592,3246,LQ,LAQ,Lebanese Air Transport,LAT,Lebanon,legacy,Independent,N
+593,3251,LI,LIA,Leeward Islands Air Transport,LIAT,Antigua and Barbuda,legacy,Independent,Y
+594,3258,LN,LAA,Libyan Arab Airlines,LIBAIR,Libya,legacy,Independent,Y
+595,3272,8Z,LER,Linea Aerea de Servicio Ejecutivo Regional,LASER,Venezuela,legacy,Independent,N
+596,3287,LM,LAM,Linhas A,MOZAMBIQUE,Mozambique,legacy,Independent,Y
+597,3290,JT,LNI,Lion Mentari Airlines,LION INTER,Indonesia,legacy,Independent,Y
+598,3295,LB,LLB,Lloyd Aereo Boliviano,LLOYDAEREO,Bolivia,legacy,Independent,N
+599,3319,HE,LGW,Luftfahrtgesellschaft Walter,WALTER,Germany,legacy,Independent,Y
+600,3320,LH,DLH,Lufthansa,LUFTHANSA,Germany,legacy,Independent,Y
+601,3322,CL,CLH,Lufthansa CityLine,HANSALINE,Germany,legacy,Independent,Y
+602,3323,L1,NAN,Lufthansa Systems,nan,Germany,legacy,Independent,N
+603,3325,DV,LTF,Lufttaxi Fluggesellschaft,Garfield,Germany,legacy,Independent,N
+604,3326,L5,LTR,Lufttransport,LUFT TRANSPORT,Norway,legacy,Independent,Y
+605,3329,LG,LGL,Luxair,LUXAIR,Luxembourg,legacy,Independent,Y
+606,3335,5V,UKW,Lviv Airlines,UKRAINE WEST,Ukraine,legacy,Independent,N
+607,3338,L2,LYC,Lynden Air Cargo,LYNDEN,United States,legacy,Independent,N
+608,3342,MJ,LPR,L,LAPA,Argentina,legacy,Independent,Y
+609,3349,M7,MAA,MasAir,MAS CARGA,Mexico,legacy,Independent,Y
+610,3350,IN,MAK,MAT Macedonian Airlines,MAKAVIO,Macedonia,legacy,Independent,Y
+611,3354,OM,MGL,MIAT Mongolian Airlines,MONGOL AIR,Mongolia,legacy,Independent,Y
+612,3366,DM,NAN,Maersk,nan,Denmark,legacy,Independent,Y
+613,3370,W5,IRM,Mahan Air,MAHAN AIR,Iran,legacy,Independent,Y
+614,3371,M2,MZS,Mahfooz Aviation,MAHFOOZ,Gambia,legacy,Independent,N
+615,3378,MH,MAS,Malaysia Airlines,MALAYSIAN,Malaysia,legacy,Independent,Y
+616,3386,TF,SCW,Malmö Aviation,Scanwings,Sweden,legacy,Independent,Y
+617,3389,MA,MAH,Malév,MALEV,Hungary,legacy,Independent,Y
+618,3391,RI,MDL,Mandala Airlines,MANDALA,Indonesia,legacy,Independent,Y
+619,3392,AE,MDA,Mandarin Airlines,Mandarin,Taiwan,legacy,Independent,Y
+620,3393,JE,MNO,Mango,TULCA,South Africa,legacy,Independent,Y
+621,3411,MP,MPH,Martinair,MARTINAIR,Netherlands,legacy,Independent,Y
+622,3421,Q4,NAN,Mastertop Linhas Aereas,nan,Brazil,legacy,Independent,N
+623,3432,8M,MXL,Maxair,MAXAIR,Sweden,legacy,Independent,Y
+624,3434,MY,MXJ,Maxjet Airways,MAX-JET,United States,legacy,Independent,N
+625,3437,MW,MYD,Maya Island Air,MYLAND,Belize,legacy,Independent,Y
+626,3454,IM,MNJ,Menajet,MENAJET,Lebanon,legacy,Independent,N
+627,3463,IG,ISS,Meridiana,MERAIR,Italy,legacy,Independent,Y
+628,3465,MZ,MNA,Merpati Nusantara Airlines,MERPATI,Indonesia,legacy,Independent,Y
+629,3466,YV,ASH,Mesa Airlines,AIR SHUTTLE,United States,legacy,Independent,Y
+630,3467,XJ,MES,Mesaba Airlines,MESABA,United States,legacy,Independent,Y
+631,3479,MX,MXA,Mexicana de Aviaci,MEXICANA,Mexico,legacy,Independent,Y
+632,3490,ME,MEA,Middle East Airlines,CEDAR JET,Lebanon,legacy,Independent,Y
+633,3494,JI,MDW,Midway Airlines,MIDWAY,United States,legacy,Independent,Y
+634,3497,YX,MEP,Midwest Airlines,nan,United States,legacy,Independent,Y
+635,3529,2M,MDV,Moldavian Airlines,MOLDAVIAN,Moldova,legacy,Independent,Y
+636,3534,8I,NAN,Myway Airlines,nan,Italy,legacy,Independent,Y
+637,3539,YM,MGX,Montenegro Airlines,MONTAIR,Montenegro,legacy,Independent,Y
+638,3545,3R,GAI,Moskovia Airlines,GROMOV AIRLINE,Russia,legacy,Independent,Y
+639,3547,M9,MSI,Motor Sich,MOTOR SICH,Ukraine,legacy,Independent,Y
+640,3550,N4,MTC,Mountain Air Company,MOUNTAIN LEONE,Sierra Leone,legacy,Independent,N
+641,3568,VZ,MYT,MyTravel Airways,KESTREL,United Kingdom,legacy,Independent,Y
+642,3569,UB,UBA,Myanma Airways,UNIONAIR,Myanmar,legacy,Independent,Y
+643,3588,P9,NAN,Nas Air,nan,Mali,legacy,Independent,N
+644,3589,UE,NAS,Nasair,NASAIRWAYS,Eritrea,legacy,Independent,Y
+645,3597,N7,ROK,National Airlines,RED ROCK,United States,legacy,Independent,N
+646,3600,9O,NAN,National Airways Cameroon,nan,Cameroon,legacy,Independent,N
+647,3608,NC,NJS,National Jet Systems,NATIONAL JET,Australia,legacy,Independent,Y
+648,3613,CE,NTW,Nationwide Airlines,NATIONWIDE,South Africa,legacy,Independent,Y
+649,3618,ON,RON,Nauru Air Corporation,AIR NAURU,Nauru,legacy,Independent,Y
+650,3627,1N,NAN,Navitaire,nan,United States,legacy,Independent,N
+651,3637,RA,RNA,Nepal Airlines,ROYAL NEPAL,Nepal,legacy,Independent,Y
+652,3644,EJ,NEA,New England Airlines,NEW ENGLAND,United States,legacy,Independent,Y
+653,3652,2N,NTJ,NextJet,NEXTJET,Sweden,legacy,Independent,Y
+654,3661,HG,NLY,Niki,FLYNIKI,Austria,legacy,Independent,Y
+655,3667,KZ,NCA,Nippon Cargo Airlines,NIPPON CARGO,Japan,legacy,Independent,N
+656,3674,DD,NOK,Nok Air,NOK AIR,Thailand,legacy,Independent,Y
+657,3679,JH,NES,Nordeste Linhas Aereas Regionais,NORDESTE,Brazil,legacy,Independent,N
+658,3680,6N,NRD,Nordic Regional,NORTH RIDER,Sweden,legacy,Independent,N
+659,3701,N9,NAN,North Coast Aviation,nan,Papua New Guinea,legacy,Independent,N
+660,3721,U7,NAN,Northern Dene Airways,nan,Canada,legacy,Independent,Y
+661,3731,NW,NWA,Northwest Airlines,NORTHWEST,United States,legacy,Independent,Y
+662,3734,J3,PLR,Northwestern Air,POLARIS,Canada,legacy,Independent,Y
+663,3737,DY,NAX,Norwegian Air Shuttle,NOR SHUTTLE,Norway,legacy,Independent,Y
+664,3740,BJ,LBT,Nouvel Air Tunisie,NOUVELAIR,Tunisia,legacy,Independent,Y
+665,3741,M4,NOV,Nova Airline,NOVANILE,Sudan,legacy,Independent,N
+666,3754,XY,KNE,Nas Air,NAS EXPRESS,Saudi Arabia,legacy,Independent,Y
+667,3756,UQ,OCM,O'Connor Airlines,OCONNOR,Australia,legacy,Independent,N
+668,3757,CR,NAN,OAG,nan,United Kingdom,legacy,Independent,N
+669,3759,O8,OHK,Oasis Hong Kong Airlines,OASIS,Hong Kong,legacy,Independent,Y
+670,3761,VC,VCX,Ocean Airlines,OCEANCARGO,Italy,legacy,Independent,N
+671,3764,O6,ONE,Oceanair,OCEANAIR,Brazil,legacy,Independent,Y
+672,3765,O2,NAN,Oceanic Airlines,nan,Guinea,legacy,Independent,Y
+673,3776,OA,OAL,Olympic Airlines,OLYMPIC,Greece,legacy,Independent,Y
+674,3778,WY,OMA,Oman Air,OMAN AIR,Oman,legacy,Independent,Y
+675,3781,OY,OAE,Omni Air International,OMNI-EXPRESS,United States,legacy,Independent,Y
+676,3783,N3,OMS,Omskavia Airline,OMSK,Russia,legacy,Independent,N
+677,3805,R2,ORB,Orenburg Airlines,ORENBURG,Russia,legacy,Independent,Y
+678,3811,OX,OEA,Orient Thai Airlines,ORIENT THAI,Thailand,legacy,Independent,Y
+679,3822,OL,OLT,Ostfriesische Lufttransport,OLTRA,Germany,legacy,Independent,Y
+680,3826,OJ,OLA,Overland Airways,OVERLAND,Nigeria,legacy,Independent,Y
+681,3831,O7,OZJ,Ozjet Airlines,AUSJET,Australia,legacy,Independent,Y
+682,3834,PV,PNR,PAN Air,SKYJET,Spain,legacy,Independent,Y
+683,3835,9Q,PBA,PB Air,PEEBEE AIR,Thailand,legacy,Independent,Y
+684,3839,PU,PUA,PLUNA,PLUNA,Uruguay,legacy,Independent,Y
+685,3840,U4,PMT,PMTair,MULTITRADE,Cambodia,legacy,Independent,Y
+686,3845,Y5,PCE,Pace Airlines,PACE,United States,legacy,Independent,N
+687,3850,BL,PIC,Jetstar Pacific,PACIFIC AIRLINES,Vietnam,legacy,Independent,Y
+688,3854,DJ,PBN,Pacific Blue,BLUEBIRD,New Zealand,legacy,Independent,N
+689,3856,8P,PCO,Pacific Coastal Airline,PASCO,Canada,legacy,Independent,Y
+690,3857,Q8,PEC,Pacific East Asia Cargo Airlines,PAC-EAST CARGO,Philippines,legacy,Independent,Y
+691,3864,PS,PSX,Pacific Southwest Airlines,SMILEY,United States,legacy,Independent,N
+692,3865,LW,NMI,Pacific Wings,TSUNAMI,United States,legacy,Independent,Y
+693,3871,PK,PIA,Pakistan International Airlines,PAKISTAN,Pakistan,legacy,Independent,Y
+694,3876,PF,PNW,Palestinian Airlines,PALESTINIAN,Egypt,legacy,Independent,N
+695,3878,NR,PIR,Pamir Airways,PAMIR,Afghanistan,legacy,Independent,N
+696,3891,PQ,PNF,Panafrican Airways,PANWAYS,Ivory Coast,legacy,Independent,N
+697,3900,P8,PTN,Pantanal Linhas Aéreas,PANTANAL,Brazil,legacy,Independent,N
+698,3907,I7,PMW,Paramount Airways,PARAWAY,India,legacy,Independent,Y
+699,3935,KS,PEN,Peninsula Airways,PENINSULA,United States,legacy,Independent,Y
+700,3952,PR,PAL,Philippine Airlines,PHILIPPINE,Philippines,legacy,Independent,Y
+701,3968,9R,VAP,Phuket Air,PHUKET AIR,Thailand,legacy,Independent,N
+702,3969,PI,PDT,Piedmont Airlines (1948-1989),PIEDMONT,United States,legacy,Independent,Y
+703,3976,9E,FLG,Pinnacle Airlines,FLAGSHIP,United States,legacy,Independent,Y
+704,3992,PO,PAC,Polar Air Cargo,POLAR,United States,legacy,Independent,N
+705,4013,PH,PAO,Polynesian Airlines,POLYNESIAN,Samoa,legacy,Independent,Y
+706,4021,PD,POE,Porter Airlines,PORTER AIR,Canada,legacy,Independent,Y
+707,4022,NI,PGA,Portugalia,PORTUGALIA,Portugal,legacy,Independent,Y
+708,4026,BK,PDC,Potomac Air,DISTRICT,United States,legacy,Independent,Y
+709,4031,PW,PRF,Precision Air,PRECISION AIR,Tanzania,legacy,Independent,Y
+710,4040,TO,PSD,President Airlines,nan,Cambodia,legacy,Independent,N
+711,4044,FE,WCP,Primaris Airlines,WHITECAP,United States,legacy,Independent,N
+712,4066,P0,NAN,Proflight Commuter Services,nan,Zambia,legacy,Independent,Y
+713,4089,QF,QFA,Qantas,QANTAS,Australia,legacy,Independent,Y
+714,4091,QR,QTR,Qatar Airways,QATARI,Qatar,legacy,Independent,Y
+715,4106,R6,NAN,RACSA,nan,Guatemala,legacy,Independent,Y
+716,4134,1D,NAN,Radixx Solutions International,nan,United States,legacy,Independent,N
+717,4165,V4,REK,Reem Air,REEM AIR,Kyrgyzstan,legacy,Independent,N
+718,4177,FN,NAN,Regional Airlines,nan,Morocco,legacy,Independent,Y
+719,4178,ZL,RXA,Regional Express,REX,Australia,legacy,Independent,Y
+720,4180,3C,CEA,RegionsAir,CORP-X,United States,legacy,Independent,N
+721,4187,RW,RPA,Republic Airlines,BRICKYARD,United States,legacy,Independent,Y
+722,4188,RH,RPH,Republic Express Airlines,PUBLIC EXPRESS,Indonesia,legacy,Independent,Y
+723,4198,C7,RLE,Rico Linhas A,RICO,Brazil,legacy,Independent,N
+724,4207,SL,RSL,Rio Sul Servi,RIO SUL,Brazil,legacy,Independent,N
+725,4232,R4,NAN,Rossiya,nan,Russia,legacy,Independent,Y
+726,4234,GZ,RAR,Air Rarotonga,nan,Cook Islands,legacy,Independent,Y
+727,4241,RR,RFR,Royal Air Force,RAFAIR,United Kingdom,legacy,Independent,N
+728,4248,AT,RAM,Royal Air Maroc,ROYALAIR MAROC,Morocco,legacy,Independent,Y
+729,4249,R0,RPK,Royal Airlines,ROYAL PAKISTAN,Pakistan,legacy,Independent,N
+730,4255,BI,RBA,Royal Brunei Airlines,BRUNEI,Brunei,legacy,Independent,Y
+731,4259,RJ,RJA,Royal Jordanian,JORDANIAN,Jordan,legacy,Independent,Y
+732,4275,WR,HRH,Royal Tongan Airlines,TONGA ROYAL,Tonga,legacy,Independent,N
+733,4286,P7,ESL,Russian Sky Airlines,RADUGA,Russia,legacy,Independent,N
+734,4292,WB,RWD,Rwandair Express,RWANDAIR,Rwanda,legacy,Independent,Y
+735,4295,RD,RYN,Ryan International Airlines,RYAN INTERNATIONAL,United States,legacy,Independent,Y
+736,4296,FR,RYR,Ryanair,RYANAIR,Ireland,legacy,Independent,Y
+737,4299,YS,RAE,Régional,REGIONAL EUROPE,France,legacy,Independent,Y
+738,4304,S4,RZO,SATA International,AIR AZORES,Portugal,legacy,Independent,Y
+739,4305,SA,SAA,South African Airways,SPRINGBOK,South Africa,legacy,Independent,Y
+740,4311,NL,SAI,Shaheen Air International,SHAHEEN AIR,Pakistan,legacy,Independent,Y
+741,4319,SK,SAS,Scandinavian Airlines System,SCANDINAVIAN,Sweden,legacy,Independent,Y
+742,4329,S7,SBI,S7 Airlines,SIBERIAN AIRLINES,Russia,legacy,Independent,Y
+743,4335,BB,SBS,Seaborne Airlines,SEABORNE,United States,legacy,Independent,Y
+744,4349,UL,ALK,SriLankan Airlines,SRILANKAN,Sri Lanka,legacy,Independent,Y
+745,4356,SY,SCX,Sun Country Airlines,SUN COUNTRY,United States,legacy,Independent,Y
+746,4379,I6,SEQ,Sky Eyes,SKY EYES,Thailand,legacy,Independent,N
+747,4388,7G,SFJ,Star Flyer,STARFLYER,Japan,legacy,Independent,Y
+748,4392,FA,SFR,Safair,CARGO,South Africa,legacy,Independent,N
+749,4429,SP,SAT,SATA Air Acores,SATA,Portugal,legacy,Independent,Y
+750,4430,8S,NAN,Scorpio Aviation,nan,nan,legacy,Independent,N
+751,4435,SQ,SIA,Singapore Airlines,SINGAPORE,Singapore,legacy,Independent,Y
+752,4436,5M,SIB,Sibaviatrans,SIBAVIA,Russia,legacy,Independent,Y
+753,4438,SI,SIH,Skynet Airlines,BLUEJET,Ireland,legacy,Independent,Y
+754,4445,XS,SIT,SITA,nan,Belgium,legacy,Independent,N
+755,4454,SJ,SJY,Sriwijaya Air,SRIWIJAYA,Indonesia,legacy,Independent,Y
+756,4455,ZS,SMY,Sama Airlines,NAJIM,Saudi Arabia,legacy,Independent,Y
+757,4469,FT,SRH,Siem Reap Airways,SIEMREAP AIR,Cambodia,legacy,Independent,Y
+758,4470,SX,SRK,Sky Work Airlines,SKYFOX,Switzerland,legacy,Independent,N
+759,4471,SM,SRL,Swedline Express,Starline,Sweden,legacy,Independent,N
+760,4475,DG,SRQ,South East Asian Airlines,SEAIR,Philippines,legacy,Independent,Y
+761,4496,5G,SSV,Skyservice Airlines,SKYTOUR,Canada,legacy,Independent,Y
+762,4513,FS,STU,Servicios de Transportes A,FUEGUINO,Argentina,legacy,Independent,Y
+763,4521,SD,SUD,Sudan Airways,SUDANAIR,Sudan,legacy,Independent,Y
+764,4533,SV,SVA,Saudi Arabian Airlines,SAUDIA,Saudi Arabia,legacy,Independent,Y
+765,4547,WN,SWA,Southwest Airlines,SOUTHWEST,United States,legacy,Independent,Y
+766,4550,A4,SWD,Southern Winds Airlines,SOUTHERN WINDS,Argentina,legacy,Independent,Y
+767,4553,WG,SWG,Sunwing Airlines,SUNWING,Canada,legacy,Independent,N
+768,4559,LX,SWR,Swiss International Air Lines,SWISS,Switzerland,legacy,Independent,Y
+769,4560,SR,SWR,Swissair,Swissair,Switzerland,legacy,Independent,Y
+770,4564,WV,SWV,Swe Fly,FLYING SWEDE,Sweden,legacy,Independent,Y
+771,4573,XQ,SXS,SunExpress,SUNEXPRESS,Turkey,legacy,Independent,Y
+772,4589,AL,SYX,Skywalk Airlines,SKYWAY-EX,United States,legacy,Independent,Y
+773,4590,ZP,AZQ,Silk Way Airlines,SILK LINE,Azerbaijan,legacy,Independent,N
+774,4596,E5,BRZ,Samara Airlines,BERYOZA,Russia,legacy,Independent,N
+775,4599,SC,CDG,Shandong Airlines,SHANDONG,China,legacy,Independent,Y
+776,4607,9S,CQH,Spring Airlines,AIR SPRING,China,legacy,Independent,Y
+777,4608,3U,CSC,Sichuan Airlines,SI CHUAN,China,legacy,Independent,Y
+778,4609,FM,CSH,Shanghai Airlines,SHANGHAI AIR,China,legacy,Independent,Y
+779,4611,ZH,CSZ,Shenzhen Airlines,SHENZHEN AIR,China,legacy,Independent,Y
+780,4619,7L,ERO,Sun D'Or,ECHO ROMEO,Israel,legacy,Independent,Y
+781,4620,NE,ESK,SkyEurope,RELAX,Slovakia,legacy,Independent,Y
+782,4621,CQ,EXL,Sunshine Express Airlines,nan,Australia,legacy,Independent,N
+783,4637,SO,HKA,Superior Aviation,SPEND AIR,United States,legacy,Independent,N
+784,4652,JK,JKK,Spanair,SPANAIR,Spain,legacy,Independent,Y
+785,4674,1Z,NAN,Sabre Pacific,nan,Australia,legacy,Independent,N
+786,4675,1S,NAN,Sabre,nan,United States,legacy,Independent,N
+787,4677,1H,NAN,Siren-Travel,nan,Russia,legacy,Independent,N
+788,4678,1Q,NAN,Sirena,nan,Russia,legacy,Independent,N
+789,4680,1K,NAN,Southern Cross Distribution,nan,Australia,legacy,Independent,N
+790,4682,2C,NAN,SNCF,nan,France,legacy,Independent,N
+791,4687,NK,NKS,Spirit Airlines,SPIRIT WINGS,United States,legacy,Independent,Y
+792,4694,S0,OKS,Slok Air Gambia,SLOK GAMBIA,Gambia,legacy,Independent,N
+793,4735,S3,BBR,Santa Barbara Airlines,SANTA BARBARA,Venezuela,legacy,Independent,Y
+794,4737,H2,SKU,Sky Airline,AEROSKY,Chile,legacy,Independent,Y
+795,4738,OO,SKW,SkyWest,SKYWEST,United States,legacy,Independent,Y
+796,4739,JZ,SKX,Skyways Express,SKY EXPRESS,Sweden,legacy,Independent,Y
+797,4740,BC,SKY,Skymark Airlines,SKYMARK,Japan,legacy,Independent,Y
+798,4742,LJ,SLA,Sierra National Airlines,SELAIR,Sierra Leone,legacy,Independent,N
+799,4750,MI,SLK,SilkAir,SILKAIR,Singapore,legacy,Independent,Y
+800,4751,6Q,SLL,Slovak Airlines,SLOV LINE,Slovakia,legacy,Independent,N
+801,4752,PY,SLM,Surinam Airways,SURINAM,Suriname,legacy,Independent,Y
+802,4776,NB,SNB,Sterling Airlines,STERLING,Denmark,legacy,Independent,Y
+803,4781,6J,SNJ,Skynet Asia Airways,NEWSKY,Japan,legacy,Independent,Y
+804,4797,IE,SOL,Solomon Airlines,SOLOMON,Solomon Islands,legacy,Independent,Y
+805,4805,6W,SOV,Saratov Aviation Division,SARATOV AIR,Russia,legacy,Independent,Y
+806,4808,HZ,SOZ,Sat Airlines,SATCO,Kazakhstan,legacy,Independent,Y
+807,4822,S5,TCF,Shuttle America,MERCURY,United States,legacy,Independent,Y
+808,4854,R1,NAN,Sirin,nan,nan,legacy,Independent,N
+809,4855,S6,NAN,Star Air,nan,Denmark,legacy,Independent,N
+810,4863,EQ,TAE,TAME,TAME,Ecuador,legacy,Independent,Y
+811,4867,JJ,TAM,TAM Brazilian Airlines,TAM,Brazil,legacy,Independent,Y
+812,4869,TP,TAP,TAP Portugal,AIR PORTUGAL,Portugal,legacy,Independent,Y
+813,4870,TU,TAR,Tunisair,TUNAIR,Tunisia,legacy,Independent,Y
+814,4873,3V,TAY,TNT Airways,QUALITY,Belgium,legacy,Independent,N
+815,4889,T2,TCG,Thai Air Cargo,THAI CARGO,Thailand,legacy,Independent,Y
+816,4896,FQ,TCW,Thomas Cook Airlines,THOMAS COOK,Belgium,legacy,Independent,Y
+817,4897,MT,TCX,Thomas Cook Airlines,KESTREL,United Kingdom,legacy,Independent,Y
+818,4902,TQ,TDM,Tandem Aero,TANDEM,Moldova,legacy,Independent,N
+819,4908,L9,TLW,Teamline Air,Teamline,Austria,legacy,Independent,N
+820,4934,ZT,AWC,Titan Airways,ZAP,United Kingdom,legacy,Independent,N
+821,4936,TR,TGW,Tiger Airways,GO CAT,Singapore,legacy,Independent,Y
+822,4940,TG,THA,Thai Airways International,THAI,Thailand,legacy,Independent,Y
+823,4947,FD,AIQ,Thai AirAsia,THAI ASIA,Thailand,legacy,Independent,Y
+824,4951,TK,THY,Turkish Airlines,TURKAIR,Turkey,legacy,Independent,Y
+825,4965,T7,TJT,Twin Jet,TWINJET,France,legacy,Independent,Y
+826,4969,9I,TKY,Thai Sky Airlines,THAI SKY,Thailand,legacy,Independent,N
+827,5002,3P,TNM,Tiara Air,TIARA,Aruba,legacy,Independent,Y
+828,5012,TI,TOL,Tol-Air Services,TOL AIR,United States,legacy,Independent,N
+829,5013,BY,TOM,Thomsonfly,TOMSON,United Kingdom,legacy,Independent,Y
+830,5016,PM,TOS,Tropic Air,TROPISER,Belize,legacy,Independent,Y
+831,5020,QT,TPA,TAMPA,TAMPA,Colombia,legacy,Independent,Y
+832,5038,GE,TNA,TransAsia Airways,TransAsia,Taiwan,legacy,Independent,Y
+833,5039,HV,TRA,Transavia Holland,TRANSAVIA,Netherlands,legacy,Independent,Y
+834,5041,VR,TCV,TACV,CABOVERDE,Portugal,legacy,Independent,Y
+835,5054,T9,TRZ,TransMeridian Airlines,TRANS-MERIDIAN,United States,legacy,Independent,N
+836,5064,9T,ABS,Transwest Air,ATHABASKA,Canada,legacy,Independent,Y
+837,5067,UN,TSO,Transaero Airlines,TRANSOVIET,Russia,legacy,Independent,Y
+838,5083,T5,TUA,Turkmenistan Airlines,TURKMENISTAN,Turkmenistan,legacy,Independent,Y
+839,5085,UG,TUI,Tuninter,nan,Tunisia,legacy,Independent,Y
+840,5096,T6,TVR,Tavrey Airlines,TAVREY,Ukraine,legacy,Independent,N
+841,5098,TW,TWA,Trans World Airlines,TWA,United States,legacy,Independent,N
+842,5122,6B,BLX,TUIfly Nordic,BLUESCAN,Sweden,legacy,Independent,Y
+843,5133,DT,DTA,TAAG Angola Airlines,DTA,Angola,legacy,Independent,Y
+844,5134,SF,DTH,Tassili Airlines,TASSILI AIR,Algeria,legacy,Independent,N
+845,5156,PZ,LAP,TAM Mercosur,PARAGUAYA,Paraguay,legacy,Independent,Y
+846,5160,AX,LOF,Trans States Airlines,WATERSKI,United States,legacy,Independent,Y
+847,5168,1E,NAN,Travelsky Technology,nan,China,legacy,Independent,N
+848,5169,2H,NAN,Thalys,nan,Belgium,legacy,Independent,N
+849,5172,1L,OSY,Open Skies Consultative Commission,OPEN SKIES,United States,legacy,Independent,N
+850,5179,RO,ROT,Tarom,TAROM,Romania,legacy,Independent,Y
+851,5187,3T,URN,Turan Air,TURAN,Azerbaijan,legacy,Independent,Y
+852,5188,8R,TIB,TRIP Linhas A,TRIP,Brazil,legacy,Independent,Y
+853,5207,U5,GWY,USA3000 Airlines,GETAWAY,United States,legacy,Independent,Y
+854,5209,UA,UAL,United Airlines,UNITED,United States,legacy,Independent,Y
+855,5234,U6,SVR,Ural Airlines,SVERDLOVSK AIR,Russia,legacy,Independent,Y
+856,5251,UF,UKM,UM Airlines,UKRAINE MEDITERRANEE,Ukraine,legacy,Independent,Y
+857,5254,6Z,UKS,Ukrainian Cargo Airways,CARGOTRANS,Ukraine,legacy,Independent,N
+858,5263,5X,UPS,United Parcel Service,UPS,United States,legacy,Independent,N
+859,5265,US,USA,US Airways,U S AIR,United States,legacy,Independent,Y
+860,5271,UT,UTA,UTair Aviation,UTAIR,Russia,legacy,Independent,Y
+861,5281,HY,UZB,Uzbekistan Airways,UZBEK,Uzbekistan,legacy,Independent,Y
+862,5284,UH,NAN,US Helicopter Corporation,nan,United States,legacy,Independent,Y
+863,5288,VA,VAU,V Australia Airlines,KANGA,Australia,legacy,Independent,N
+864,5297,VF,VLU,Valuair,VALUAIR,Singapore,legacy,Independent,Y
+865,5309,VN,HVN,Vietnam Airlines,VIET NAM AIRLINES,Vietnam,legacy,Independent,Y
+866,5311,NN,MOV,VIM Airlines,MOV AIR,Russia,legacy,Independent,Y
+867,5313,2R,NAN,VIA Rail Canada,nan,Canada,legacy,Independent,N
+868,5325,Y4,VOI,Volaris,VOLARIS,Mexico,legacy,Independent,Y
+869,5326,VI,VDA,Volga-Dnepr Airlines,VOLGA-DNEPR,Russia,legacy,Independent,Y
+870,5331,VX,VRD,Virgin America,REDWOOD,United States,legacy,Independent,Y
+871,5333,TV,VEX,Virgin Express,VIRGIN EXPRESS,Belgium,legacy,Independent,Y
+872,5335,VK,VGN,Virgin Nigeria Airways,VIRGIN NIGERIA,Nigeria,legacy,Independent,Y
+873,5347,VS,VIR,Virgin Atlantic Airways,VIRGIN,United Kingdom,legacy,Independent,Y
+874,5350,ZG,VVM,Viva Macau,JACKPOT,Macao,legacy,Independent,Y
+875,5353,XF,VLK,Vladivostok Air,VLADAIR,Russia,legacy,Independent,Y
+876,5354,LC,VLO,Varig Log,VELOG,Brazil,legacy,Independent,Y
+877,5358,VM,VOA,Viaggio Air,VIAGGIO,Bulgaria,legacy,Independent,N
+878,5368,RG,VRN,VRG Linhas Aereas,VARIG,Brazil,legacy,Independent,Y
+879,5373,VP,VSP,VASP,VASP,Brazil,legacy,Independent,Y
+880,5383,VG,VLM,VLM Airlines,RUBENS,Belgium,legacy,Independent,Y
+881,5397,7W,NAN,Wayraper,WAYRAPER,Peru,legacy,Independent,Y
+882,5399,WJ,WEB,WebJet Linhas A,WEB-BRASIL,Brazil,legacy,Independent,Y
+883,5401,2W,WLC,Welcome Air,WELCOMEAIR,Austria,legacy,Independent,Y
+884,5411,8O,NAN,West Coast Air,nan,Canada,legacy,Independent,Y
+885,5416,WS,WJA,WestJet,WESTJET,Canada,legacy,Independent,Y
+886,5439,WF,WIF,Widerøe,WIDEROE,Norway,legacy,Independent,Y
+887,5447,IV,JET,Wind Jet,GHIBLI,Italy,legacy,Independent,Y
+888,5461,W6,WZZ,Wizz Air,WIZZ AIR,Hungary,legacy,Independent,Y
+889,5465,WO,WOA,World Airways,WORLD,United States,legacy,Independent,Y
+890,5468,1P,NAN,Worldspan,nan,United States,legacy,Independent,N
+891,5479,SE,SEU,XL Airways France,STARWAY,France,legacy,Independent,Y
+892,5484,MF,CXA,Xiamen Airlines,XIAMEN AIR,China,legacy,Independent,Y
+893,5487,XP,CXP,Xtra Airways,RUBY MOUNTAIN,United States,legacy,Independent,N
+894,5492,YL,LLM,Yamal Airlines,YAMAL,Russia,legacy,Independent,Y
+895,5494,Y8,YZR,Yangtze River Express,YANGTZE RIVER,China,legacy,Independent,N
+896,5496,IY,IYE,Yemenia,YEMENI,Yemen,legacy,Independent,Y
+897,5508,Q3,MBN,Zambian Airways,ZAMBIANA,Zambia,legacy,Independent,N
+898,5521,3J,WZP,Zip,ZIPPER,Canada,legacy,Independent,N
+899,5522,C4,IMX,Zimex Aviation,ZIMEX,Switzerland,legacy,Independent,N
+900,5523,Z4,OOM,Zoom Airlines,ZOOM,Canada,legacy,Independent,Y
+901,5556,UK,BUZ,buzz,NONE,Unknown,legacy,Independent,N
+902,5584,XW,SXR,Sky Express,SKYSTORM,Russia,legacy,Independent,Y
+903,5640,Y0,UNKN,Yellow Air Taxi,nan,United States,legacy,Independent,N
+904,5813,6T,UNKN,Air Mandalay,Six Tango,Burma,legacy,Independent,Y
+905,6002,TB,TUB,TUI Airlines Belgium,BEAUTY,Belgium,legacy,Independent,N
+906,6183,BU,BRA,Braathens,Braathens,Norway,legacy,Independent,N
+907,6196,GH,GLP,Globus,nan,Russia,legacy,Independent,Y
+908,6222,9Y,KZK,Air Kazakhstan,Kazakh,Kazakhstan,legacy,Independent,Y
+909,6557,JD,JAS,Japan Air System,Air System,Japan,legacy,Independent,Y
+910,6578,ZQ,UNKN,Annsett New Zealand (NZA),nan,New Zealand,legacy,Independent,N
+911,6855,DS,UNKN,EasyJet (DS),nan,Switzerland,legacy,Independent,Y
+912,8359,2I,UNKN,Star Peru (2I),nan,Peru,legacy,Independent,Y
+913,8461,KW,UNKN,Carnival Air Lines,Carnival Air,United States,legacy,Independent,Y
+914,8463,4H,UBD,United Airways,UNITED BANGLADESH,Bangladesh,legacy,Independent,Y
+915,8568,M8,TMW,Trans Maldivian Airways,nan,Maldives,legacy,Independent,N
+916,8576,5H,FFV,Fly540,SWIFT TANGO,Kenya,legacy,Independent,Y
+917,8809,WP,MKU,Island Air (WP),nan,United States,legacy,Independent,Y
+918,9018,OG,UNKN,1-2-go,nan,Thailand,legacy,Independent,N
+919,9082,B7,UIA,Uni Air,Glory,Taiwan,legacy,Independent,Y
+920,9135,YD,UNKN,Gomelavia,nan,Belarus,legacy,Independent,Y
+921,9239,WZ,RWZ,Red Wings,AIR RED,Russia,legacy,Independent,Y
+922,9335,11,UNKN,TUIfly (X3),nan,Germany,legacy,Independent,Y
+923,9343,FU,FXX,Felix Airways,nan,Yemen,legacy,Independent,Y
+924,9344,K1,KOQ,Kostromskie avialinii,nan,Russia,legacy,Independent,Y
+925,9373,XX,GFY,Greenfly,nan,Spain,legacy,Independent,Y
+926,9531,7J,UNKN,Tajik Air,nan,Tajikistan,legacy,Independent,Y
+927,9541,TM,UNKN,Air Mozambique,nan,Mozambique,legacy,Independent,Y
+928,9666,VH,VNP,Virgin Pacific,nan,Fiji,legacy,Independent,Y
+929,9764,Z2,UNKN,Zest Air,nan,Philippines,legacy,Independent,Y
+930,9818,3O,UNKN,Air Arabia Maroc,Air Arabia,Morocco,legacy,Independent,Y
+931,9825,B1,BA1,Baltic Air lines,Baltic,Latvia,legacy,Independent,Y
+932,9828,YC,YCC,Ciel Canadien,Ciel,Canada,legacy,Independent,Y
+933,9851,3I,UNKN,Air Comet Chile,nan,Chile,legacy,Independent,Y
+934,10094,DN,UNKN,Voronezhskie Airlanes,nan,Russia,legacy,Independent,N
+935,10121,IL,ILW,Illinois Airways,nan,United States,legacy,Independent,N
+936,10122,SZ,UNKN,Salzburg arrows,SZA,Austria,legacy,Independent,Y
+937,10124,KT,CWS,California Western,nan,United States,legacy,Independent,N
+938,10224,ZZ,UNKN,Zz,nan,Belgium,legacy,Independent,Y
+939,10226,A1,A1F,Atifly,atifly,United States,legacy,Independent,Y
+940,10334,CB,UNKN,Suckling Airways,nan,United Kingdom,legacy,Independent,N
+941,10367,RY,UNKN,Reno Sky,nan,United States,legacy,Independent,N
+942,10372,99,UNKN,Ciao Air,nan,Italy,legacy,Independent,Y
+943,10646,VB,UNKN,Birmingham European,nan,United Kingdom,legacy,Independent,N
+944,10650,5P,UNKN,Pal airlines,nan,Chile,legacy,Independent,Y
+945,10673,C1,CA1,CanXpress,CAX,Canada,legacy,Independent,Y
+946,10683,C2,CAP,CanXplorer,nan,Canada,legacy,Independent,Y
+947,10715,QA,UNKN,Click (Mexicana),nan,Mexico,legacy,Independent,Y
+948,10735,W1,WE1,World Experience Airline,WEA,Canada,legacy,Independent,Y
+949,10739,3E,UNKN,Air Choice One,nan,United States,legacy,Independent,Y
+950,10741,KN,UNKN,China United,nan,China,legacy,Independent,Y
+951,10758,4Q,UNKN,Safi Airlines,nan,Afghanistan,legacy,Independent,Y
+952,10798,01,UNKN,Bobb Air Freight,nan,Germany,legacy,Independent,Y
+953,10845,6D,UNKN,Pelita,nan,Indonesia,legacy,Independent,Y
+954,10912,J5,UNKN,Alaska Seaplane Service,nan,United States,legacy,Independent,Y
+955,10929,T8,UNKN,TAN,nan,Argentina,legacy,Independent,N
+956,10969,T0,UNKN,TACA Peru,TACA PERU,Peru,legacy,Independent,Y
+957,11731,7Q,UNKN,Pan Am World Airways Dominicana,PAWA,Dominican Republic,legacy,Independent,Y
+958,11761,V6,UNKN,VIP Ecuador,nan,Ecuador,legacy,Independent,Y
+959,11794,OC,UNKN,Catovair,CATOVAIR,Mauritius,legacy,Independent,Y
+960,11804,7Z,UNKN,Halcyonair,CREOLE,Cape Verde,legacy,Independent,Y
+961,11805,4P,UNKN,Business Aviation,AFRICAN BUSINESS,Congo (Kinshasa),legacy,Independent,Y
+962,11811,UJ,LMU,AlMasria Universal Airlines,ALMASRIA,Egypt,legacy,Independent,Y
+963,11814,6Y,UNKN,SmartLynx Airlines,nan,Latvia,legacy,Independent,Y
+964,11816,K7,KBR,KoralBlue Airlines,KORAL BLUE,Egypt,legacy,Independent,Y
+965,11843,7Y,UNKN,Med Airways,FLYING CARPET,Lebanon,legacy,Independent,Y
+966,11857,RL,RFJ,Royal Falcon,nan,Jordan,legacy,Independent,Y
+967,11873,4L,MJX,Euroline,GEO-LINE,Georgia,legacy,Independent,Y
+968,11947,ZF,UNKN,Athens Airways,ATHENSAIR,Greece,legacy,Independent,Y
+969,11948,VQ,VKH,Viking Hellas,DELPHI,Greece,legacy,Independent,Y
+970,11963,DZ,UNKN,Starline.kz,ALUNK,Kazakhstan,legacy,Independent,Y
+971,12975,OQ,CQN,Chongqing Airlines,CHONG QING,China,legacy,Independent,Y
+972,12978,PN,CHB,West Air China,WEST CHINA,China,legacy,Independent,Y
+973,13088,Y7,UNKN,NordStar Airlines,nan,Russia,legacy,Independent,Y
+974,13106,9H,UNKN,MDLR Airlines,MDLR,India,legacy,Independent,Y
+975,13108,Q2,UNKN,Maldivian,ISLAND AVIATION,Maldives,legacy,Independent,Y
+976,13130,XN,UNKN,Xpressair,nan,Indonesia,legacy,Independent,Y
+977,13218,5E,UNKN,SGA Airlines,SIAM,Thailand,legacy,Independent,Y
+978,13242,F8,UNKN,Air2there,nan,New Zealand,legacy,Independent,Y
+979,13633,WQ,PQW,PanAm World Airways,nan,United States,legacy,Independent,Y
+980,13690,YY,VWA,Virginwings,nan,Germany,legacy,Independent,Y
+981,13757,WU,WAU,Wizz Air Ukraine,WIZZAIR UKRAINE,Ukraine,legacy,Independent,Y
+982,13781,47,VVN,88,nan,Cyprus,legacy,Independent,Y
+983,13923,H3,T33,THREE,nan,China,legacy,Independent,N
+984,13936,69,UNKN,Royal European Airlines,nan,United Kingdom,legacy,Independent,Y
+985,14109,X1,UNKN,Nik Airways,nan,Saudi Arabia,legacy,Independent,N
+986,14388,XZ,UNKN,Congo Express,EXPRESSWAYS,Congo (Kinshasa),legacy,Independent,Y
+987,14485,FZ,FDB,Fly Dubai,nan,United Arab Emirates,legacy,Independent,Y
+988,14620,D1,MDO,Domenican Airlines,Domenican,Dominican Republic,legacy,Independent,Y
+989,14725,9A,UNKN,Air Atlantic,Atlantic,Canada,legacy,Independent,N
+990,14881,YZ,YZZ,LSM AIRLINES,Moscow frog,Russia,legacy,Independent,Y
+991,14921,YP,AEF,Aero Lloyd (YP),nan,Germany,legacy,Independent,N
+992,15814,UR,UNKN,UTair-Express,nan,Russia,legacy,Independent,Y
+993,15837,G5,UNKN,Huaxia,nan,China,legacy,Independent,Y
+994,15897,N1,UNKN,N1,nan,Peru,legacy,Independent,Y
+995,15930,4Z,UNKN,Airlink (SAA),nan,South Africa,legacy,Independent,Y
+996,15953,3B,UNKN,JobAir,nan,Czech Republic,legacy,Independent,Y
+997,15970,OD,ULA,Zuliana de Aviacion,nan,Venezuela,legacy,Independent,N
+998,15999,9C,UNKN,China SSS,nan,China,legacy,Independent,Y
+999,16025,NJ,UNKN,Nihon.jet,nan,Japan,legacy,Independent,N
+1000,16093,TJ,UNKN,Transportes Aéreos Nacionales de Selva,Aereos Selva,Peru,legacy,Independent,N
+1001,16120,Z6,ZTT,ZABAIKAL AIRLINES,BAIKAL,Russia,legacy,Independent,Y
+1002,16135,Y1,UNKN,Yellowstone Club Private Shuttle,YCS,United States,legacy,Independent,Y
+1003,16136,NS,UNKN,Caucasus Airlines,nan,Georgia,legacy,Independent,Y
+1004,16139,S1,SA1,Serbian Airlines,nan,Serbia,legacy,Independent,Y
+1005,16149,WM,UNKN,Windward Islands Airways,Winair,Netherlands Antilles,legacy,Independent,Y
+1006,16150,YO,TYS,TransHolding System,nan,Brazil,legacy,Independent,Y
+1007,16234,F1,FBL,Fly Brasil,FBL,Brazil,legacy,Independent,Y
+1008,16262,3F,3FF,Fly Colombia ( Interliging Flights ),nan,Colombia,legacy,Independent,Y
+1009,16363,N0,UNKN,Norte Lineas Aereas,nan,Argentina,legacy,Independent,Y
+1010,16364,W7,UNKN,Austral Brasil,nan,Brazil,legacy,Independent,Y
+1011,16475,YI,UNKN,TUR Avrupa Hava YollarÄ±,TurAvrupa,Turkey,legacy,Independent,N
+1012,16511,L4,LJJ,Luchsh Airlines,russian sky,Russia,legacy,Independent,Y
+1013,16615,7M,ZTF,Mongolian International Air Lines,Mongol_AIr,Mongolia,legacy,Independent,Y
+1014,16625,HI,UNKN,Papillon Grand Canyon Helicopters,nan,United States,legacy,Independent,Y
+1015,16645,XB,NXB,NEXT Brasil,XB,Brazil,legacy,Independent,Y
+1016,16671,KH,UNKN,Cook Island Air,nan,Cook Islands,legacy,Independent,N
+1017,16702,E1,ES2,Usa Sky Cargo,USKY,United States,legacy,Independent,Y
+1018,16724,4X,UNKN,Red Jet Mexico,nan,Mexico,legacy,Independent,Y
+1019,16726,7H,ERR,Era Alaska,ERAH,United States,legacy,Independent,Y
+1020,16735,H1,HA1,Hankook Air US,nan,United States,legacy,Independent,Y
+1021,16753,10,CNN,Canadian World,Canadian,Canada,legacy,Independent,N
+1022,16844,XV,UNKN,BVI Airways,nan,British Virgin Islands,legacy,Independent,Y
+1023,16867,ZJ,UNKN,Zambezi Airlines (ZMA),nan,Zambia,legacy,Independent,Y
+1024,16882,YQ,UNKN,Polet Airlines (Priv),nan,Russia,legacy,Independent,Y
+1025,16900,T1,TP3,TROPICAL LINHAS AEREAS,nan,Brazil,legacy,Independent,N
+1026,16901,12,N12,12 North,12N,India,legacy,Independent,Y
+1027,16942,L6,MAI,Mauritania Airlines International,nan,Mauritania,legacy,Independent,Y
+1028,16956,6F,MKD,MAT Airways,nan,Macedonia,legacy,Independent,Y
+1029,17022,OI,ORC,Orchid Airlines,nan,Australia,legacy,Independent,Y
+1030,17082,XR,UNKN,Skywest Australia,nan,Australia,legacy,Independent,Y
+1031,17083,NP,NIA,Nile Air,NILEBIRD,Egypt,legacy,Independent,Y
+1032,17115,0X,CX0,Copenhagen Express,Copex,Denmark,legacy,Independent,Y
+1033,17519,YR,UNKN,SENIC AIRLINES,nan,United States,legacy,Independent,Y
+1034,17574,PP,AI0,Air Indus,AIPL,Pakistan,legacy,Independent,Y
+1035,17575,07,770,Samurai Airlines,Sam,Pakistan,legacy,Independent,N
+1036,17614,00,000,AirOne Continental,Eastern,Slovakia,legacy,Independent,N
+1037,17618,U1,001,AirOne Polska,AOC,Poland,legacy,Independent,N
+1038,17675,MM,UNKN,Peach Aviation,Air Peach,Japan,legacy,Independent,Y
+1039,17780,DF,MJG,Michael Airlines,MJG,Puerto Rico,legacy,Independent,Y
+1040,17786,ZC,KGO,Korongo Airlines,KORONGO,Congo (Kinshasa),legacy,Independent,Y
+1041,17794,I5,IDS,Indonesia Sky,nan,Indonesia,legacy,Independent,Y
+1042,17822,9P,UNKN,Pelangi,nan,Malaysia,legacy,Independent,N
+1043,17841,B0,666,Aws express,aws,United States,legacy,Independent,Y
+1044,17859,76,SJS,Southjet,nan,United States,legacy,Independent,Y
+1045,17860,77,ZCS,Southjet connect,nan,United States,legacy,Independent,Y
+1046,17862,78,XAN,Southjet cargo,nan,United States,legacy,Independent,Y
+1047,17881,I2,IBS,Iberia Express,nan,Spain,legacy,Independent,Y
+1048,17885,4O,UNKN,Interjet (ABC Aerolineas),INTERJET,Mexico,legacy,Independent,Y
+1049,17891,TZ,SCO,Scoot,nan,Singapore,legacy,Independent,Y
+1050,17935,ZN,ZNA,Zenith International Airline,ZENITH,Thailand,legacy,Independent,Y
+1051,17936,O1,OAB,Orbit Airlines Azerbaijan,Orbitaz,Azerbaijan,legacy,Independent,Y
+1052,18169,P4,UNKN,Patriot Airways,nan,United States,legacy,Independent,Y
+1053,18232,5Q,UNKN,BQB Lineas Aereas,nan,Uruguay,legacy,Independent,Y
+1054,18239,YE,YEL,Yellowtail,nan,United States,legacy,Independent,Y
+1055,18497,YH,UNKN,Yangon Airways Ltd.,nan,Burma,legacy,Independent,Y
+1056,18592,WL,FQR,CheapFlyingInternational,cheapflying,France,legacy,Independent,N
+1057,18617,24,UNKN,Euro Jet,nan,Germany,legacy,Independent,Y
+1058,18749,9F,TLM,Tramm Airlines,9F,Netherlands Antilles,legacy,Independent,N
+1059,18825,Z9,UNKN,Flightlink Tanzania,nan,Tanzania,legacy,Independent,Y
+1060,18828,I8,UNKN,IzAvia,nan,Russia,legacy,Independent,Y
+1061,18930,M1,M1F,Maryland Air,Maryland Flight,United States,legacy,Independent,Y
+1062,18944,7I,UNKN,Insel Air (7I/INC) (Priv),nan,Netherlands Antilles,legacy,Independent,Y
+1063,19016,ZM,IWA,Apache Air,APACHE,United States,legacy,Independent,Y
+1064,19290,13,EAV,Eastern Atlantic Virtual Airlines,EAVA,United States,legacy,Independent,Y
+1065,19305,QG,UNKN,Citilink Indonesia,SUPERGREEN,Indonesia,legacy,Independent,Y
+1066,19317,GU,GU1,Gulisano airways,nan,Italy,legacy,Independent,N
+1067,19433,XA,XAU,XAIR USA,XAIR,United States,legacy,Independent,Y
+1068,19674,RN,RAB,Rainbow Air (RAI),Rainbow,United States,legacy,Independent,Y
+1069,19678,RM,RNY,Rainbow Air US,Rainbow Air,United States,legacy,Independent,Y
+1070,19810,9N,N78,Regional Air Iceland,nan,Iceland,legacy,Independent,Y
+1071,19812,8K,K88,Voestar,nan,Brazil,legacy,Independent,Y
+1072,19814,2X,2K2,Regionalia Uruguay,nan,Uruguay,legacy,Independent,Y
+1073,19827,9J,CR1,Regionalia Chile,nan,Chile,legacy,Independent,Y
+1074,19828,6C,6CC,Vuela Cuba,nan,Cuba,legacy,Independent,Y
+1075,19830,88,8K8,All Australia,nan,Australia,legacy,Independent,Y
+1076,19927,1X,UNKN,Island Express Air,Abby Air,Canada,legacy,Independent,Y
+1077,19928,Z0,Z9H,All Argentina Express,nan,Argentina,legacy,Independent,Y
+1078,19963,RT,UNKN,Real Tonga,nan,Tonga,legacy,Independent,Y
+1079,19977,1Y,A9B,All America BR,nan,Brazil,legacy,Independent,Y
+1080,19979,X9,X9F,FRA Air,FA,Germany,legacy,Independent,N
+1081,20004,9V,VC9,Volotea Costa Rica,nan,Costa Rica,legacy,Independent,Y
+1082,20017,X5,OTJ,Fly Romania,TENDER AIR,Romania,legacy,Independent,Y
+1083,20073,0Y,7ZC,All America CO,nan,Colombia,legacy,Independent,Y
+1084,20074,0M,0MM,All America MX,nan,Mexico,legacy,Independent,Y
+1085,20127,QP,UNKN,Air Kenya (Priv),nan,Kenya,legacy,Independent,Y
+1086,20222,J1,UNKN,OneJet,nan,United States,legacy,Independent,Y
+1087,20224,0G,GA0,Global Airlines,nan,Argentina,legacy,Independent,Y
+1088,20270,D2,UNKN,Severstal Air Company,nan,Russia,legacy,Independent,Y
+1089,20565,4B,BTQ,Boutique Air (Priv),nan,United States,legacy,Independent,Y
+1090,20580,3X,GUI,Aguilar Connect,Moonexpress,Chile,legacy,Independent,N
+1091,20589,7V,ROB,ROYAL BRITAIN,nan,United Kingdom,legacy,Independent,N
+1092,20599,Z5,IIR,INAVIA Internacional,nan,Argentina,legacy,Independent,Y
+1093,20607,LE,LTY,Liberty Airways,nan,United States,legacy,Independent,Y
+1094,20657,5B,BSX,Bassaka airlines,5B,Cambodia,legacy,Independent,Y
+1095,20686,Q7,UNKN,SkyBahamas Airlines,TROPICAL SKY,Bahamas,legacy,Independent,Y
+1096,20695,UW,UNKN,UVT Aero,nan,Russia,legacy,Independent,Y
+1097,20710,3M,UNKN,Silver Airways (3M),Silver Wings,United States,legacy,Independent,Y
+1098,20752,I3,UNKN,ATA Airlines (Iran),ATALAR,Iran,legacy,Independent,Y
+1099,20769,V1,VIA,VIA Líneas Aéreas,nan,Argentina,legacy,Independent,Y
+1100,20777,3D,PMK,Palair Macedonia,nan,Macedonia,legacy,Independent,N
+1101,20963,K3,UNKN,Atlantic Air Cargo,nan,United States,legacy,Independent,N
+1102,21056,0E,UNKN,Dummy,nan,France,legacy,Independent,N
+1103,21131,0P,PYB,All America BOPY,BOPY,Paraguay,legacy,Independent,Y
+1104,21181,2Y,AOW,Air Andaman (2Y),AIR ANDAMAN,Thailand,legacy,Independent,N
+1105,21268,JG,UNKN,Jetgo Australia,nan,Australia,legacy,Independent,Y

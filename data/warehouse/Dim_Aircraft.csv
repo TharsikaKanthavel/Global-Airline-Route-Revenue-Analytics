@@ -1,0 +1,7 @@
+Aircraft_Key,Aircraft_Model_Name,Manufacturer,Aircraft_Family,Body_Type,Typical_Seating_Capacity,Fuel_Efficiency_Class
+1,Boeing 777-300ER,Boeing,777-300ER,Wide-Body,396,Standard
+2,Boeing 787-9,Boeing,787-9,Wide-Body,296,High
+3,Airbus A320,Airbus,A320,Narrow-Body,180,Standard
+4,Boeing 737-800,Boeing,737-800,Narrow-Body,180,Standard
+5,Airbus A350-900,Airbus,A350-900,Wide-Body,325,High
+6,Airbus A380,Airbus,A380,Wide-Body,517,Standard

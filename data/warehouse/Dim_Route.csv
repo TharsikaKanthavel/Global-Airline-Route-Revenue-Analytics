@@ -1,0 +1,41 @@
+Route_Key,Route_Code,Route_Name,Origin_IATA,Destination_IATA,Distance_KM,Route_Category,Corridor_Region,Is_International
+1,CJU-GMP,Jeju-Seoul,CJU,GMP,451,Short Haul,Asia,Y
+2,HND-CTS,Tokyo-Sapporo,HND,CTS,821,Short Haul,Asia,Y
+3,MEL-SYD,Melbourne-Sydney,MEL,SYD,705,Short Haul,Oceania,Y
+4,BOM-DEL,Mumbai-Delhi,BOM,DEL,1148,Short Haul,Asia,Y
+5,PEK-SHA,Beijing-Shanghai,PEK,SHA,1080,Short Haul,Asia,Y
+6,HKG-TPE,Hong Kong-Taipei,HKG,TPE,813,Short Haul,Asia,Y
+7,SIN-KUL,Singapore-Kuala Lumpur,SIN,KUL,297,Short Haul,Asia,Y
+8,DXB-LHR,Dubai-London,DXB,LHR,5482,Long Haul,Middle East,Y
+9,DXB-BOM,Dubai-Mumbai,DXB,BOM,1928,Medium Haul,Middle East,Y
+10,DOH-LHR,Doha-London,DOH,LHR,5266,Long Haul,Middle East,Y
+11,IST-LHR,Istanbul-London,IST,LHR,2502,Medium Haul,Europe,Y
+12,LHR-JFK,London-New York,LHR,JFK,5571,Long Haul,Atlantic,Y
+13,LHR-CDG,London-Paris,LHR,CDG,344,Short Haul,Europe,Y
+14,FRA-JFK,Frankfurt-New York,FRA,JFK,6201,Long Haul,Atlantic,Y
+15,MAD-EZE,Madrid-Buenos Aires,MAD,EZE,10056,Long Haul,Atlantic,Y
+16,CDG-DXB,Paris-Dubai,CDG,DXB,5252,Long Haul,Europe-ME,Y
+17,ATL-LAX,Atlanta-Los Angeles,ATL,LAX,3127,Medium Haul,North America,Y
+18,JFK-LAX,New York-Los Angeles,JFK,LAX,3974,Medium Haul,North America,Y
+19,ORD-LGA,Chicago-New York,ORD,LGA,1190,Short Haul,North America,Y
+20,YYZ-YVR,Toronto-Vancouver,YYZ,YVR,3358,Medium Haul,North America,Y
+21,MEX-CUN,Mexico City-Cancun,MEX,CUN,1281,Short Haul,Latin America,Y
+22,GRU-GIG,Sao Paulo-Rio,GRU,GIG,360,Short Haul,Latin America,Y
+23,BOG-LIM,Bogota-Lima,BOG,LIM,1881,Medium Haul,Latin America,Y
+24,NRT-HNL,Tokyo-Honolulu,NRT,HNL,6182,Long Haul,Pacific,Y
+25,LAX-SYD,Los Angeles-Sydney,LAX,SYD,12057,Long Haul,Pacific,Y
+26,HKG-SFO,Hong Kong-San Francisco,HKG,SFO,11129,Long Haul,Pacific,Y
+27,ICN-LAX,Seoul-Los Angeles,ICN,LAX,9572,Long Haul,Pacific,Y
+28,JNB-LHR,Johannesburg-London,JNB,LHR,9070,Long Haul,Africa-Europe,Y
+29,CAI-RUH,Cairo-Riyadh,CAI,RUH,1304,Short Haul,MENA,Y
+30,LOS-LHR,Lagos-London,LOS,LHR,5034,Long Haul,Africa-Europe,Y
+31,BOM-LHR,Mumbai-London,BOM,LHR,7196,Long Haul,Asia-Europe,Y
+32,FRA-SIN,Frankfurt-Singapore,FRA,SIN,10262,Long Haul,Europe-Asia,Y
+33,AMS-BKK,Amsterdam-Bangkok,AMS,BKK,9229,Long Haul,Europe-Asia,Y
+34,ICN-NRT,Seoul-Tokyo,ICN,NRT,1244,Short Haul,Asia,Y
+35,BKK-SIN,Bangkok-Singapore,BKK,SIN,1421,Short Haul,Asia,Y
+36,SYD-AKL,Sydney-Auckland,SYD,AKL,2155,Medium Haul,Oceania,Y
+37,SVO-AER,Moscow-Sochi,SVO,AER,1364,Short Haul,Eurasia,Y
+38,IST-AYT,Istanbul-Antalya,IST,AYT,480,Short Haul,Europe,Y
+39,HND-SIN,Tokyo-Singapore,HND,SIN,5350,Long Haul,Asia,Y
+40,JFK-MIA,New York-Miami,JFK,MIA,1759,Medium Haul,North America,Y

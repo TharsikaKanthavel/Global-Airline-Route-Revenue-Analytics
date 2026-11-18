@@ -1,0 +1,401 @@
+Year,Route_Code,Route_Name,Corridor_Region,Route_Category,Distance_KM,Origin_City,Origin_Country,Destination_City,Destination_Country,Annual_Revenue_USD_M,Operating_Cost_USD_M,Net_Profit_USD_M,Profit_Margin_PCT,Annual_Passengers_M,Avg_Fare_USD,Weekly_Frequency_Est,Derived_Yield_Per_Pax,Route_Performance_Tier
+2015,CJU-GMP,Jeju-Seoul,Asia,Short Haul,451,Cheju,South Korea,Seoul,South Korea,320.5,289.73,30.77,9.6,6.37,50.0,19,50.31,Stable Contributor
+2018,CJU-GMP,Jeju-Seoul,Asia,Short Haul,451,Cheju,South Korea,Seoul,South Korea,539.4,495.71,43.69,8.1,7.92,68.0,22,68.11,Stable Contributor
+2019,CJU-GMP,Jeju-Seoul,Asia,Short Haul,451,Cheju,South Korea,Seoul,South Korea,498.0,454.18,43.82,8.8,7.65,65.0,21,65.1,Stable Contributor
+2020,CJU-GMP,Jeju-Seoul,Asia,Short Haul,451,Cheju,South Korea,Seoul,South Korea,45.4,60.43,-15.03,-33.11,2.21,21.0,4,20.54,Loss Making / Under Review
+2021,CJU-GMP,Jeju-Seoul,Asia,Short Haul,451,Cheju,South Korea,Seoul,South Korea,121.5,140.94,-19.44,-16.0,3.57,34.0,10,34.03,Loss Making / Under Review
+2022,CJU-GMP,Jeju-Seoul,Asia,Short Haul,451,Cheju,South Korea,Seoul,South Korea,270.2,256.96,13.24,4.9,5.69,47.0,17,47.49,Low Margin Volume
+2023,CJU-GMP,Jeju-Seoul,Asia,Short Haul,451,Cheju,South Korea,Seoul,South Korea,483.1,430.68,52.42,10.85,6.77,71.0,18,71.36,Stable Contributor
+2024,CJU-GMP,Jeju-Seoul,Asia,Short Haul,451,Cheju,South Korea,Seoul,South Korea,550.3,491.42,58.88,10.7,7.51,73.0,24,73.28,Stable Contributor
+2025,CJU-GMP,Jeju-Seoul,Asia,Short Haul,451,Cheju,South Korea,Seoul,South Korea,644.5,576.18,68.32,10.6,8.33,77.0,24,77.37,Stable Contributor
+2026,CJU-GMP,Jeju-Seoul,Asia,Short Haul,451,Cheju,South Korea,Seoul,South Korea,594.5,546.94,47.56,8.0,8.03,74.0,22,74.03,Stable Contributor
+2015,HND-CTS,Tokyo-Sapporo,Asia,Short Haul,821,Tokyo,Japan,Sapporo,Japan,216.8,195.99,20.81,9.6,3.29,66.0,10,65.9,Stable Contributor
+2018,HND-CTS,Tokyo-Sapporo,Asia,Short Haul,821,Tokyo,Japan,Sapporo,Japan,275.5,253.18,22.32,8.1,3.44,80.0,9,80.09,Stable Contributor
+2019,HND-CTS,Tokyo-Sapporo,Asia,Short Haul,821,Tokyo,Japan,Sapporo,Japan,340.7,310.72,29.98,8.8,4.03,84.0,13,84.54,Stable Contributor
+2020,HND-CTS,Tokyo-Sapporo,Asia,Short Haul,821,Tokyo,Japan,Sapporo,Japan,27.7,36.87,-9.17,-33.1,1.11,25.0,2,24.95,Loss Making / Under Review
+2021,HND-CTS,Tokyo-Sapporo,Asia,Short Haul,821,Tokyo,Japan,Sapporo,Japan,76.5,88.74,-12.24,-16.0,1.88,41.0,4,40.69,Loss Making / Under Review
+2022,HND-CTS,Tokyo-Sapporo,Asia,Short Haul,821,Tokyo,Japan,Sapporo,Japan,155.5,147.88,7.62,4.9,2.72,57.0,5,57.17,Low Margin Volume
+2023,HND-CTS,Tokyo-Sapporo,Asia,Short Haul,821,Tokyo,Japan,Sapporo,Japan,283.8,253.01,30.79,10.85,3.47,82.0,8,81.79,Stable Contributor
+2024,HND-CTS,Tokyo-Sapporo,Asia,Short Haul,821,Tokyo,Japan,Sapporo,Japan,367.1,327.82,39.28,10.7,3.79,97.0,10,96.86,Stable Contributor
+2025,HND-CTS,Tokyo-Sapporo,Asia,Short Haul,821,Tokyo,Japan,Sapporo,Japan,402.4,359.75,42.65,10.6,4.25,95.0,13,94.68,Stable Contributor
+2026,HND-CTS,Tokyo-Sapporo,Asia,Short Haul,821,Tokyo,Japan,Sapporo,Japan,367.7,338.28,29.42,8.0,4.02,92.0,10,91.47,Stable Contributor
+2015,MEL-SYD,Melbourne-Sydney,Oceania,Short Haul,705,Melbourne,Australia,Sydney,Australia,352.4,318.57,33.83,9.6,5.65,62.0,15,62.37,Stable Contributor
+2018,MEL-SYD,Melbourne-Sydney,Oceania,Short Haul,705,Melbourne,Australia,Sydney,Australia,510.3,468.97,41.33,8.1,6.33,81.0,21,80.62,Stable Contributor
+2019,MEL-SYD,Melbourne-Sydney,Oceania,Short Haul,705,Melbourne,Australia,Sydney,Australia,501.8,457.64,44.16,8.8,6.95,72.0,18,72.2,Stable Contributor
+2020,MEL-SYD,Melbourne-Sydney,Oceania,Short Haul,705,Melbourne,Australia,Sydney,Australia,48.4,64.42,-16.02,-33.1,2.1,23.0,5,23.05,Loss Making / Under Review
+2021,MEL-SYD,Melbourne-Sydney,Oceania,Short Haul,705,Melbourne,Australia,Sydney,Australia,143.0,165.88,-22.88,-16.0,3.57,40.0,11,40.06,Loss Making / Under Review
+2022,MEL-SYD,Melbourne-Sydney,Oceania,Short Haul,705,Melbourne,Australia,Sydney,Australia,287.8,273.7,14.1,4.9,5.24,55.0,16,54.92,Low Margin Volume
+2023,MEL-SYD,Melbourne-Sydney,Oceania,Short Haul,705,Melbourne,Australia,Sydney,Australia,527.2,470.0,57.2,10.85,6.73,78.0,20,78.34,Stable Contributor
+2024,MEL-SYD,Melbourne-Sydney,Oceania,Short Haul,705,Melbourne,Australia,Sydney,Australia,529.0,472.4,56.6,10.7,7.02,75.0,20,75.36,Stable Contributor
+2025,MEL-SYD,Melbourne-Sydney,Oceania,Short Haul,705,Melbourne,Australia,Sydney,Australia,671.9,600.68,71.22,10.6,7.46,90.0,22,90.07,Stable Contributor
+2026,MEL-SYD,Melbourne-Sydney,Oceania,Short Haul,705,Melbourne,Australia,Sydney,Australia,743.1,683.65,59.45,8.0,8.28,90.0,25,89.75,Stable Contributor
+2015,BOM-DEL,Mumbai-Delhi,Asia,Short Haul,1148,Mumbai,India,Delhi,India,519.1,469.27,49.83,9.6,6.34,82.0,20,81.88,Stable Contributor
+2018,BOM-DEL,Mumbai-Delhi,Asia,Short Haul,1148,Mumbai,India,Delhi,India,625.1,574.47,50.63,8.1,6.99,89.0,20,89.43,Stable Contributor
+2019,BOM-DEL,Mumbai-Delhi,Asia,Short Haul,1148,Mumbai,India,Delhi,India,777.8,709.35,68.45,8.8,7.53,103.0,22,103.29,Stable Contributor
+2020,BOM-DEL,Mumbai-Delhi,Asia,Short Haul,1148,Mumbai,India,Delhi,India,59.2,78.8,-19.6,-33.11,2.31,26.0,6,25.63,Loss Making / Under Review
+2021,BOM-DEL,Mumbai-Delhi,Asia,Short Haul,1148,Mumbai,India,Delhi,India,167.8,194.65,-26.85,-16.0,3.65,46.0,13,45.97,Loss Making / Under Review
+2022,BOM-DEL,Mumbai-Delhi,Asia,Short Haul,1148,Mumbai,India,Delhi,India,384.4,365.56,18.84,4.9,5.48,70.0,16,70.15,Low Margin Volume
+2023,BOM-DEL,Mumbai-Delhi,Asia,Short Haul,1148,Mumbai,India,Delhi,India,558.8,498.17,60.63,10.85,6.42,87.0,20,87.04,Stable Contributor
+2024,BOM-DEL,Mumbai-Delhi,Asia,Short Haul,1148,Mumbai,India,Delhi,India,718.3,641.44,76.86,10.7,7.5,96.0,23,95.77,Stable Contributor
+2025,BOM-DEL,Mumbai-Delhi,Asia,Short Haul,1148,Mumbai,India,Delhi,India,924.6,826.59,98.01,10.6,8.5,109.0,25,108.78,Stable Contributor
+2026,BOM-DEL,Mumbai-Delhi,Asia,Short Haul,1148,Mumbai,India,Delhi,India,831.3,764.8,66.5,8.0,8.12,102.0,23,102.38,Stable Contributor
+2015,PEK-SHA,Beijing-Shanghai,Asia,Short Haul,1080,Beijing,China,Shanghai,China,576.2,520.88,55.32,9.6,7.74,74.0,21,74.44,Stable Contributor
+2018,PEK-SHA,Beijing-Shanghai,Asia,Short Haul,1080,Beijing,China,Shanghai,China,803.2,738.14,65.06,8.1,8.94,90.0,28,89.84,Stable Contributor
+2019,PEK-SHA,Beijing-Shanghai,Asia,Short Haul,1080,Beijing,China,Shanghai,China,862.1,786.24,75.86,8.8,9.09,95.0,27,94.84,Stable Contributor
+2020,PEK-SHA,Beijing-Shanghai,Asia,Short Haul,1080,Beijing,China,Shanghai,China,81.0,107.81,-26.81,-33.1,2.77,29.0,9,29.24,Loss Making / Under Review
+2021,PEK-SHA,Beijing-Shanghai,Asia,Short Haul,1080,Beijing,China,Shanghai,China,217.0,251.72,-34.72,-16.0,4.73,46.0,13,45.88,Loss Making / Under Review
+2022,PEK-SHA,Beijing-Shanghai,Asia,Short Haul,1080,Beijing,China,Shanghai,China,441.4,419.77,21.63,4.9,6.63,67.0,19,66.58,Low Margin Volume
+2023,PEK-SHA,Beijing-Shanghai,Asia,Short Haul,1080,Beijing,China,Shanghai,China,770.6,686.99,83.61,10.85,8.48,91.0,26,90.87,Stable Contributor
+2024,PEK-SHA,Beijing-Shanghai,Asia,Short Haul,1080,Beijing,China,Shanghai,China,940.6,839.96,100.64,10.7,9.45,100.0,27,99.53,Stable Contributor
+2025,PEK-SHA,Beijing-Shanghai,Asia,Short Haul,1080,Beijing,China,Shanghai,China,997.5,891.76,105.74,10.6,10.14,98.0,31,98.37,Stable Contributor
+2026,PEK-SHA,Beijing-Shanghai,Asia,Short Haul,1080,Beijing,China,Shanghai,China,1128.3,1038.04,90.26,8.0,10.17,111.0,30,110.94,Stable Contributor
+2015,HKG-TPE,Hong Kong-Taipei,Asia,Short Haul,813,Hong Kong,Hong Kong,Taipei,Taiwan,605.9,547.73,58.17,9.6,8.51,71.0,26,71.2,Stable Contributor
+2018,HKG-TPE,Hong Kong-Taipei,Asia,Short Haul,813,Hong Kong,Hong Kong,Taipei,Taiwan,906.2,832.8,73.4,8.1,10.11,90.0,31,89.63,Stable Contributor
+2019,HKG-TPE,Hong Kong-Taipei,Asia,Short Haul,813,Hong Kong,Hong Kong,Taipei,Taiwan,841.6,767.54,74.06,8.8,10.39,81.0,31,81.0,Stable Contributor
+2020,HKG-TPE,Hong Kong-Taipei,Asia,Short Haul,813,Hong Kong,Hong Kong,Taipei,Taiwan,81.1,107.94,-26.84,-33.09,3.05,27.0,9,26.59,Loss Making / Under Review
+2021,HKG-TPE,Hong Kong-Taipei,Asia,Short Haul,813,Hong Kong,Hong Kong,Taipei,Taiwan,228.6,265.18,-36.58,-16.0,5.32,43.0,17,42.97,Loss Making / Under Review
+2022,HKG-TPE,Hong Kong-Taipei,Asia,Short Haul,813,Hong Kong,Hong Kong,Taipei,Taiwan,488.5,464.56,23.94,4.9,7.95,61.0,25,61.45,Low Margin Volume
+2023,HKG-TPE,Hong Kong-Taipei,Asia,Short Haul,813,Hong Kong,Hong Kong,Taipei,Taiwan,799.1,712.4,86.7,10.85,10.39,77.0,31,76.91,Stable Contributor
+2024,HKG-TPE,Hong Kong-Taipei,Asia,Short Haul,813,Hong Kong,Hong Kong,Taipei,Taiwan,986.1,880.59,105.51,10.7,11.14,89.0,32,88.52,Stable Contributor
+2025,HKG-TPE,Hong Kong-Taipei,Asia,Short Haul,813,Hong Kong,Hong Kong,Taipei,Taiwan,936.6,837.32,99.28,10.6,10.88,86.0,31,86.08,Stable Contributor
+2026,HKG-TPE,Hong Kong-Taipei,Asia,Short Haul,813,Hong Kong,Hong Kong,Taipei,Taiwan,1102.8,1014.58,88.22,8.0,11.49,96.0,34,95.98,Stable Contributor
+2015,SIN-KUL,Singapore-Kuala Lumpur,Asia,Short Haul,297,Singapore,Singapore,Kuala Lumpur,Malaysia,267.8,242.09,25.71,9.6,5.23,51.0,16,51.2,Stable Contributor
+2018,SIN-KUL,Singapore-Kuala Lumpur,Asia,Short Haul,297,Singapore,Singapore,Kuala Lumpur,Malaysia,354.1,325.42,28.68,8.1,6.29,56.0,19,56.3,Stable Contributor
+2019,SIN-KUL,Singapore-Kuala Lumpur,Asia,Short Haul,297,Singapore,Singapore,Kuala Lumpur,Malaysia,436.5,398.09,38.41,8.8,7.06,62.0,20,61.83,Stable Contributor
+2020,SIN-KUL,Singapore-Kuala Lumpur,Asia,Short Haul,297,Singapore,Singapore,Kuala Lumpur,Malaysia,36.0,47.92,-11.92,-33.11,1.93,19.0,5,18.65,Loss Making / Under Review
+2021,SIN-KUL,Singapore-Kuala Lumpur,Asia,Short Haul,297,Singapore,Singapore,Kuala Lumpur,Malaysia,91.6,106.26,-14.66,-16.0,3.23,28.0,8,28.36,Loss Making / Under Review
+2022,SIN-KUL,Singapore-Kuala Lumpur,Asia,Short Haul,297,Singapore,Singapore,Kuala Lumpur,Malaysia,221.6,210.74,10.86,4.9,4.82,46.0,13,45.98,Low Margin Volume
+2023,SIN-KUL,Singapore-Kuala Lumpur,Asia,Short Haul,297,Singapore,Singapore,Kuala Lumpur,Malaysia,359.9,320.85,39.05,10.85,6.1,59.0,19,59.0,Stable Contributor
+2024,SIN-KUL,Singapore-Kuala Lumpur,Asia,Short Haul,297,Singapore,Singapore,Kuala Lumpur,Malaysia,450.1,401.94,48.16,10.7,6.76,67.0,19,66.58,Stable Contributor
+2025,SIN-KUL,Singapore-Kuala Lumpur,Asia,Short Haul,297,Singapore,Singapore,Kuala Lumpur,Malaysia,506.7,452.99,53.71,10.6,7.28,70.0,22,69.6,Stable Contributor
+2026,SIN-KUL,Singapore-Kuala Lumpur,Asia,Short Haul,297,Singapore,Singapore,Kuala Lumpur,Malaysia,535.1,492.29,42.81,8.0,7.45,72.0,22,71.83,Stable Contributor
+2015,DXB-LHR,Dubai-London,Middle East,Long Haul,5482,Dubai,United Arab Emirates,London,United Kingdom,726.8,682.47,44.33,6.1,3.3,220.0,9,220.24,Stable Contributor
+2018,DXB-LHR,Dubai-London,Middle East,Long Haul,5482,Dubai,United Arab Emirates,London,United Kingdom,934.4,891.42,42.98,4.6,3.56,262.0,9,262.47,Low Margin Volume
+2019,DXB-LHR,Dubai-London,Middle East,Long Haul,5482,Dubai,United Arab Emirates,London,United Kingdom,993.9,941.22,52.68,5.3,3.71,268.0,8,267.9,Stable Contributor
+2020,DXB-LHR,Dubai-London,Middle East,Long Haul,5482,Dubai,United Arab Emirates,London,United Kingdom,88.6,121.03,-32.43,-36.6,1.11,80.0,3,79.82,Loss Making / Under Review
+2021,DXB-LHR,Dubai-London,Middle East,Long Haul,5482,Dubai,United Arab Emirates,London,United Kingdom,246.6,294.69,-48.09,-19.5,1.97,125.0,5,125.18,Loss Making / Under Review
+2022,DXB-LHR,Dubai-London,Middle East,Long Haul,5482,Dubai,United Arab Emirates,London,United Kingdom,493.5,486.59,6.91,1.4,2.52,196.0,7,195.83,Low Margin Volume
+2023,DXB-LHR,Dubai-London,Middle East,Long Haul,5482,Dubai,United Arab Emirates,London,United Kingdom,947.5,877.86,69.64,7.35,3.47,273.0,11,273.05,Stable Contributor
+2024,DXB-LHR,Dubai-London,Middle East,Long Haul,5482,Dubai,United Arab Emirates,London,United Kingdom,1084.4,1006.32,78.08,7.2,3.92,277.0,12,276.63,Stable Contributor
+2025,DXB-LHR,Dubai-London,Middle East,Long Haul,5482,Dubai,United Arab Emirates,London,United Kingdom,1154.1,1072.16,81.94,7.1,4.09,282.0,10,282.18,Stable Contributor
+2026,DXB-LHR,Dubai-London,Middle East,Long Haul,5482,Dubai,United Arab Emirates,London,United Kingdom,1292.8,1234.62,58.18,4.5,4.1,316.0,14,315.32,Low Margin Volume
+2015,DXB-BOM,Dubai-Mumbai,Middle East,Medium Haul,1928,Dubai,United Arab Emirates,Mumbai,India,348.9,315.41,33.49,9.6,3.47,101.0,10,100.55,Stable Contributor
+2018,DXB-BOM,Dubai-Mumbai,Middle East,Medium Haul,1928,Dubai,United Arab Emirates,Mumbai,India,464.7,427.06,37.64,8.1,3.72,125.0,11,124.92,Stable Contributor
+2019,DXB-BOM,Dubai-Mumbai,Middle East,Medium Haul,1928,Dubai,United Arab Emirates,Mumbai,India,536.9,489.65,47.25,8.8,4.28,125.0,13,125.44,Stable Contributor
+2020,DXB-BOM,Dubai-Mumbai,Middle East,Medium Haul,1928,Dubai,United Arab Emirates,Mumbai,India,46.2,61.49,-15.29,-33.1,1.27,36.0,5,36.38,Loss Making / Under Review
+2021,DXB-BOM,Dubai-Mumbai,Middle East,Medium Haul,1928,Dubai,United Arab Emirates,Mumbai,India,138.1,160.2,-22.1,-16.0,2.07,67.0,3,66.71,Loss Making / Under Review
+2022,DXB-BOM,Dubai-Mumbai,Middle East,Medium Haul,1928,Dubai,United Arab Emirates,Mumbai,India,345.6,328.67,16.93,4.9,3.32,104.0,9,104.1,Low Margin Volume
+2023,DXB-BOM,Dubai-Mumbai,Middle East,Medium Haul,1928,Dubai,United Arab Emirates,Mumbai,India,510.2,454.84,55.36,10.85,4.09,125.0,11,124.74,Stable Contributor
+2024,DXB-BOM,Dubai-Mumbai,Middle East,Medium Haul,1928,Dubai,United Arab Emirates,Mumbai,India,573.9,512.49,61.41,10.7,4.51,127.0,12,127.25,Stable Contributor
+2025,DXB-BOM,Dubai-Mumbai,Middle East,Medium Haul,1928,Dubai,United Arab Emirates,Mumbai,India,717.4,641.36,76.04,10.6,4.84,148.0,13,148.22,Stable Contributor
+2026,DXB-BOM,Dubai-Mumbai,Middle East,Medium Haul,1928,Dubai,United Arab Emirates,Mumbai,India,626.4,576.29,50.11,8.0,4.57,137.0,14,137.07,Stable Contributor
+2015,DOH-LHR,Doha-London,Middle East,Long Haul,5266,Doha,Qatar,London,United Kingdom,784.6,736.74,47.86,6.1,3.39,232.0,10,231.45,Stable Contributor
+2018,DOH-LHR,Doha-London,Middle East,Long Haul,5266,Doha,Qatar,London,United Kingdom,944.6,901.15,43.45,4.6,3.89,243.0,11,242.83,Low Margin Volume
+2019,DOH-LHR,Doha-London,Middle East,Long Haul,5266,Doha,Qatar,London,United Kingdom,1046.4,990.94,55.46,5.3,3.78,277.0,10,276.83,Stable Contributor
+2020,DOH-LHR,Doha-London,Middle East,Long Haul,5266,Doha,Qatar,London,United Kingdom,93.0,127.04,-34.04,-36.6,1.19,78.0,2,78.15,Loss Making / Under Review
+2021,DOH-LHR,Doha-London,Middle East,Long Haul,5266,Doha,Qatar,London,United Kingdom,271.4,324.32,-52.92,-19.5,1.92,142.0,5,141.35,Loss Making / Under Review
+2022,DOH-LHR,Doha-London,Middle East,Long Haul,5266,Doha,Qatar,London,United Kingdom,563.3,555.41,7.89,1.4,2.83,199.0,8,199.05,Low Margin Volume
+2023,DOH-LHR,Doha-London,Middle East,Long Haul,5266,Doha,Qatar,London,United Kingdom,1079.1,999.79,79.31,7.35,4.28,252.0,12,252.13,Stable Contributor
+2024,DOH-LHR,Doha-London,Middle East,Long Haul,5266,Doha,Qatar,London,United Kingdom,1069.7,992.68,77.02,7.2,4.37,245.0,13,244.78,Stable Contributor
+2025,DOH-LHR,Doha-London,Middle East,Long Haul,5266,Doha,Qatar,London,United Kingdom,1332.2,1237.61,94.59,7.1,4.68,285.0,12,284.66,Stable Contributor
+2026,DOH-LHR,Doha-London,Middle East,Long Haul,5266,Doha,Qatar,London,United Kingdom,1379.2,1317.14,62.06,4.5,4.33,319.0,13,318.52,Low Margin Volume
+2015,IST-LHR,Istanbul-London,Europe,Medium Haul,2502,Istanbul,Turkey,London,United Kingdom,206.2,186.4,19.8,9.6,1.67,123.0,5,123.47,Stable Contributor
+2018,IST-LHR,Istanbul-London,Europe,Medium Haul,2502,Istanbul,Turkey,London,United Kingdom,307.6,282.68,24.92,8.1,2.03,152.0,6,151.53,Stable Contributor
+2019,IST-LHR,Istanbul-London,Europe,Medium Haul,2502,Istanbul,Turkey,London,United Kingdom,265.5,242.14,23.36,8.8,1.92,139.0,6,138.28,Stable Contributor
+2020,IST-LHR,Istanbul-London,Europe,Medium Haul,2502,Istanbul,Turkey,London,United Kingdom,25.5,33.94,-8.44,-33.1,0.57,44.0,2,44.74,Loss Making / Under Review
+2021,IST-LHR,Istanbul-London,Europe,Medium Haul,2502,Istanbul,Turkey,London,United Kingdom,68.1,79.0,-10.9,-16.01,0.97,71.0,2,70.21,Loss Making / Under Review
+2022,IST-LHR,Istanbul-London,Europe,Medium Haul,2502,Istanbul,Turkey,London,United Kingdom,185.5,176.41,9.09,4.9,1.55,120.0,5,119.68,Low Margin Volume
+2023,IST-LHR,Istanbul-London,Europe,Medium Haul,2502,Istanbul,Turkey,London,United Kingdom,262.5,234.02,28.48,10.85,1.93,136.0,4,136.01,Stable Contributor
+2024,IST-LHR,Istanbul-London,Europe,Medium Haul,2502,Istanbul,Turkey,London,United Kingdom,335.8,299.87,35.93,10.7,2.08,162.0,6,161.44,Stable Contributor
+2025,IST-LHR,Istanbul-London,Europe,Medium Haul,2502,Istanbul,Turkey,London,United Kingdom,321.9,287.78,34.12,10.6,2.04,157.0,7,157.79,Stable Contributor
+2026,IST-LHR,Istanbul-London,Europe,Medium Haul,2502,Istanbul,Turkey,London,United Kingdom,350.5,322.46,28.04,8.0,2.27,154.0,9,154.41,Stable Contributor
+2015,LHR-JFK,London-New York,Atlantic,Long Haul,5571,London,United Kingdom,New York,United States,284.9,267.52,17.38,6.1,1.2,238.0,3,237.42,Stable Contributor
+2018,LHR-JFK,London-New York,Atlantic,Long Haul,5571,London,United Kingdom,New York,United States,377.4,360.04,17.36,4.6,1.28,294.0,4,294.84,Low Margin Volume
+2019,LHR-JFK,London-New York,Atlantic,Long Haul,5571,London,United Kingdom,New York,United States,405.5,384.01,21.49,5.3,1.44,282.0,3,281.6,Stable Contributor
+2020,LHR-JFK,London-New York,Atlantic,Long Haul,5571,London,United Kingdom,New York,United States,34.1,46.58,-12.48,-36.6,0.44,78.0,1,77.5,Loss Making / Under Review
+2021,LHR-JFK,London-New York,Atlantic,Long Haul,5571,London,United Kingdom,New York,United States,78.5,93.81,-15.31,-19.5,0.65,121.0,2,120.77,Loss Making / Under Review
+2022,LHR-JFK,London-New York,Atlantic,Long Haul,5571,London,United Kingdom,New York,United States,183.2,180.64,2.56,1.4,1.01,182.0,3,181.39,Low Margin Volume
+2023,LHR-JFK,London-New York,Atlantic,Long Haul,5571,London,United Kingdom,New York,United States,404.7,374.95,29.75,7.35,1.44,282.0,4,281.04,Stable Contributor
+2024,LHR-JFK,London-New York,Atlantic,Long Haul,5571,London,United Kingdom,New York,United States,440.9,409.16,31.74,7.2,1.46,302.0,5,301.99,Stable Contributor
+2025,LHR-JFK,London-New York,Atlantic,Long Haul,5571,London,United Kingdom,New York,United States,453.3,421.12,32.18,7.1,1.51,301.0,4,300.2,Stable Contributor
+2026,LHR-JFK,London-New York,Atlantic,Long Haul,5571,London,United Kingdom,New York,United States,482.3,460.6,21.7,4.5,1.59,303.0,4,303.33,Low Margin Volume
+2015,LHR-CDG,London-Paris,Europe,Short Haul,344,London,United Kingdom,Paris,France,426.8,385.83,40.97,9.6,7.65,56.0,24,55.79,Stable Contributor
+2018,LHR-CDG,London-Paris,Europe,Short Haul,344,London,United Kingdom,Paris,France,535.7,492.31,43.39,8.1,8.02,67.0,24,66.8,Stable Contributor
+2019,LHR-CDG,London-Paris,Europe,Short Haul,344,London,United Kingdom,Paris,France,580.3,529.23,51.07,8.8,9.78,59.0,28,59.34,Stable Contributor
+2020,LHR-CDG,London-Paris,Europe,Short Haul,344,London,United Kingdom,Paris,France,51.3,68.28,-16.98,-33.1,2.62,20.0,9,19.58,Loss Making / Under Review
+2021,LHR-CDG,London-Paris,Europe,Short Haul,344,London,United Kingdom,Paris,France,140.5,162.98,-22.48,-16.0,4.18,34.0,13,33.61,Loss Making / Under Review
+2022,LHR-CDG,London-Paris,Europe,Short Haul,344,London,United Kingdom,Paris,France,298.7,284.06,14.64,4.9,6.62,45.0,21,45.12,Low Margin Volume
+2023,LHR-CDG,London-Paris,Europe,Short Haul,344,London,United Kingdom,Paris,France,537.4,479.09,58.31,10.85,8.56,63.0,25,62.78,Stable Contributor
+2024,LHR-CDG,London-Paris,Europe,Short Haul,344,London,United Kingdom,Paris,France,605.5,540.71,64.79,10.7,9.09,67.0,27,66.61,Stable Contributor
+2025,LHR-CDG,London-Paris,Europe,Short Haul,344,London,United Kingdom,Paris,France,629.7,562.95,66.75,10.6,9.45,67.0,27,66.63,Stable Contributor
+2026,LHR-CDG,London-Paris,Europe,Short Haul,344,London,United Kingdom,Paris,France,674.6,620.63,53.97,8.0,9.32,72.0,27,72.38,Stable Contributor
+2015,FRA-JFK,Frankfurt-New York,Atlantic,Long Haul,6201,Frankfurt,Germany,New York,United States,541.4,508.37,33.03,6.1,2.22,244.0,8,243.87,Stable Contributor
+2018,FRA-JFK,Frankfurt-New York,Atlantic,Long Haul,6201,Frankfurt,Germany,New York,United States,663.4,632.88,30.52,4.6,2.4,276.0,7,276.42,Low Margin Volume
+2019,FRA-JFK,Frankfurt-New York,Atlantic,Long Haul,6201,Frankfurt,Germany,New York,United States,675.8,639.98,35.82,5.3,2.38,284.0,8,283.95,Stable Contributor
+2020,FRA-JFK,Frankfurt-New York,Atlantic,Long Haul,6201,Frankfurt,Germany,New York,United States,68.5,93.57,-25.07,-36.6,0.72,96.0,3,95.14,Loss Making / Under Review
+2021,FRA-JFK,Frankfurt-New York,Atlantic,Long Haul,6201,Frankfurt,Germany,New York,United States,191.2,228.48,-37.28,-19.5,1.26,152.0,4,151.75,Loss Making / Under Review
+2022,FRA-JFK,Frankfurt-New York,Atlantic,Long Haul,6201,Frankfurt,Germany,New York,United States,443.5,437.29,6.21,1.4,1.88,235.0,4,235.9,Low Margin Volume
+2023,FRA-JFK,Frankfurt-New York,Atlantic,Long Haul,6201,Frankfurt,Germany,New York,United States,643.6,596.3,47.3,7.35,2.38,270.0,7,270.42,Stable Contributor
+2024,FRA-JFK,Frankfurt-New York,Atlantic,Long Haul,6201,Frankfurt,Germany,New York,United States,871.0,808.29,62.71,7.2,2.81,310.0,7,309.96,Stable Contributor
+2025,FRA-JFK,Frankfurt-New York,Atlantic,Long Haul,6201,Frankfurt,Germany,New York,United States,904.8,840.56,64.24,7.1,2.7,336.0,9,335.11,Stable Contributor
+2026,FRA-JFK,Frankfurt-New York,Atlantic,Long Haul,6201,Frankfurt,Germany,New York,United States,949.5,906.77,42.73,4.5,2.91,326.0,9,326.29,Low Margin Volume
+2015,MAD-EZE,Madrid-Buenos Aires,Atlantic,Long Haul,10056,Madrid,Spain,Buenos Aires,Argentina,454.6,426.87,27.73,6.1,1.25,363.0,5,363.68,Stable Contributor
+2018,MAD-EZE,Madrid-Buenos Aires,Atlantic,Long Haul,10056,Madrid,Spain,Buenos Aires,Argentina,578.7,552.08,26.62,4.6,1.28,451.0,3,452.11,Low Margin Volume
+2019,MAD-EZE,Madrid-Buenos Aires,Atlantic,Long Haul,10056,Madrid,Spain,Buenos Aires,Argentina,736.8,697.75,39.05,5.3,1.47,501.0,3,501.22,Stable Contributor
+2020,MAD-EZE,Madrid-Buenos Aires,Atlantic,Long Haul,10056,Madrid,Spain,Buenos Aires,Argentina,58.8,80.32,-21.52,-36.6,0.44,135.0,1,133.64,Loss Making / Under Review
+2021,MAD-EZE,Madrid-Buenos Aires,Atlantic,Long Haul,10056,Madrid,Spain,Buenos Aires,Argentina,151.2,180.68,-29.48,-19.5,0.73,206.0,1,207.12,Loss Making / Under Review
+2022,MAD-EZE,Madrid-Buenos Aires,Atlantic,Long Haul,10056,Madrid,Spain,Buenos Aires,Argentina,402.4,396.77,5.63,1.4,1.18,341.0,3,341.02,Low Margin Volume
+2023,MAD-EZE,Madrid-Buenos Aires,Atlantic,Long Haul,10056,Madrid,Spain,Buenos Aires,Argentina,580.9,538.2,42.7,7.35,1.41,413.0,5,411.99,Stable Contributor
+2024,MAD-EZE,Madrid-Buenos Aires,Atlantic,Long Haul,10056,Madrid,Spain,Buenos Aires,Argentina,721.0,669.09,51.91,7.2,1.56,462.0,5,462.18,Stable Contributor
+2025,MAD-EZE,Madrid-Buenos Aires,Atlantic,Long Haul,10056,Madrid,Spain,Buenos Aires,Argentina,767.5,713.01,54.49,7.1,1.6,480.0,4,479.69,Stable Contributor
+2026,MAD-EZE,Madrid-Buenos Aires,Atlantic,Long Haul,10056,Madrid,Spain,Buenos Aires,Argentina,862.1,823.31,38.79,4.5,1.68,514.0,7,513.15,Low Margin Volume
+2015,CDG-DXB,Paris-Dubai,Europe-ME,Long Haul,5252,Paris,France,Dubai,United Arab Emirates,201.6,189.3,12.3,6.1,0.89,225.0,2,226.52,Stable Contributor
+2018,CDG-DXB,Paris-Dubai,Europe-ME,Long Haul,5252,Paris,France,Dubai,United Arab Emirates,276.1,263.4,12.7,4.6,1.1,251.0,3,251.0,Low Margin Volume
+2019,CDG-DXB,Paris-Dubai,Europe-ME,Long Haul,5252,Paris,France,Dubai,United Arab Emirates,311.5,294.99,16.51,5.3,1.15,270.0,2,270.87,Stable Contributor
+2020,CDG-DXB,Paris-Dubai,Europe-ME,Long Haul,5252,Paris,France,Dubai,United Arab Emirates,31.3,42.76,-11.46,-36.61,0.33,94.0,1,94.85,Loss Making / Under Review
+2021,CDG-DXB,Paris-Dubai,Europe-ME,Long Haul,5252,Paris,France,Dubai,United Arab Emirates,69.0,82.45,-13.45,-19.49,0.58,119.0,1,118.97,Loss Making / Under Review
+2022,CDG-DXB,Paris-Dubai,Europe-ME,Long Haul,5252,Paris,France,Dubai,United Arab Emirates,158.8,156.58,2.22,1.4,0.84,190.0,3,189.05,Low Margin Volume
+2023,CDG-DXB,Paris-Dubai,Europe-ME,Long Haul,5252,Paris,France,Dubai,United Arab Emirates,286.3,265.26,21.04,7.35,1.12,256.0,1,255.63,Stable Contributor
+2024,CDG-DXB,Paris-Dubai,Europe-ME,Long Haul,5252,Paris,France,Dubai,United Arab Emirates,332.4,308.47,23.93,7.2,1.31,254.0,5,253.74,Stable Contributor
+2025,CDG-DXB,Paris-Dubai,Europe-ME,Long Haul,5252,Paris,France,Dubai,United Arab Emirates,392.6,364.73,27.87,7.1,1.33,296.0,3,295.19,Stable Contributor
+2026,CDG-DXB,Paris-Dubai,Europe-ME,Long Haul,5252,Paris,France,Dubai,United Arab Emirates,369.1,352.49,16.61,4.5,1.3,283.0,3,283.92,Low Margin Volume
+2015,ATL-LAX,Atlanta-Los Angeles,North America,Medium Haul,3127,Atlanta,United States,Los Angeles,United States,465.9,437.48,28.42,6.1,2.93,159.0,8,159.01,Stable Contributor
+2018,ATL-LAX,Atlanta-Los Angeles,North America,Medium Haul,3127,Atlanta,United States,Los Angeles,United States,559.8,534.05,25.75,4.6,3.48,161.0,10,160.86,Low Margin Volume
+2019,ATL-LAX,Atlanta-Los Angeles,North America,Medium Haul,3127,Atlanta,United States,Los Angeles,United States,551.2,521.99,29.21,5.3,3.6,153.0,11,153.11,Stable Contributor
+2020,ATL-LAX,Atlanta-Los Angeles,North America,Medium Haul,3127,Atlanta,United States,Los Angeles,United States,59.4,81.14,-21.74,-36.6,1.14,52.0,2,52.11,Loss Making / Under Review
+2021,ATL-LAX,Atlanta-Los Angeles,North America,Medium Haul,3127,Atlanta,United States,Los Angeles,United States,150.3,179.61,-29.31,-19.5,1.87,80.0,4,80.37,Loss Making / Under Review
+2022,ATL-LAX,Atlanta-Los Angeles,North America,Medium Haul,3127,Atlanta,United States,Los Angeles,United States,375.6,370.34,5.26,1.4,2.72,138.0,7,138.09,Low Margin Volume
+2023,ATL-LAX,Atlanta-Los Angeles,North America,Medium Haul,3127,Atlanta,United States,Los Angeles,United States,652.0,604.08,47.92,7.35,3.49,187.0,10,186.82,Stable Contributor
+2024,ATL-LAX,Atlanta-Los Angeles,North America,Medium Haul,3127,Atlanta,United States,Los Angeles,United States,714.9,663.43,51.47,7.2,3.98,180.0,11,179.62,Stable Contributor
+2025,ATL-LAX,Atlanta-Los Angeles,North America,Medium Haul,3127,Atlanta,United States,Los Angeles,United States,768.6,714.03,54.57,7.1,3.77,204.0,11,203.87,Stable Contributor
+2026,ATL-LAX,Atlanta-Los Angeles,North America,Medium Haul,3127,Atlanta,United States,Los Angeles,United States,808.0,771.64,36.36,4.5,4.15,194.0,13,194.7,Low Margin Volume
+2015,JFK-LAX,New York-Los Angeles,North America,Medium Haul,3974,New York,United States,Los Angeles,United States,342.5,321.61,20.89,6.1,2.06,166.0,7,166.26,Stable Contributor
+2018,JFK-LAX,New York-Los Angeles,North America,Medium Haul,3974,New York,United States,Los Angeles,United States,425.6,406.02,19.58,4.6,2.45,174.0,5,173.71,Low Margin Volume
+2019,JFK-LAX,New York-Los Angeles,North America,Medium Haul,3974,New York,United States,Los Angeles,United States,502.5,475.87,26.63,5.3,2.47,203.0,6,203.44,Stable Contributor
+2020,JFK-LAX,New York-Los Angeles,North America,Medium Haul,3974,New York,United States,Los Angeles,United States,51.5,70.35,-18.85,-36.6,0.81,64.0,2,63.58,Loss Making / Under Review
+2021,JFK-LAX,New York-Los Angeles,North America,Medium Haul,3974,New York,United States,Los Angeles,United States,132.0,157.74,-25.74,-19.5,1.21,109.0,3,109.09,Loss Making / Under Review
+2022,JFK-LAX,New York-Los Angeles,North America,Medium Haul,3974,New York,United States,Los Angeles,United States,299.8,295.6,4.2,1.4,1.84,163.0,3,162.93,Low Margin Volume
+2023,JFK-LAX,New York-Los Angeles,North America,Medium Haul,3974,New York,United States,Los Angeles,United States,505.4,468.25,37.15,7.35,2.52,201.0,8,200.56,Stable Contributor
+2024,JFK-LAX,New York-Los Angeles,North America,Medium Haul,3974,New York,United States,Los Angeles,United States,519.2,481.82,37.38,7.2,2.5,208.0,6,207.68,Stable Contributor
+2025,JFK-LAX,New York-Los Angeles,North America,Medium Haul,3974,New York,United States,Los Angeles,United States,637.7,592.42,45.28,7.1,2.76,231.0,7,231.05,Stable Contributor
+2026,JFK-LAX,New York-Los Angeles,North America,Medium Haul,3974,New York,United States,Los Angeles,United States,580.2,554.09,26.11,4.5,2.67,217.0,7,217.3,Low Margin Volume
+2015,ORD-LGA,Chicago-New York,North America,Short Haul,1190,Chicago,United States,New York,United States,495.1,447.57,47.53,9.6,5.44,91.0,16,91.01,Stable Contributor
+2018,ORD-LGA,Chicago-New York,North America,Short Haul,1190,Chicago,United States,New York,United States,590.4,542.58,47.82,8.1,6.57,90.0,19,89.86,Stable Contributor
+2019,ORD-LGA,Chicago-New York,North America,Short Haul,1190,Chicago,United States,New York,United States,578.5,527.59,50.91,8.8,6.56,88.0,21,88.19,Stable Contributor
+2020,ORD-LGA,Chicago-New York,North America,Short Haul,1190,Chicago,United States,New York,United States,60.1,79.99,-19.89,-33.09,1.96,31.0,5,30.66,Loss Making / Under Review
+2021,ORD-LGA,Chicago-New York,North America,Short Haul,1190,Chicago,United States,New York,United States,151.4,175.62,-24.22,-16.0,3.27,46.0,11,46.3,Loss Making / Under Review
+2022,ORD-LGA,Chicago-New York,North America,Short Haul,1190,Chicago,United States,New York,United States,373.8,355.48,18.32,4.9,4.99,75.0,16,74.91,Low Margin Volume
+2023,ORD-LGA,Chicago-New York,North America,Short Haul,1190,Chicago,United States,New York,United States,635.3,566.37,68.93,10.85,6.54,97.0,18,97.14,Stable Contributor
+2024,ORD-LGA,Chicago-New York,North America,Short Haul,1190,Chicago,United States,New York,United States,648.1,578.75,69.35,10.7,6.72,96.0,20,96.44,Stable Contributor
+2025,ORD-LGA,Chicago-New York,North America,Short Haul,1190,Chicago,United States,New York,United States,719.5,643.23,76.27,10.6,7.28,99.0,21,98.83,Stable Contributor
+2026,ORD-LGA,Chicago-New York,North America,Short Haul,1190,Chicago,United States,New York,United States,756.1,695.61,60.49,8.0,6.94,109.0,19,108.95,Stable Contributor
+2015,YYZ-YVR,Toronto-Vancouver,North America,Medium Haul,3358,Toronto,Canada,Vancouver,Canada,454.6,426.87,27.73,6.1,2.59,176.0,8,175.52,Stable Contributor
+2018,YYZ-YVR,Toronto-Vancouver,North America,Medium Haul,3358,Toronto,Canada,Vancouver,Canada,515.1,491.41,23.69,4.6,2.8,184.0,7,183.96,Low Margin Volume
+2019,YYZ-YVR,Toronto-Vancouver,North America,Medium Haul,3358,Toronto,Canada,Vancouver,Canada,542.6,513.84,28.76,5.3,2.89,188.0,6,187.75,Stable Contributor
+2020,YYZ-YVR,Toronto-Vancouver,North America,Medium Haul,3358,Toronto,Canada,Vancouver,Canada,46.7,63.79,-17.09,-36.6,0.9,52.0,2,51.89,Loss Making / Under Review
+2021,YYZ-YVR,Toronto-Vancouver,North America,Medium Haul,3358,Toronto,Canada,Vancouver,Canada,135.8,162.28,-26.48,-19.5,1.44,95.0,4,94.31,Loss Making / Under Review
+2022,YYZ-YVR,Toronto-Vancouver,North America,Medium Haul,3358,Toronto,Canada,Vancouver,Canada,328.9,324.3,4.6,1.4,2.38,138.0,6,138.19,Low Margin Volume
+2023,YYZ-YVR,Toronto-Vancouver,North America,Medium Haul,3358,Toronto,Canada,Vancouver,Canada,455.6,422.11,33.49,7.35,2.82,162.0,8,161.56,Stable Contributor
+2024,YYZ-YVR,Toronto-Vancouver,North America,Medium Haul,3358,Toronto,Canada,Vancouver,Canada,723.5,671.41,52.09,7.2,3.22,224.0,9,224.69,Stable Contributor
+2025,YYZ-YVR,Toronto-Vancouver,North America,Medium Haul,3358,Toronto,Canada,Vancouver,Canada,639.2,593.82,45.38,7.1,3.26,196.0,10,196.07,Stable Contributor
+2026,YYZ-YVR,Toronto-Vancouver,North America,Medium Haul,3358,Toronto,Canada,Vancouver,Canada,701.7,670.12,31.58,4.5,3.41,206.0,11,205.78,Low Margin Volume
+2015,MEX-CUN,Mexico City-Cancun,Latin America,Short Haul,1281,Mexico City,Mexico,Cancun,Mexico,627.4,567.17,60.23,9.6,7.06,89.0,21,88.87,Stable Contributor
+2018,MEX-CUN,Mexico City-Cancun,Latin America,Short Haul,1281,Mexico City,Mexico,Cancun,Mexico,833.2,765.71,67.49,8.1,7.49,111.0,21,111.24,Stable Contributor
+2019,MEX-CUN,Mexico City-Cancun,Latin America,Short Haul,1281,Mexico City,Mexico,Cancun,Mexico,782.0,713.18,68.82,8.8,8.08,97.0,26,96.78,Stable Contributor
+2020,MEX-CUN,Mexico City-Cancun,Latin America,Short Haul,1281,Mexico City,Mexico,Cancun,Mexico,72.4,96.36,-23.96,-33.09,2.48,29.0,7,29.19,Loss Making / Under Review
+2021,MEX-CUN,Mexico City-Cancun,Latin America,Short Haul,1281,Mexico City,Mexico,Cancun,Mexico,197.9,229.56,-31.66,-16.0,4.03,49.0,12,49.11,Loss Making / Under Review
+2022,MEX-CUN,Mexico City-Cancun,Latin America,Short Haul,1281,Mexico City,Mexico,Cancun,Mexico,467.8,444.88,22.92,4.9,6.08,77.0,18,76.94,Low Margin Volume
+2023,MEX-CUN,Mexico City-Cancun,Latin America,Short Haul,1281,Mexico City,Mexico,Cancun,Mexico,752.5,670.85,81.65,10.85,7.72,98.0,23,97.47,Stable Contributor
+2024,MEX-CUN,Mexico City-Cancun,Latin America,Short Haul,1281,Mexico City,Mexico,Cancun,Mexico,961.5,858.62,102.88,10.7,8.17,118.0,23,117.69,Stable Contributor
+2025,MEX-CUN,Mexico City-Cancun,Latin America,Short Haul,1281,Mexico City,Mexico,Cancun,Mexico,976.0,872.54,103.46,10.6,8.93,109.0,28,109.29,Stable Contributor
+2026,MEX-CUN,Mexico City-Cancun,Latin America,Short Haul,1281,Mexico City,Mexico,Cancun,Mexico,935.7,860.84,74.86,8.0,8.62,108.0,24,108.55,Stable Contributor
+2015,GRU-GIG,Sao Paulo-Rio,Latin America,Short Haul,360,Sao Paulo,Brazil,Rio De Janeiro,Brazil,281.4,254.39,27.01,9.6,5.29,53.0,13,53.19,Stable Contributor
+2018,GRU-GIG,Sao Paulo-Rio,Latin America,Short Haul,360,Sao Paulo,Brazil,Rio De Janeiro,Brazil,374.5,344.17,30.33,8.1,6.31,59.0,17,59.35,Stable Contributor
+2019,GRU-GIG,Sao Paulo-Rio,Latin America,Short Haul,360,Sao Paulo,Brazil,Rio De Janeiro,Brazil,408.9,372.92,35.98,8.8,6.87,60.0,21,59.52,Stable Contributor
+2020,GRU-GIG,Sao Paulo-Rio,Latin America,Short Haul,360,Sao Paulo,Brazil,Rio De Janeiro,Brazil,40.8,54.3,-13.5,-33.09,1.92,21.0,6,21.25,Loss Making / Under Review
+2021,GRU-GIG,Sao Paulo-Rio,Latin America,Short Haul,360,Sao Paulo,Brazil,Rio De Janeiro,Brazil,96.3,111.71,-15.41,-16.0,3.16,30.0,10,30.47,Loss Making / Under Review
+2022,GRU-GIG,Sao Paulo-Rio,Latin America,Short Haul,360,Sao Paulo,Brazil,Rio De Janeiro,Brazil,233.4,221.96,11.44,4.9,4.88,48.0,15,47.83,Low Margin Volume
+2023,GRU-GIG,Sao Paulo-Rio,Latin America,Short Haul,360,Sao Paulo,Brazil,Rio De Janeiro,Brazil,373.0,332.53,40.47,10.85,6.06,62.0,19,61.55,Stable Contributor
+2024,GRU-GIG,Sao Paulo-Rio,Latin America,Short Haul,360,Sao Paulo,Brazil,Rio De Janeiro,Brazil,477.7,426.59,51.11,10.7,7.13,67.0,21,67.0,Stable Contributor
+2025,GRU-GIG,Sao Paulo-Rio,Latin America,Short Haul,360,Sao Paulo,Brazil,Rio De Janeiro,Brazil,448.7,401.14,47.56,10.6,6.75,66.0,20,66.47,Stable Contributor
+2026,GRU-GIG,Sao Paulo-Rio,Latin America,Short Haul,360,Sao Paulo,Brazil,Rio De Janeiro,Brazil,530.7,488.24,42.46,8.0,7.33,72.0,23,72.4,Stable Contributor
+2015,BOG-LIM,Bogota-Lima,Latin America,Medium Haul,1881,Bogota,Colombia,Lima,Peru,537.9,486.26,51.64,9.6,5.0,108.0,14,107.58,Stable Contributor
+2018,BOG-LIM,Bogota-Lima,Latin America,Medium Haul,1881,Bogota,Colombia,Lima,Peru,750.0,689.25,60.75,8.1,5.97,126.0,18,125.63,Stable Contributor
+2019,BOG-LIM,Bogota-Lima,Latin America,Medium Haul,1881,Bogota,Colombia,Lima,Peru,729.8,665.58,64.22,8.8,6.38,114.0,19,114.39,Stable Contributor
+2020,BOG-LIM,Bogota-Lima,Latin America,Medium Haul,1881,Bogota,Colombia,Lima,Peru,64.2,85.45,-21.25,-33.1,1.81,36.0,5,35.47,Loss Making / Under Review
+2021,BOG-LIM,Bogota-Lima,Latin America,Medium Haul,1881,Bogota,Colombia,Lima,Peru,185.3,214.95,-29.65,-16.0,2.84,65.0,9,65.25,Loss Making / Under Review
+2022,BOG-LIM,Bogota-Lima,Latin America,Medium Haul,1881,Bogota,Colombia,Lima,Peru,378.1,359.57,18.53,4.9,4.5,84.0,12,84.02,Low Margin Volume
+2023,BOG-LIM,Bogota-Lima,Latin America,Medium Haul,1881,Bogota,Colombia,Lima,Peru,686.9,612.37,74.53,10.85,5.77,119.0,14,119.05,Stable Contributor
+2024,BOG-LIM,Bogota-Lima,Latin America,Medium Haul,1881,Bogota,Colombia,Lima,Peru,868.2,775.3,92.9,10.7,6.55,133.0,18,132.55,Stable Contributor
+2025,BOG-LIM,Bogota-Lima,Latin America,Medium Haul,1881,Bogota,Colombia,Lima,Peru,898.4,803.17,95.23,10.6,6.79,132.0,19,132.31,Stable Contributor
+2026,BOG-LIM,Bogota-Lima,Latin America,Medium Haul,1881,Bogota,Colombia,Lima,Peru,1052.3,968.12,84.18,8.0,6.74,156.0,21,156.13,Stable Contributor
+2015,NRT-HNL,Tokyo-Honolulu,Pacific,Long Haul,6182,Tokyo,Japan,Honolulu,United States,628.1,589.79,38.31,6.1,2.37,265.0,5,265.02,Stable Contributor
+2018,NRT-HNL,Tokyo-Honolulu,Pacific,Long Haul,6182,Tokyo,Japan,Honolulu,United States,721.2,688.02,33.18,4.6,2.67,270.0,8,270.11,Low Margin Volume
+2019,NRT-HNL,Tokyo-Honolulu,Pacific,Long Haul,6182,Tokyo,Japan,Honolulu,United States,831.1,787.05,44.05,5.3,2.71,306.0,8,306.68,Stable Contributor
+2020,NRT-HNL,Tokyo-Honolulu,Pacific,Long Haul,6182,Tokyo,Japan,Honolulu,United States,65.5,89.47,-23.97,-36.6,0.73,90.0,2,89.73,Loss Making / Under Review
+2021,NRT-HNL,Tokyo-Honolulu,Pacific,Long Haul,6182,Tokyo,Japan,Honolulu,United States,205.9,246.05,-40.15,-19.5,1.39,148.0,5,148.13,Loss Making / Under Review
+2022,NRT-HNL,Tokyo-Honolulu,Pacific,Long Haul,6182,Tokyo,Japan,Honolulu,United States,475.9,469.24,6.66,1.4,2.08,229.0,7,228.8,Low Margin Volume
+2023,NRT-HNL,Tokyo-Honolulu,Pacific,Long Haul,6182,Tokyo,Japan,Honolulu,United States,706.2,654.29,51.91,7.35,2.64,268.0,5,267.5,Stable Contributor
+2024,NRT-HNL,Tokyo-Honolulu,Pacific,Long Haul,6182,Tokyo,Japan,Honolulu,United States,921.5,855.15,66.35,7.2,2.82,327.0,8,326.77,Stable Contributor
+2025,NRT-HNL,Tokyo-Honolulu,Pacific,Long Haul,6182,Tokyo,Japan,Honolulu,United States,1026.0,953.15,72.85,7.1,3.11,330.0,10,329.9,Stable Contributor
+2026,NRT-HNL,Tokyo-Honolulu,Pacific,Long Haul,6182,Tokyo,Japan,Honolulu,United States,1037.7,991.0,46.7,4.5,3.03,342.0,9,342.48,Low Margin Volume
+2015,LAX-SYD,Los Angeles-Sydney,Pacific,Long Haul,12057,Los Angeles,United States,Sydney,Australia,465.9,437.48,28.42,6.1,1.06,440.0,4,439.53,Stable Contributor
+2018,LAX-SYD,Los Angeles-Sydney,Pacific,Long Haul,12057,Los Angeles,United States,Sydney,Australia,691.2,659.4,31.8,4.6,1.35,513.0,3,512.0,Low Margin Volume
+2019,LAX-SYD,Los Angeles-Sydney,Pacific,Long Haul,12057,Los Angeles,United States,Sydney,Australia,770.6,729.76,40.84,5.3,1.37,561.0,3,562.48,Stable Contributor
+2020,LAX-SYD,Los Angeles-Sydney,Pacific,Long Haul,12057,Los Angeles,United States,Sydney,Australia,69.5,94.94,-25.44,-36.6,0.41,171.0,3,169.51,Loss Making / Under Review
+2021,LAX-SYD,Los Angeles-Sydney,Pacific,Long Haul,12057,Los Angeles,United States,Sydney,Australia,183.2,218.92,-35.72,-19.5,0.69,267.0,2,265.51,Loss Making / Under Review
+2022,LAX-SYD,Los Angeles-Sydney,Pacific,Long Haul,12057,Los Angeles,United States,Sydney,Australia,405.3,399.63,5.67,1.4,1.02,396.0,3,397.35,Low Margin Volume
+2023,LAX-SYD,Los Angeles-Sydney,Pacific,Long Haul,12057,Los Angeles,United States,Sydney,Australia,663.6,614.83,48.77,7.35,1.21,547.0,2,548.43,Stable Contributor
+2024,LAX-SYD,Los Angeles-Sydney,Pacific,Long Haul,12057,Los Angeles,United States,Sydney,Australia,773.5,717.81,55.69,7.2,1.38,562.0,6,560.51,Stable Contributor
+2025,LAX-SYD,Los Angeles-Sydney,Pacific,Long Haul,12057,Los Angeles,United States,Sydney,Australia,811.2,753.6,57.6,7.1,1.44,563.0,3,563.33,Stable Contributor
+2026,LAX-SYD,Los Angeles-Sydney,Pacific,Long Haul,12057,Los Angeles,United States,Sydney,Australia,803.5,767.34,36.16,4.5,1.6,504.0,3,502.19,Low Margin Volume
+2015,HKG-SFO,Hong Kong-San Francisco,Pacific,Long Haul,11129,Hong Kong,Hong Kong,San Francisco,United States,674.1,632.98,41.12,6.1,1.71,394.0,5,394.21,Stable Contributor
+2018,HKG-SFO,Hong Kong-San Francisco,Pacific,Long Haul,11129,Hong Kong,Hong Kong,San Francisco,United States,927.0,884.36,42.64,4.6,1.87,495.0,7,495.72,Low Margin Volume
+2019,HKG-SFO,Hong Kong-San Francisco,Pacific,Long Haul,11129,Hong Kong,Hong Kong,San Francisco,United States,957.5,906.75,50.75,5.3,2.0,479.0,6,478.75,Stable Contributor
+2020,HKG-SFO,Hong Kong-San Francisco,Pacific,Long Haul,11129,Hong Kong,Hong Kong,San Francisco,United States,80.1,109.42,-29.32,-36.6,0.57,140.0,1,140.53,Loss Making / Under Review
+2021,HKG-SFO,Hong Kong-San Francisco,Pacific,Long Haul,11129,Hong Kong,Hong Kong,San Francisco,United States,216.7,258.96,-42.26,-19.5,0.92,235.0,1,235.54,Loss Making / Under Review
+2022,HKG-SFO,Hong Kong-San Francisco,Pacific,Long Haul,11129,Hong Kong,Hong Kong,San Francisco,United States,516.1,508.87,7.23,1.4,1.49,346.0,1,346.38,Low Margin Volume
+2023,HKG-SFO,Hong Kong-San Francisco,Pacific,Long Haul,11129,Hong Kong,Hong Kong,San Francisco,United States,819.3,759.08,60.22,7.35,1.79,457.0,4,457.71,Stable Contributor
+2024,HKG-SFO,Hong Kong-San Francisco,Pacific,Long Haul,11129,Hong Kong,Hong Kong,San Francisco,United States,1099.6,1020.43,79.17,7.2,2.19,501.0,7,502.1,Stable Contributor
+2025,HKG-SFO,Hong Kong-San Francisco,Pacific,Long Haul,11129,Hong Kong,Hong Kong,San Francisco,United States,1174.3,1090.92,83.38,7.1,2.16,543.0,5,543.66,Stable Contributor
+2026,HKG-SFO,Hong Kong-San Francisco,Pacific,Long Haul,11129,Hong Kong,Hong Kong,San Francisco,United States,1163.9,1111.52,52.38,4.5,2.2,530.0,6,529.05,Low Margin Volume
+2015,ICN-LAX,Seoul-Los Angeles,Pacific,Long Haul,9572,Seoul,South Korea,Los Angeles,United States,570.1,535.32,34.78,6.1,1.46,391.0,4,390.48,Stable Contributor
+2018,ICN-LAX,Seoul-Los Angeles,Pacific,Long Haul,9572,Seoul,South Korea,Los Angeles,United States,690.4,658.64,31.76,4.6,1.66,415.0,4,415.9,Low Margin Volume
+2019,ICN-LAX,Seoul-Los Angeles,Pacific,Long Haul,9572,Seoul,South Korea,Los Angeles,United States,748.9,709.21,39.69,5.3,1.72,435.0,4,435.41,Stable Contributor
+2020,ICN-LAX,Seoul-Los Angeles,Pacific,Long Haul,9572,Seoul,South Korea,Los Angeles,United States,60.7,82.92,-22.22,-36.61,0.52,118.0,1,116.73,Loss Making / Under Review
+2021,ICN-LAX,Seoul-Los Angeles,Pacific,Long Haul,9572,Seoul,South Korea,Los Angeles,United States,189.4,226.33,-36.93,-19.5,0.91,208.0,5,208.13,Loss Making / Under Review
+2022,ICN-LAX,Seoul-Los Angeles,Pacific,Long Haul,9572,Seoul,South Korea,Los Angeles,United States,486.6,479.79,6.81,1.4,1.39,351.0,4,350.07,Low Margin Volume
+2023,ICN-LAX,Seoul-Los Angeles,Pacific,Long Haul,9572,Seoul,South Korea,Los Angeles,United States,715.8,663.19,52.61,7.35,1.82,392.0,2,393.3,Stable Contributor
+2024,ICN-LAX,Seoul-Los Angeles,Pacific,Long Haul,9572,Seoul,South Korea,Los Angeles,United States,864.6,802.35,62.25,7.2,1.84,470.0,5,469.89,Stable Contributor
+2025,ICN-LAX,Seoul-Los Angeles,Pacific,Long Haul,9572,Seoul,South Korea,Los Angeles,United States,1022.4,949.81,72.59,7.1,1.98,515.0,6,516.36,Stable Contributor
+2026,ICN-LAX,Seoul-Los Angeles,Pacific,Long Haul,9572,Seoul,South Korea,Los Angeles,United States,945.1,902.57,42.53,4.5,2.06,458.0,5,458.79,Low Margin Volume
+2015,JNB-LHR,Johannesburg-London,Africa-Europe,Long Haul,9070,Johannesburg,South Africa,London,United Kingdom,625.8,587.63,38.17,6.1,1.85,338.0,4,338.27,Stable Contributor
+2018,JNB-LHR,Johannesburg-London,Africa-Europe,Long Haul,9070,Johannesburg,South Africa,London,United Kingdom,754.8,720.08,34.72,4.6,2.01,376.0,4,375.52,Low Margin Volume
+2019,JNB-LHR,Johannesburg-London,Africa-Europe,Long Haul,9070,Johannesburg,South Africa,London,United Kingdom,833.6,789.42,44.18,5.3,2.04,408.0,5,408.63,Stable Contributor
+2020,JNB-LHR,Johannesburg-London,Africa-Europe,Long Haul,9070,Johannesburg,South Africa,London,United Kingdom,85.7,117.07,-31.37,-36.6,0.68,126.0,2,126.03,Loss Making / Under Review
+2021,JNB-LHR,Johannesburg-London,Africa-Europe,Long Haul,9070,Johannesburg,South Africa,London,United Kingdom,215.8,257.88,-42.08,-19.5,1.05,205.0,3,205.52,Loss Making / Under Review
+2022,JNB-LHR,Johannesburg-London,Africa-Europe,Long Haul,9070,Johannesburg,South Africa,London,United Kingdom,515.5,508.28,7.22,1.4,1.67,308.0,6,308.68,Low Margin Volume
+2023,JNB-LHR,Johannesburg-London,Africa-Europe,Long Haul,9070,Johannesburg,South Africa,London,United Kingdom,847.9,785.58,62.32,7.35,2.06,411.0,5,411.6,Stable Contributor
+2024,JNB-LHR,Johannesburg-London,Africa-Europe,Long Haul,9070,Johannesburg,South Africa,London,United Kingdom,933.2,866.01,67.19,7.2,2.12,440.0,7,440.19,Stable Contributor
+2025,JNB-LHR,Johannesburg-London,Africa-Europe,Long Haul,9070,Johannesburg,South Africa,London,United Kingdom,1137.3,1056.55,80.75,7.1,2.44,466.0,6,466.11,Stable Contributor
+2026,JNB-LHR,Johannesburg-London,Africa-Europe,Long Haul,9070,Johannesburg,South Africa,London,United Kingdom,1124.4,1073.8,50.6,4.5,2.35,478.0,7,478.47,Low Margin Volume
+2015,CAI-RUH,Cairo-Riyadh,MENA,Short Haul,1304,Cairo,Egypt,Riyadh,Saudi Arabia,818.2,739.65,78.55,9.6,9.93,82.0,29,82.4,Stable Contributor
+2018,CAI-RUH,Cairo-Riyadh,MENA,Short Haul,1304,Cairo,Egypt,Riyadh,Saudi Arabia,1159.5,1065.58,93.92,8.1,11.34,102.0,33,102.25,Stable Contributor
+2019,CAI-RUH,Cairo-Riyadh,MENA,Short Haul,1304,Cairo,Egypt,Riyadh,Saudi Arabia,1166.2,1063.57,102.63,8.8,11.31,103.0,31,103.11,Stable Contributor
+2020,CAI-RUH,Cairo-Riyadh,MENA,Short Haul,1304,Cairo,Egypt,Riyadh,Saudi Arabia,98.8,131.5,-32.7,-33.1,3.23,31.0,9,30.59,Loss Making / Under Review
+2021,CAI-RUH,Cairo-Riyadh,MENA,Short Haul,1304,Cairo,Egypt,Riyadh,Saudi Arabia,308.6,357.98,-49.38,-16.0,5.65,55.0,16,54.62,Loss Making / Under Review
+2022,CAI-RUH,Cairo-Riyadh,MENA,Short Haul,1304,Cairo,Egypt,Riyadh,Saudi Arabia,628.0,597.23,30.77,4.9,8.04,78.0,23,78.11,Low Margin Volume
+2023,CAI-RUH,Cairo-Riyadh,MENA,Short Haul,1304,Cairo,Egypt,Riyadh,Saudi Arabia,1006.7,897.47,109.23,10.85,10.56,95.0,33,95.33,Stable Contributor
+2024,CAI-RUH,Cairo-Riyadh,MENA,Short Haul,1304,Cairo,Egypt,Riyadh,Saudi Arabia,1124.8,1004.45,120.35,10.7,10.73,105.0,32,104.83,Stable Contributor
+2025,CAI-RUH,Cairo-Riyadh,MENA,Short Haul,1304,Cairo,Egypt,Riyadh,Saudi Arabia,1413.9,1264.03,149.87,10.6,11.92,119.0,36,118.62,Stable Contributor
+2026,CAI-RUH,Cairo-Riyadh,MENA,Short Haul,1304,Cairo,Egypt,Riyadh,Saudi Arabia,1407.0,1294.44,112.56,8.0,12.5,113.0,37,112.56,Stable Contributor
+2015,LOS-LHR,Lagos-London,Africa-Europe,Long Haul,5034,Lagos,Nigeria,London,United Kingdom,450.4,422.93,27.47,6.1,2.13,211.0,6,211.46,Stable Contributor
+2018,LOS-LHR,Lagos-London,Africa-Europe,Long Haul,5034,Lagos,Nigeria,London,United Kingdom,546.4,521.27,25.13,4.6,2.46,222.0,6,222.11,Low Margin Volume
+2019,LOS-LHR,Lagos-London,Africa-Europe,Long Haul,5034,Lagos,Nigeria,London,United Kingdom,621.2,588.28,32.92,5.3,2.35,265.0,7,264.34,Stable Contributor
+2020,LOS-LHR,Lagos-London,Africa-Europe,Long Haul,5034,Lagos,Nigeria,London,United Kingdom,53.3,72.81,-19.51,-36.6,0.77,69.0,4,69.22,Loss Making / Under Review
+2021,LOS-LHR,Lagos-London,Africa-Europe,Long Haul,5034,Lagos,Nigeria,London,United Kingdom,155.9,186.3,-30.4,-19.5,1.23,127.0,4,126.75,Loss Making / Under Review
+2022,LOS-LHR,Lagos-London,Africa-Europe,Long Haul,5034,Lagos,Nigeria,London,United Kingdom,331.0,326.37,4.63,1.4,1.81,182.0,5,182.87,Low Margin Volume
+2023,LOS-LHR,Lagos-London,Africa-Europe,Long Haul,5034,Lagos,Nigeria,London,United Kingdom,651.6,603.71,47.89,7.35,2.68,243.0,9,243.13,Stable Contributor
+2024,LOS-LHR,Lagos-London,Africa-Europe,Long Haul,5034,Lagos,Nigeria,London,United Kingdom,748.1,694.24,53.86,7.2,2.77,270.0,7,270.07,Stable Contributor
+2025,LOS-LHR,Lagos-London,Africa-Europe,Long Haul,5034,Lagos,Nigeria,London,United Kingdom,729.8,677.98,51.82,7.1,2.89,253.0,10,252.53,Stable Contributor
+2026,LOS-LHR,Lagos-London,Africa-Europe,Long Haul,5034,Lagos,Nigeria,London,United Kingdom,682.2,651.5,30.7,4.5,2.84,240.0,8,240.21,Low Margin Volume
+2015,BOM-LHR,Mumbai-London,Asia-Europe,Long Haul,7196,Mumbai,India,London,United Kingdom,335.3,314.85,20.45,6.1,1.12,300.0,2,299.38,Stable Contributor
+2018,BOM-LHR,Mumbai-London,Asia-Europe,Long Haul,7196,Mumbai,India,London,United Kingdom,382.8,365.19,17.61,4.6,1.2,320.0,3,319.0,Low Margin Volume
+2019,BOM-LHR,Mumbai-London,Asia-Europe,Long Haul,7196,Mumbai,India,London,United Kingdom,476.4,451.15,25.25,5.3,1.31,364.0,3,363.66,Stable Contributor
+2020,BOM-LHR,Mumbai-London,Asia-Europe,Long Haul,7196,Mumbai,India,London,United Kingdom,41.1,56.14,-15.04,-36.59,0.4,102.0,1,102.75,Loss Making / Under Review
+2021,BOM-LHR,Mumbai-London,Asia-Europe,Long Haul,7196,Mumbai,India,London,United Kingdom,106.5,127.27,-20.77,-19.5,0.63,169.0,3,169.05,Loss Making / Under Review
+2022,BOM-LHR,Mumbai-London,Asia-Europe,Long Haul,7196,Mumbai,India,London,United Kingdom,233.0,229.74,3.26,1.4,1.02,228.0,1,228.43,Low Margin Volume
+2023,BOM-LHR,Mumbai-London,Asia-Europe,Long Haul,7196,Mumbai,India,London,United Kingdom,414.7,384.22,30.48,7.35,1.3,319.0,5,319.0,Stable Contributor
+2024,BOM-LHR,Mumbai-London,Asia-Europe,Long Haul,7196,Mumbai,India,London,United Kingdom,487.8,452.68,35.12,7.2,1.35,362.0,4,361.33,Stable Contributor
+2025,BOM-LHR,Mumbai-London,Asia-Europe,Long Haul,7196,Mumbai,India,London,United Kingdom,519.9,482.99,36.91,7.1,1.44,362.0,4,361.04,Stable Contributor
+2026,BOM-LHR,Mumbai-London,Asia-Europe,Long Haul,7196,Mumbai,India,London,United Kingdom,574.8,548.93,25.87,4.5,1.52,378.0,5,378.16,Low Margin Volume
+2015,FRA-SIN,Frankfurt-Singapore,Europe-Asia,Long Haul,10262,Frankfurt,Germany,Singapore,Singapore,396.7,372.5,24.2,6.1,0.9,441.0,2,440.78,Stable Contributor
+2018,FRA-SIN,Frankfurt-Singapore,Europe-Asia,Long Haul,10262,Frankfurt,Germany,Singapore,Singapore,451.9,431.11,20.79,4.6,1.04,436.0,3,434.52,Low Margin Volume
+2019,FRA-SIN,Frankfurt-Singapore,Europe-Asia,Long Haul,10262,Frankfurt,Germany,Singapore,Singapore,505.9,479.09,26.81,5.3,1.1,460.0,3,459.91,Stable Contributor
+2020,FRA-SIN,Frankfurt-Singapore,Europe-Asia,Long Haul,10262,Frankfurt,Germany,Singapore,Singapore,40.5,55.32,-14.82,-36.59,0.34,120.0,2,119.12,Loss Making / Under Review
+2021,FRA-SIN,Frankfurt-Singapore,Europe-Asia,Long Haul,10262,Frankfurt,Germany,Singapore,Singapore,132.3,158.1,-25.8,-19.5,0.56,238.0,1,236.25,Loss Making / Under Review
+2022,FRA-SIN,Frankfurt-Singapore,Europe-Asia,Long Haul,10262,Frankfurt,Germany,Singapore,Singapore,272.7,268.88,3.82,1.4,0.82,332.0,3,332.56,Low Margin Volume
+2023,FRA-SIN,Frankfurt-Singapore,Europe-Asia,Long Haul,10262,Frankfurt,Germany,Singapore,Singapore,474.5,439.62,34.88,7.35,1.04,458.0,2,456.25,Stable Contributor
+2024,FRA-SIN,Frankfurt-Singapore,Europe-Asia,Long Haul,10262,Frankfurt,Germany,Singapore,Singapore,548.7,509.19,39.51,7.2,1.15,476.0,4,477.13,Stable Contributor
+2025,FRA-SIN,Frankfurt-Singapore,Europe-Asia,Long Haul,10262,Frankfurt,Germany,Singapore,Singapore,533.2,495.34,37.86,7.1,1.14,468.0,1,467.72,Stable Contributor
+2026,FRA-SIN,Frankfurt-Singapore,Europe-Asia,Long Haul,10262,Frankfurt,Germany,Singapore,Singapore,588.3,561.83,26.47,4.5,1.2,491.0,1,490.25,Low Margin Volume
+2015,AMS-BKK,Amsterdam-Bangkok,Europe-Asia,Long Haul,9229,Amsterdam,Netherlands,Bangkok,Thailand,579.1,543.77,35.33,6.1,1.73,335.0,6,334.74,Stable Contributor
+2018,AMS-BKK,Amsterdam-Bangkok,Europe-Asia,Long Haul,9229,Amsterdam,Netherlands,Bangkok,Thailand,856.6,817.2,39.4,4.6,2.13,403.0,5,402.16,Low Margin Volume
+2019,AMS-BKK,Amsterdam-Bangkok,Europe-Asia,Long Haul,9229,Amsterdam,Netherlands,Bangkok,Thailand,811.1,768.11,42.99,5.3,2.07,391.0,6,391.84,Stable Contributor
+2020,AMS-BKK,Amsterdam-Bangkok,Europe-Asia,Long Haul,9229,Amsterdam,Netherlands,Bangkok,Thailand,90.8,124.03,-33.23,-36.6,0.68,133.0,2,133.53,Loss Making / Under Review
+2021,AMS-BKK,Amsterdam-Bangkok,Europe-Asia,Long Haul,9229,Amsterdam,Netherlands,Bangkok,Thailand,224.5,268.28,-43.78,-19.5,1.07,210.0,2,209.81,Loss Making / Under Review
+2022,AMS-BKK,Amsterdam-Bangkok,Europe-Asia,Long Haul,9229,Amsterdam,Netherlands,Bangkok,Thailand,582.3,574.15,8.15,1.4,1.64,355.0,3,355.06,Low Margin Volume
+2023,AMS-BKK,Amsterdam-Bangkok,Europe-Asia,Long Haul,9229,Amsterdam,Netherlands,Bangkok,Thailand,887.9,822.64,65.26,7.35,2.07,428.0,4,428.94,Stable Contributor
+2024,AMS-BKK,Amsterdam-Bangkok,Europe-Asia,Long Haul,9229,Amsterdam,Netherlands,Bangkok,Thailand,961.3,892.09,69.21,7.2,2.25,426.0,6,427.24,Stable Contributor
+2025,AMS-BKK,Amsterdam-Bangkok,Europe-Asia,Long Haul,9229,Amsterdam,Netherlands,Bangkok,Thailand,1086.4,1009.27,77.13,7.1,2.27,478.0,7,478.59,Stable Contributor
+2026,AMS-BKK,Amsterdam-Bangkok,Europe-Asia,Long Haul,9229,Amsterdam,Netherlands,Bangkok,Thailand,1122.1,1071.61,50.49,4.5,2.52,446.0,7,445.28,Low Margin Volume
+2015,ICN-NRT,Seoul-Tokyo,Asia,Short Haul,1244,Seoul,South Korea,Tokyo,Japan,380.9,344.33,36.57,9.6,3.95,96.0,11,96.43,Stable Contributor
+2018,ICN-NRT,Seoul-Tokyo,Asia,Short Haul,1244,Seoul,South Korea,Tokyo,Japan,408.5,375.41,33.09,8.1,4.26,96.0,11,95.89,Stable Contributor
+2019,ICN-NRT,Seoul-Tokyo,Asia,Short Haul,1244,Seoul,South Korea,Tokyo,Japan,420.5,383.5,37.0,8.8,4.49,94.0,13,93.65,Stable Contributor
+2020,ICN-NRT,Seoul-Tokyo,Asia,Short Haul,1244,Seoul,South Korea,Tokyo,Japan,45.4,60.43,-15.03,-33.11,1.47,31.0,4,30.88,Loss Making / Under Review
+2021,ICN-NRT,Seoul-Tokyo,Asia,Short Haul,1244,Seoul,South Korea,Tokyo,Japan,108.7,126.09,-17.39,-16.0,2.25,48.0,7,48.31,Loss Making / Under Review
+2022,ICN-NRT,Seoul-Tokyo,Asia,Short Haul,1244,Seoul,South Korea,Tokyo,Japan,253.3,240.89,12.41,4.9,3.44,74.0,10,73.63,Low Margin Volume
+2023,ICN-NRT,Seoul-Tokyo,Asia,Short Haul,1244,Seoul,South Korea,Tokyo,Japan,423.6,377.64,45.96,10.85,4.41,96.0,14,96.05,Stable Contributor
+2024,ICN-NRT,Seoul-Tokyo,Asia,Short Haul,1244,Seoul,South Korea,Tokyo,Japan,551.8,492.76,59.04,10.7,4.91,112.0,15,112.38,Stable Contributor
+2025,ICN-NRT,Seoul-Tokyo,Asia,Short Haul,1244,Seoul,South Korea,Tokyo,Japan,501.5,448.34,53.16,10.6,4.88,103.0,13,102.77,Stable Contributor
+2026,ICN-NRT,Seoul-Tokyo,Asia,Short Haul,1244,Seoul,South Korea,Tokyo,Japan,566.1,520.81,45.29,8.0,5.09,111.0,15,111.22,Stable Contributor
+2015,BKK-SIN,Bangkok-Singapore,Asia,Short Haul,1421,Bangkok,Thailand,Singapore,Singapore,639.7,578.29,61.41,9.6,7.24,88.0,19,88.36,Stable Contributor
+2018,BKK-SIN,Bangkok-Singapore,Asia,Short Haul,1421,Bangkok,Thailand,Singapore,Singapore,814.2,748.25,65.95,8.1,8.01,102.0,24,101.65,Stable Contributor
+2019,BKK-SIN,Bangkok-Singapore,Asia,Short Haul,1421,Bangkok,Thailand,Singapore,Singapore,1052.7,960.06,92.64,8.8,9.15,115.0,28,115.05,Stable Contributor
+2020,BKK-SIN,Bangkok-Singapore,Asia,Short Haul,1421,Bangkok,Thailand,Singapore,Singapore,75.4,100.36,-24.96,-33.1,2.43,31.0,7,31.03,Loss Making / Under Review
+2021,BKK-SIN,Bangkok-Singapore,Asia,Short Haul,1421,Bangkok,Thailand,Singapore,Singapore,224.3,260.19,-35.89,-16.0,4.08,55.0,12,54.98,Loss Making / Under Review
+2022,BKK-SIN,Bangkok-Singapore,Asia,Short Haul,1421,Bangkok,Thailand,Singapore,Singapore,519.8,494.33,25.47,4.9,6.04,86.0,18,86.06,Low Margin Volume
+2023,BKK-SIN,Bangkok-Singapore,Asia,Short Haul,1421,Bangkok,Thailand,Singapore,Singapore,754.2,672.37,81.83,10.85,7.45,101.0,22,101.23,Stable Contributor
+2024,BKK-SIN,Bangkok-Singapore,Asia,Short Haul,1421,Bangkok,Thailand,Singapore,Singapore,1009.0,901.04,107.96,10.7,9.18,110.0,28,109.91,Stable Contributor
+2025,BKK-SIN,Bangkok-Singapore,Asia,Short Haul,1421,Bangkok,Thailand,Singapore,Singapore,1012.0,904.73,107.27,10.6,9.32,109.0,26,108.58,Stable Contributor
+2026,BKK-SIN,Bangkok-Singapore,Asia,Short Haul,1421,Bangkok,Thailand,Singapore,Singapore,1266.2,1164.9,101.3,8.0,9.85,129.0,29,128.55,Stable Contributor
+2015,SYD-AKL,Sydney-Auckland,Oceania,Medium Haul,2155,Sydney,Australia,Auckland,New Zealand,421.5,381.04,40.46,9.6,3.49,121.0,9,120.77,Stable Contributor
+2018,SYD-AKL,Sydney-Auckland,Oceania,Medium Haul,2155,Sydney,Australia,Auckland,New Zealand,536.1,492.68,43.42,8.1,4.01,134.0,11,133.69,Stable Contributor
+2019,SYD-AKL,Sydney-Auckland,Oceania,Medium Haul,2155,Sydney,Australia,Auckland,New Zealand,530.7,484.0,46.7,8.8,3.84,138.0,9,138.2,Stable Contributor
+2020,SYD-AKL,Sydney-Auckland,Oceania,Medium Haul,2155,Sydney,Australia,Auckland,New Zealand,46.9,62.42,-15.52,-33.09,1.22,39.0,4,38.44,Loss Making / Under Review
+2021,SYD-AKL,Sydney-Auckland,Oceania,Medium Haul,2155,Sydney,Australia,Auckland,New Zealand,129.3,149.99,-20.69,-16.0,1.93,67.0,5,66.99,Loss Making / Under Review
+2022,SYD-AKL,Sydney-Auckland,Oceania,Medium Haul,2155,Sydney,Australia,Auckland,New Zealand,336.0,319.54,16.46,4.9,2.94,114.0,10,114.29,Low Margin Volume
+2023,SYD-AKL,Sydney-Auckland,Oceania,Medium Haul,2155,Sydney,Australia,Auckland,New Zealand,490.6,437.37,53.23,10.85,3.8,129.0,12,129.11,Stable Contributor
+2024,SYD-AKL,Sydney-Auckland,Oceania,Medium Haul,2155,Sydney,Australia,Auckland,New Zealand,589.0,525.98,63.02,10.7,4.33,136.0,12,136.03,Stable Contributor
+2025,SYD-AKL,Sydney-Auckland,Oceania,Medium Haul,2155,Sydney,Australia,Auckland,New Zealand,645.9,577.43,68.47,10.6,4.03,160.0,14,160.27,Stable Contributor
+2026,SYD-AKL,Sydney-Auckland,Oceania,Medium Haul,2155,Sydney,Australia,Auckland,New Zealand,594.6,547.03,47.57,8.0,4.43,134.0,13,134.22,Stable Contributor
+2015,SVO-AER,Moscow-Sochi,Eurasia,Short Haul,1364,Moscow,Russia,Sochi,Russia,349.1,315.59,33.51,9.6,3.78,92.0,11,92.35,Stable Contributor
+2018,SVO-AER,Moscow-Sochi,Eurasia,Short Haul,1364,Moscow,Russia,Sochi,Russia,406.8,373.85,32.95,8.1,4.26,96.0,12,95.49,Stable Contributor
+2019,SVO-AER,Moscow-Sochi,Eurasia,Short Haul,1364,Moscow,Russia,Sochi,Russia,439.8,401.1,38.7,8.8,4.5,98.0,13,97.73,Stable Contributor
+2020,SVO-AER,Moscow-Sochi,Eurasia,Short Haul,1364,Moscow,Russia,Sochi,Russia,43.1,57.37,-14.27,-33.11,1.39,31.0,2,31.01,Loss Making / Under Review
+2021,SVO-AER,Moscow-Sochi,Eurasia,Short Haul,1364,Moscow,Russia,Sochi,Russia,105.5,122.38,-16.88,-16.0,2.38,44.0,6,44.33,Loss Making / Under Review
+2022,SVO-AER,Moscow-Sochi,Eurasia,Short Haul,1364,Moscow,Russia,Sochi,Russia,264.5,251.54,12.96,4.9,3.34,79.0,10,79.19,Low Margin Volume
+2023,SVO-AER,Moscow-Sochi,Eurasia,Short Haul,1364,Moscow,Russia,Sochi,Russia,432.3,385.4,46.9,10.85,4.54,95.0,14,95.22,Stable Contributor
+2024,SVO-AER,Moscow-Sochi,Eurasia,Short Haul,1364,Moscow,Russia,Sochi,Russia,479.2,427.93,51.27,10.7,4.84,99.0,16,99.01,Stable Contributor
+2025,SVO-AER,Moscow-Sochi,Eurasia,Short Haul,1364,Moscow,Russia,Sochi,Russia,559.8,500.46,59.34,10.6,4.75,118.0,14,117.85,Stable Contributor
+2026,SVO-AER,Moscow-Sochi,Eurasia,Short Haul,1364,Moscow,Russia,Sochi,Russia,588.3,541.24,47.06,8.0,5.18,114.0,16,113.57,Stable Contributor
+2015,IST-AYT,Istanbul-Antalya,Europe,Short Haul,480,Istanbul,Turkey,Antalya,Turkey,410.2,370.82,39.38,9.6,7.21,57.0,20,56.89,Stable Contributor
+2018,IST-AYT,Istanbul-Antalya,Europe,Short Haul,480,Istanbul,Turkey,Antalya,Turkey,576.7,529.99,46.71,8.1,8.22,70.0,24,70.16,Stable Contributor
+2019,IST-AYT,Istanbul-Antalya,Europe,Short Haul,480,Istanbul,Turkey,Antalya,Turkey,609.3,555.68,53.62,8.8,8.78,69.0,25,69.4,Stable Contributor
+2020,IST-AYT,Istanbul-Antalya,Europe,Short Haul,480,Istanbul,Turkey,Antalya,Turkey,51.5,68.55,-17.05,-33.11,2.53,20.0,6,20.36,Loss Making / Under Review
+2021,IST-AYT,Istanbul-Antalya,Europe,Short Haul,480,Istanbul,Turkey,Antalya,Turkey,151.9,176.2,-24.3,-16.0,4.33,35.0,11,35.08,Loss Making / Under Review
+2022,IST-AYT,Istanbul-Antalya,Europe,Short Haul,480,Istanbul,Turkey,Antalya,Turkey,318.1,302.51,15.59,4.9,5.97,53.0,17,53.28,Low Margin Volume
+2023,IST-AYT,Istanbul-Antalya,Europe,Short Haul,480,Istanbul,Turkey,Antalya,Turkey,563.7,502.54,61.16,10.85,8.18,69.0,23,68.91,Stable Contributor
+2024,IST-AYT,Istanbul-Antalya,Europe,Short Haul,480,Istanbul,Turkey,Antalya,Turkey,678.4,605.81,72.59,10.7,8.44,80.0,25,80.38,Stable Contributor
+2025,IST-AYT,Istanbul-Antalya,Europe,Short Haul,480,Istanbul,Turkey,Antalya,Turkey,662.5,592.27,70.23,10.6,9.2,72.0,27,72.01,Stable Contributor
+2026,IST-AYT,Istanbul-Antalya,Europe,Short Haul,480,Istanbul,Turkey,Antalya,Turkey,742.6,683.19,59.41,8.0,9.09,82.0,26,81.69,Stable Contributor
+2015,HND-SIN,Tokyo-Singapore,Asia,Long Haul,5350,Tokyo,Japan,Singapore,Singapore,667.9,627.16,40.74,6.1,3.17,211.0,9,210.69,Stable Contributor
+2018,HND-SIN,Tokyo-Singapore,Asia,Long Haul,5350,Tokyo,Japan,Singapore,Singapore,806.8,769.69,37.11,4.6,3.24,249.0,9,249.01,Low Margin Volume
+2019,HND-SIN,Tokyo-Singapore,Asia,Long Haul,5350,Tokyo,Japan,Singapore,Singapore,923.0,874.08,48.92,5.3,3.92,236.0,12,235.46,Stable Contributor
+2020,HND-SIN,Tokyo-Singapore,Asia,Long Haul,5350,Tokyo,Japan,Singapore,Singapore,100.3,137.01,-36.71,-36.6,1.17,85.0,3,85.73,Loss Making / Under Review
+2021,HND-SIN,Tokyo-Singapore,Asia,Long Haul,5350,Tokyo,Japan,Singapore,Singapore,238.4,284.89,-46.49,-19.5,1.97,121.0,6,121.02,Loss Making / Under Review
+2022,HND-SIN,Tokyo-Singapore,Asia,Long Haul,5350,Tokyo,Japan,Singapore,Singapore,494.0,487.08,6.92,1.4,2.75,179.0,7,179.64,Low Margin Volume
+2023,HND-SIN,Tokyo-Singapore,Asia,Long Haul,5350,Tokyo,Japan,Singapore,Singapore,859.2,796.05,63.15,7.35,3.6,239.0,11,238.67,Stable Contributor
+2024,HND-SIN,Tokyo-Singapore,Asia,Long Haul,5350,Tokyo,Japan,Singapore,Singapore,902.8,837.8,65.0,7.2,3.7,244.0,12,244.0,Stable Contributor
+2025,HND-SIN,Tokyo-Singapore,Asia,Long Haul,5350,Tokyo,Japan,Singapore,Singapore,1178.1,1094.45,83.65,7.1,4.32,273.0,12,272.71,Stable Contributor
+2026,HND-SIN,Tokyo-Singapore,Asia,Long Haul,5350,Tokyo,Japan,Singapore,Singapore,1340.0,1279.7,60.3,4.5,4.42,303.0,13,303.17,Low Margin Volume
+2015,JFK-MIA,New York-Miami,North America,Medium Haul,1759,New York,United States,Miami,United States,290.8,262.88,27.92,9.6,2.84,102.0,8,102.39,Stable Contributor
+2018,JFK-MIA,New York-Miami,North America,Medium Haul,1759,New York,United States,Miami,United States,360.7,331.48,29.22,8.1,3.23,112.0,9,111.67,Stable Contributor
+2019,JFK-MIA,New York-Miami,North America,Medium Haul,1759,New York,United States,Miami,United States,388.9,354.68,34.22,8.8,3.44,113.0,11,113.05,Stable Contributor
+2020,JFK-MIA,New York-Miami,North America,Medium Haul,1759,New York,United States,Miami,United States,35.3,46.98,-11.68,-33.09,0.99,36.0,2,35.66,Loss Making / Under Review
+2021,JFK-MIA,New York-Miami,North America,Medium Haul,1759,New York,United States,Miami,United States,92.4,107.18,-14.78,-16.0,1.74,53.0,6,53.1,Loss Making / Under Review
+2022,JFK-MIA,New York-Miami,North America,Medium Haul,1759,New York,United States,Miami,United States,243.6,231.66,11.94,4.9,2.51,97.0,7,97.05,Low Margin Volume
+2023,JFK-MIA,New York-Miami,North America,Medium Haul,1759,New York,United States,Miami,United States,417.9,372.56,45.34,10.85,3.26,128.0,9,128.19,Stable Contributor
+2024,JFK-MIA,New York-Miami,North America,Medium Haul,1759,New York,United States,Miami,United States,480.3,428.91,51.39,10.7,3.79,127.0,11,126.73,Stable Contributor
+2025,JFK-MIA,New York-Miami,North America,Medium Haul,1759,New York,United States,Miami,United States,528.1,472.12,55.98,10.6,3.79,139.0,10,139.34,Stable Contributor
+2026,JFK-MIA,New York-Miami,North America,Medium Haul,1759,New York,United States,Miami,United States,480.1,441.69,38.41,8.0,3.7,130.0,11,129.76,Stable Contributor

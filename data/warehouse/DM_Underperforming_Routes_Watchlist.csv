@@ -1,0 +1,100 @@
+Year,Route_Code,Route_Name,Corridor_Region,Annual_Revenue_USD_M,Operating_Cost_USD_M,Net_Profit_USD_M,Profit_Margin_PCT,Annual_Passengers_M,Avg_Fare_USD
+2020,CJU-GMP,Jeju-Seoul,Asia,45.4,60.43,-15.03,-33.11,2.21,21.0
+2021,CJU-GMP,Jeju-Seoul,Asia,121.5,140.94,-19.44,-16.0,3.57,34.0
+2020,HND-CTS,Tokyo-Sapporo,Asia,27.7,36.87,-9.17,-33.1,1.11,25.0
+2021,HND-CTS,Tokyo-Sapporo,Asia,76.5,88.74,-12.24,-16.0,1.88,41.0
+2020,MEL-SYD,Melbourne-Sydney,Oceania,48.4,64.42,-16.02,-33.1,2.1,23.0
+2021,MEL-SYD,Melbourne-Sydney,Oceania,143.0,165.88,-22.88,-16.0,3.57,40.0
+2020,BOM-DEL,Mumbai-Delhi,Asia,59.2,78.8,-19.6,-33.11,2.31,26.0
+2021,BOM-DEL,Mumbai-Delhi,Asia,167.8,194.65,-26.85,-16.0,3.65,46.0
+2020,PEK-SHA,Beijing-Shanghai,Asia,81.0,107.81,-26.81,-33.1,2.77,29.0
+2021,PEK-SHA,Beijing-Shanghai,Asia,217.0,251.72,-34.72,-16.0,4.73,46.0
+2020,HKG-TPE,Hong Kong-Taipei,Asia,81.1,107.94,-26.84,-33.09,3.05,27.0
+2021,HKG-TPE,Hong Kong-Taipei,Asia,228.6,265.18,-36.58,-16.0,5.32,43.0
+2020,SIN-KUL,Singapore-Kuala Lumpur,Asia,36.0,47.92,-11.92,-33.11,1.93,19.0
+2021,SIN-KUL,Singapore-Kuala Lumpur,Asia,91.6,106.26,-14.66,-16.0,3.23,28.0
+2020,DXB-LHR,Dubai-London,Middle East,88.6,121.03,-32.43,-36.6,1.11,80.0
+2021,DXB-LHR,Dubai-London,Middle East,246.6,294.69,-48.09,-19.5,1.97,125.0
+2022,DXB-LHR,Dubai-London,Middle East,493.5,486.59,6.91,1.4,2.52,196.0
+2020,DXB-BOM,Dubai-Mumbai,Middle East,46.2,61.49,-15.29,-33.1,1.27,36.0
+2021,DXB-BOM,Dubai-Mumbai,Middle East,138.1,160.2,-22.1,-16.0,2.07,67.0
+2020,DOH-LHR,Doha-London,Middle East,93.0,127.04,-34.04,-36.6,1.19,78.0
+2021,DOH-LHR,Doha-London,Middle East,271.4,324.32,-52.92,-19.5,1.92,142.0
+2022,DOH-LHR,Doha-London,Middle East,563.3,555.41,7.89,1.4,2.83,199.0
+2020,IST-LHR,Istanbul-London,Europe,25.5,33.94,-8.44,-33.1,0.57,44.0
+2021,IST-LHR,Istanbul-London,Europe,68.1,79.0,-10.9,-16.01,0.97,71.0
+2020,LHR-JFK,London-New York,Atlantic,34.1,46.58,-12.48,-36.6,0.44,78.0
+2021,LHR-JFK,London-New York,Atlantic,78.5,93.81,-15.31,-19.5,0.65,121.0
+2022,LHR-JFK,London-New York,Atlantic,183.2,180.64,2.56,1.4,1.01,182.0
+2020,LHR-CDG,London-Paris,Europe,51.3,68.28,-16.98,-33.1,2.62,20.0
+2021,LHR-CDG,London-Paris,Europe,140.5,162.98,-22.48,-16.0,4.18,34.0
+2020,FRA-JFK,Frankfurt-New York,Atlantic,68.5,93.57,-25.07,-36.6,0.72,96.0
+2021,FRA-JFK,Frankfurt-New York,Atlantic,191.2,228.48,-37.28,-19.5,1.26,152.0
+2022,FRA-JFK,Frankfurt-New York,Atlantic,443.5,437.29,6.21,1.4,1.88,235.0
+2020,MAD-EZE,Madrid-Buenos Aires,Atlantic,58.8,80.32,-21.52,-36.6,0.44,135.0
+2021,MAD-EZE,Madrid-Buenos Aires,Atlantic,151.2,180.68,-29.48,-19.5,0.73,206.0
+2022,MAD-EZE,Madrid-Buenos Aires,Atlantic,402.4,396.77,5.63,1.4,1.18,341.0
+2020,CDG-DXB,Paris-Dubai,Europe-ME,31.3,42.76,-11.46,-36.61,0.33,94.0
+2021,CDG-DXB,Paris-Dubai,Europe-ME,69.0,82.45,-13.45,-19.49,0.58,119.0
+2022,CDG-DXB,Paris-Dubai,Europe-ME,158.8,156.58,2.22,1.4,0.84,190.0
+2020,ATL-LAX,Atlanta-Los Angeles,North America,59.4,81.14,-21.74,-36.6,1.14,52.0
+2021,ATL-LAX,Atlanta-Los Angeles,North America,150.3,179.61,-29.31,-19.5,1.87,80.0
+2022,ATL-LAX,Atlanta-Los Angeles,North America,375.6,370.34,5.26,1.4,2.72,138.0
+2020,JFK-LAX,New York-Los Angeles,North America,51.5,70.35,-18.85,-36.6,0.81,64.0
+2021,JFK-LAX,New York-Los Angeles,North America,132.0,157.74,-25.74,-19.5,1.21,109.0
+2022,JFK-LAX,New York-Los Angeles,North America,299.8,295.6,4.2,1.4,1.84,163.0
+2020,ORD-LGA,Chicago-New York,North America,60.1,79.99,-19.89,-33.09,1.96,31.0
+2021,ORD-LGA,Chicago-New York,North America,151.4,175.62,-24.22,-16.0,3.27,46.0
+2020,YYZ-YVR,Toronto-Vancouver,North America,46.7,63.79,-17.09,-36.6,0.9,52.0
+2021,YYZ-YVR,Toronto-Vancouver,North America,135.8,162.28,-26.48,-19.5,1.44,95.0
+2022,YYZ-YVR,Toronto-Vancouver,North America,328.9,324.3,4.6,1.4,2.38,138.0
+2020,MEX-CUN,Mexico City-Cancun,Latin America,72.4,96.36,-23.96,-33.09,2.48,29.0
+2021,MEX-CUN,Mexico City-Cancun,Latin America,197.9,229.56,-31.66,-16.0,4.03,49.0
+2020,GRU-GIG,Sao Paulo-Rio,Latin America,40.8,54.3,-13.5,-33.09,1.92,21.0
+2021,GRU-GIG,Sao Paulo-Rio,Latin America,96.3,111.71,-15.41,-16.0,3.16,30.0
+2020,BOG-LIM,Bogota-Lima,Latin America,64.2,85.45,-21.25,-33.1,1.81,36.0
+2021,BOG-LIM,Bogota-Lima,Latin America,185.3,214.95,-29.65,-16.0,2.84,65.0
+2020,NRT-HNL,Tokyo-Honolulu,Pacific,65.5,89.47,-23.97,-36.6,0.73,90.0
+2021,NRT-HNL,Tokyo-Honolulu,Pacific,205.9,246.05,-40.15,-19.5,1.39,148.0
+2022,NRT-HNL,Tokyo-Honolulu,Pacific,475.9,469.24,6.66,1.4,2.08,229.0
+2020,LAX-SYD,Los Angeles-Sydney,Pacific,69.5,94.94,-25.44,-36.6,0.41,171.0
+2021,LAX-SYD,Los Angeles-Sydney,Pacific,183.2,218.92,-35.72,-19.5,0.69,267.0
+2022,LAX-SYD,Los Angeles-Sydney,Pacific,405.3,399.63,5.67,1.4,1.02,396.0
+2020,HKG-SFO,Hong Kong-San Francisco,Pacific,80.1,109.42,-29.32,-36.6,0.57,140.0
+2021,HKG-SFO,Hong Kong-San Francisco,Pacific,216.7,258.96,-42.26,-19.5,0.92,235.0
+2022,HKG-SFO,Hong Kong-San Francisco,Pacific,516.1,508.87,7.23,1.4,1.49,346.0
+2020,ICN-LAX,Seoul-Los Angeles,Pacific,60.7,82.92,-22.22,-36.61,0.52,118.0
+2021,ICN-LAX,Seoul-Los Angeles,Pacific,189.4,226.33,-36.93,-19.5,0.91,208.0
+2022,ICN-LAX,Seoul-Los Angeles,Pacific,486.6,479.79,6.81,1.4,1.39,351.0
+2020,JNB-LHR,Johannesburg-London,Africa-Europe,85.7,117.07,-31.37,-36.6,0.68,126.0
+2021,JNB-LHR,Johannesburg-London,Africa-Europe,215.8,257.88,-42.08,-19.5,1.05,205.0
+2022,JNB-LHR,Johannesburg-London,Africa-Europe,515.5,508.28,7.22,1.4,1.67,308.0
+2020,CAI-RUH,Cairo-Riyadh,MENA,98.8,131.5,-32.7,-33.1,3.23,31.0
+2021,CAI-RUH,Cairo-Riyadh,MENA,308.6,357.98,-49.38,-16.0,5.65,55.0
+2020,LOS-LHR,Lagos-London,Africa-Europe,53.3,72.81,-19.51,-36.6,0.77,69.0
+2021,LOS-LHR,Lagos-London,Africa-Europe,155.9,186.3,-30.4,-19.5,1.23,127.0
+2022,LOS-LHR,Lagos-London,Africa-Europe,331.0,326.37,4.63,1.4,1.81,182.0
+2020,BOM-LHR,Mumbai-London,Asia-Europe,41.1,56.14,-15.04,-36.59,0.4,102.0
+2021,BOM-LHR,Mumbai-London,Asia-Europe,106.5,127.27,-20.77,-19.5,0.63,169.0
+2022,BOM-LHR,Mumbai-London,Asia-Europe,233.0,229.74,3.26,1.4,1.02,228.0
+2020,FRA-SIN,Frankfurt-Singapore,Europe-Asia,40.5,55.32,-14.82,-36.59,0.34,120.0
+2021,FRA-SIN,Frankfurt-Singapore,Europe-Asia,132.3,158.1,-25.8,-19.5,0.56,238.0
+2022,FRA-SIN,Frankfurt-Singapore,Europe-Asia,272.7,268.88,3.82,1.4,0.82,332.0
+2020,AMS-BKK,Amsterdam-Bangkok,Europe-Asia,90.8,124.03,-33.23,-36.6,0.68,133.0
+2021,AMS-BKK,Amsterdam-Bangkok,Europe-Asia,224.5,268.28,-43.78,-19.5,1.07,210.0
+2022,AMS-BKK,Amsterdam-Bangkok,Europe-Asia,582.3,574.15,8.15,1.4,1.64,355.0
+2020,ICN-NRT,Seoul-Tokyo,Asia,45.4,60.43,-15.03,-33.11,1.47,31.0
+2021,ICN-NRT,Seoul-Tokyo,Asia,108.7,126.09,-17.39,-16.0,2.25,48.0
+2020,BKK-SIN,Bangkok-Singapore,Asia,75.4,100.36,-24.96,-33.1,2.43,31.0
+2021,BKK-SIN,Bangkok-Singapore,Asia,224.3,260.19,-35.89,-16.0,4.08,55.0
+2020,SYD-AKL,Sydney-Auckland,Oceania,46.9,62.42,-15.52,-33.09,1.22,39.0
+2021,SYD-AKL,Sydney-Auckland,Oceania,129.3,149.99,-20.69,-16.0,1.93,67.0
+2020,SVO-AER,Moscow-Sochi,Eurasia,43.1,57.37,-14.27,-33.11,1.39,31.0
+2021,SVO-AER,Moscow-Sochi,Eurasia,105.5,122.38,-16.88,-16.0,2.38,44.0
+2020,IST-AYT,Istanbul-Antalya,Europe,51.5,68.55,-17.05,-33.11,2.53,20.0
+2021,IST-AYT,Istanbul-Antalya,Europe,151.9,176.2,-24.3,-16.0,4.33,35.0
+2020,HND-SIN,Tokyo-Singapore,Asia,100.3,137.01,-36.71,-36.6,1.17,85.0
+2021,HND-SIN,Tokyo-Singapore,Asia,238.4,284.89,-46.49,-19.5,1.97,121.0
+2022,HND-SIN,Tokyo-Singapore,Asia,494.0,487.08,6.92,1.4,2.75,179.0
+2020,JFK-MIA,New York-Miami,North America,35.3,46.98,-11.68,-33.09,0.99,36.0
+2021,JFK-MIA,New York-Miami,North America,92.4,107.18,-14.78,-16.0,1.74,53.0
