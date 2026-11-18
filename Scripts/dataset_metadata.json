@@ -1,0 +1,834 @@
+[
+  {
+    "file_name": "airlines.csv",
+    "relative_path": "data/airports_airlines_planes/airlines.csv",
+    "size_kb": 314.47,
+    "rows": 6162,
+    "columns_count": 8,
+    "temporal_coverage": "N/A",
+    "columns": [
+      {
+        "name": "Airline ID",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "-1"
+      },
+      {
+        "name": "Name",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "Unknown"
+      },
+      {
+        "name": "Alias",
+        "dtype": "object",
+        "null_count": 506,
+        "sample": "\\N"
+      },
+      {
+        "name": "IATA",
+        "dtype": "object",
+        "null_count": 4627,
+        "sample": "-"
+      },
+      {
+        "name": "ICAO",
+        "dtype": "object",
+        "null_count": 87,
+        "sample": "GNL"
+      },
+      {
+        "name": "Callsign",
+        "dtype": "object",
+        "null_count": 808,
+        "sample": "\\N"
+      },
+      {
+        "name": "Country",
+        "dtype": "object",
+        "null_count": 15,
+        "sample": "\\N"
+      },
+      {
+        "name": "Active",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "Y"
+      }
+    ]
+  },
+  {
+    "file_name": "airplanes.csv",
+    "relative_path": "data/airports_airlines_planes/airplanes.csv",
+    "size_kb": 6.77,
+    "rows": 246,
+    "columns_count": 3,
+    "temporal_coverage": "N/A",
+    "columns": [
+      {
+        "name": "Name",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "Aerospatiale (Nord) 262"
+      },
+      {
+        "name": "IATA code",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "ND2"
+      },
+      {
+        "name": "ICAO code",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "N262"
+      }
+    ]
+  },
+  {
+    "file_name": "airports.csv",
+    "relative_path": "data/airports_airlines_planes/airports.csv",
+    "size_kb": 979.36,
+    "rows": 7698,
+    "columns_count": 14,
+    "temporal_coverage": "N/A",
+    "columns": [
+      {
+        "name": "Airport ID",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "1"
+      },
+      {
+        "name": "Name",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "Goroka Airport"
+      },
+      {
+        "name": "City",
+        "dtype": "object",
+        "null_count": 49,
+        "sample": "Goroka"
+      },
+      {
+        "name": "Country",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "Papua New Guinea"
+      },
+      {
+        "name": "IATA",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "GKA"
+      },
+      {
+        "name": "ICAO",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "AYGA"
+      },
+      {
+        "name": "Latitude",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "-6.0816898345900015"
+      },
+      {
+        "name": "Longitude",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "145.391998291"
+      },
+      {
+        "name": "Altitude",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "5282"
+      },
+      {
+        "name": "Timezone",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "10"
+      },
+      {
+        "name": "DST",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "U"
+      },
+      {
+        "name": "Tz database time zone",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "Pacific/Port_Moresby"
+      },
+      {
+        "name": "Type",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "airport"
+      },
+      {
+        "name": "Source",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "OurAirports"
+      }
+    ]
+  },
+  {
+    "file_name": "routes.csv",
+    "relative_path": "data/airports_airlines_planes/routes.csv",
+    "size_kb": 2255.47,
+    "rows": 67663,
+    "columns_count": 9,
+    "temporal_coverage": "N/A",
+    "columns": [
+      {
+        "name": "Airline",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "2B"
+      },
+      {
+        "name": "Airline ID",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "410"
+      },
+      {
+        "name": "Source airport",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "AER"
+      },
+      {
+        "name": "Source airport ID",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "2965"
+      },
+      {
+        "name": "Destination airport",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "KZN"
+      },
+      {
+        "name": "Destination airport ID",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "2990"
+      },
+      {
+        "name": "Codeshare",
+        "dtype": "object",
+        "null_count": 53066,
+        "sample": "Y"
+      },
+      {
+        "name": "Stops",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "0"
+      },
+      {
+        "name": "Equipment",
+        "dtype": "object",
+        "null_count": 18,
+        "sample": "CR2"
+      }
+    ]
+  },
+  {
+    "file_name": "airline_financials.csv",
+    "relative_path": "data/global_aviation_2010_2026/airline_financials.csv",
+    "size_kb": 34.25,
+    "rows": 497,
+    "columns_count": 12,
+    "temporal_coverage": "2010 - 2026",
+    "columns": [
+      {
+        "name": "year",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "2010"
+      },
+      {
+        "name": "airline_name",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "Delta Air Lines"
+      },
+      {
+        "name": "iata_code",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "DAL"
+      },
+      {
+        "name": "country_iso3",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "USA"
+      },
+      {
+        "name": "region",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "North America"
+      },
+      {
+        "name": "business_model",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "legacy"
+      },
+      {
+        "name": "revenue_usd_bn",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "32.09"
+      },
+      {
+        "name": "operating_margin_pct",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "3.4"
+      },
+      {
+        "name": "operating_income_usd_bn",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "1.09"
+      },
+      {
+        "name": "passengers_carried_m",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "48.1"
+      },
+      {
+        "name": "load_factor_pct",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "84.5"
+      },
+      {
+        "name": "fleet_size_est",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "160"
+      }
+    ]
+  },
+  {
+    "file_name": "aviation_incidents.csv",
+    "relative_path": "data/global_aviation_2010_2026/aviation_incidents.csv",
+    "size_kb": 4.81,
+    "rows": 40,
+    "columns_count": 15,
+    "temporal_coverage": "2010-04-10 to 2026-02-15",
+    "columns": [
+      {
+        "name": "incident_id",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "AV001"
+      },
+      {
+        "name": "date",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "2010-04-10"
+      },
+      {
+        "name": "year",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "2010"
+      },
+      {
+        "name": "month",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "4"
+      },
+      {
+        "name": "flight_number",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "PLF101"
+      },
+      {
+        "name": "airline",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "Polish AF"
+      },
+      {
+        "name": "aircraft_type",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "Tu-154"
+      },
+      {
+        "name": "severity",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "fatal_crash"
+      },
+      {
+        "name": "fatalities",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "96"
+      },
+      {
+        "name": "location",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "Smolensk, Russia"
+      },
+      {
+        "name": "description",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "Polish presidential plane crash"
+      },
+      {
+        "name": "is_fatal",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "1"
+      },
+      {
+        "name": "is_geopolitical",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "0"
+      },
+      {
+        "name": "is_boeing",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "0"
+      },
+      {
+        "name": "is_airbus",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "0"
+      }
+    ]
+  },
+  {
+    "file_name": "fleet_orders.csv",
+    "relative_path": "data/global_aviation_2010_2026/fleet_orders.csv",
+    "size_kb": 3.93,
+    "rows": 86,
+    "columns_count": 10,
+    "temporal_coverage": "2010 - 2026",
+    "columns": [
+      {
+        "name": "year",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "2010"
+      },
+      {
+        "name": "manufacturer",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "Airbus"
+      },
+      {
+        "name": "aircraft_family",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "A320 family"
+      },
+      {
+        "name": "orders_gross",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "452"
+      },
+      {
+        "name": "orders_net",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "452"
+      },
+      {
+        "name": "deliveries",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "401"
+      },
+      {
+        "name": "backlog_end_of_year",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "2440"
+      },
+      {
+        "name": "is_widebody",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "0"
+      },
+      {
+        "name": "is_narrowbody",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "1"
+      },
+      {
+        "name": "is_regional",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "0"
+      }
+    ]
+  },
+  {
+    "file_name": "passenger_traffic.csv",
+    "relative_path": "data/global_aviation_2010_2026/passenger_traffic.csv",
+    "size_kb": 49.87,
+    "rows": 1176,
+    "columns_count": 7,
+    "temporal_coverage": "2010 - 2026",
+    "columns": [
+      {
+        "name": "year_month",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "2010-01"
+      },
+      {
+        "name": "year",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "2010"
+      },
+      {
+        "name": "month",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "1"
+      },
+      {
+        "name": "region",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "North America"
+      },
+      {
+        "name": "rpk_billions",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "61.73"
+      },
+      {
+        "name": "ask_billions",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "76.45"
+      },
+      {
+        "name": "load_factor_pct",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "80.8"
+      }
+    ]
+  },
+  {
+    "file_name": "route_performance.csv",
+    "relative_path": "data/global_aviation_2010_2026/route_performance.csv",
+    "size_kb": 34.4,
+    "rows": 400,
+    "columns_count": 11,
+    "temporal_coverage": "2015 - 2026",
+    "columns": [
+      {
+        "name": "year",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "2015"
+      },
+      {
+        "name": "route",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "Jeju-Seoul"
+      },
+      {
+        "name": "origin_iata",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "CJU"
+      },
+      {
+        "name": "destination_iata",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "GMP"
+      },
+      {
+        "name": "distance_km",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "451"
+      },
+      {
+        "name": "region",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "Asia"
+      },
+      {
+        "name": "main_airlines",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "Korean Air, Asiana, JeJu Air"
+      },
+      {
+        "name": "annual_passengers_m",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "6.37"
+      },
+      {
+        "name": "avg_fare_usd",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "50.0"
+      },
+      {
+        "name": "weekly_frequency_est",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "19"
+      },
+      {
+        "name": "annual_revenue_usd_m",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "320.5"
+      }
+    ]
+  },
+  {
+    "file_name": "airline_route_profitability.csv",
+    "relative_path": "data/route_profitability/airline_route_profitability.csv",
+    "size_kb": 1982.16,
+    "rows": 7974,
+    "columns_count": 33,
+    "temporal_coverage": "2024-01-01 to 2024-12-31",
+    "columns": [
+      {
+        "name": "Flight_Number",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "EK8960"
+      },
+      {
+        "name": "Flight_Date",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "2024-12-20"
+      },
+      {
+        "name": "Origin",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "DXB"
+      },
+      {
+        "name": "Destination",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "ORD"
+      },
+      {
+        "name": "Route",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "DXB-ORD"
+      },
+      {
+        "name": "Aircraft_Type",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "Boeing 777-300ER"
+      },
+      {
+        "name": "Aircraft_Capacity",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "396"
+      },
+      {
+        "name": "Passengers",
+        "dtype": "int64",
+        "null_count": 0,
+        "sample": "308"
+      },
+      {
+        "name": "Load_Factor",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "0.7791"
+      },
+      {
+        "name": "Flight_Hours",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "14.5"
+      },
+      {
+        "name": "Season",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "Peak"
+      },
+      {
+        "name": "Route_Category",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "Long Haul"
+      },
+      {
+        "name": "Demand_Level",
+        "dtype": "object",
+        "null_count": 0,
+        "sample": "Medium"
+      },
+      {
+        "name": "Ticket_Revenue",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "410785.49"
+      },
+      {
+        "name": "Ancillary_Revenue",
+        "dtype": "float64",
+        "null_count": 271,
+        "sample": "53431.94"
+      },
+      {
+        "name": "Total_Revenue",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "464217.43"
+      },
+      {
+        "name": "Fuel_Cost",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "131033.88"
+      },
+      {
+        "name": "Maintenance_Cost",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "50750.0"
+      },
+      {
+        "name": "Crew_Cost",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "21750.0"
+      },
+      {
+        "name": "Depreciation_Cost",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "65250.0"
+      },
+      {
+        "name": "Insurance_Cost",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "11600.0"
+      },
+      {
+        "name": "Airport_Fees",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "4262.3"
+      },
+      {
+        "name": "Catering_Cost",
+        "dtype": "float64",
+        "null_count": 265,
+        "sample": "5185.86"
+      },
+      {
+        "name": "Handling_Cost",
+        "dtype": "float64",
+        "null_count": 256,
+        "sample": "4460.11"
+      },
+      {
+        "name": "Navigation_Fees",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "10636.9"
+      },
+      {
+        "name": "Sales_Distribution_Cost",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "78193.6"
+      },
+      {
+        "name": "Passenger_Service_Cost",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "5100.09"
+      },
+      {
+        "name": "Overhead_Cost",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "88545.73"
+      },
+      {
+        "name": "Marketing_Cost",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "25883.92"
+      },
+      {
+        "name": "IT_Systems_Cost",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "3769.37"
+      },
+      {
+        "name": "Total_Cost",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "506421.77"
+      },
+      {
+        "name": "Profit",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "-42204.34"
+      },
+      {
+        "name": "Profit_Margin",
+        "dtype": "float64",
+        "null_count": 0,
+        "sample": "-9.09"
+      }
+    ]
+  }
+]
