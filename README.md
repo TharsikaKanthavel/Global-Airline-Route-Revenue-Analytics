@@ -1,9 +1,13 @@
 ✈️ Global Airline Route & Revenue Analytics
+
 A comprehensive Data Warehousing and Business Intelligence project that analyzes global airline operations, passenger demand, route profitability, and revenue trends using modern ETL, dimensional modeling, SQL, and Power BI techniques.
+
 🚀 Project Overview
 This project focuses on designing and implementing an aviation data warehouse by integrating multiple airline datasets from 2010–2026. The solution follows the Kimball dimensional modeling approach, enabling efficient analytical reporting and business intelligence for airline performance analysis.
 
 The project includes data extraction, transformation, and loading (ETL), star schema design, SQL-based querying, and interactive Power BI dashboards for decision support.
+
+
 🛠️ Technologies Used
 - Python
 - Pandas
@@ -15,6 +19,8 @@ The project includes data extraction, transformation, and loading (ETL), star sc
 - ETL Pipeline
 - Star Schema
 - OLAP
+
+  
 📊 Features
 - Built a complete ETL pipeline to clean, transform, and integrate airline datasets.
 - Designed a dimensional data warehouse using Fact and Dimension tables.
@@ -26,6 +32,8 @@ The project includes data extraction, transformation, and loading (ETL), star sc
   - Roll-up
   - Slice
   - Dice
+
+    
 📈 Dashboard Insights
 The dashboards provide insights into:
 - ✈️ Route Profitability Analysis
@@ -35,6 +43,8 @@ The dashboards provide insights into:
 - 🛩️ Aircraft Fleet Utilization
 - 🌍 Airport & Route Performance
 - 📅 Year-over-Year Business Growth
+
+  
 🏗️ Data Warehouse Architecture
 The project implements a dimensional data warehouse consisting of:
 - ETL Pipeline
@@ -45,6 +55,8 @@ The project implements a dimensional data warehouse consisting of:
 - Dimension Tables
 - Departmental Data Marts
 - Power BI Reporting Layer
+
+  
 📚 Learning Outcomes
 Through this project, I gained practical experience in:
 - Data Warehousing
@@ -58,5 +70,7 @@ Through this project, I gained practical experience in:
 - DAX Calculations
 - OLAP Analysis
 - Data-Driven Decision Making
+
+  
 🎯 Project Objective
 The primary objective of this project is to demonstrate how a modern data warehouse and business intelligence solution can transform raw airline operational data into meaningful insights that support strategic business decisions, improve operational efficiency, and enhance revenue analysis.
